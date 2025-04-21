@@ -1,0 +1,15 @@
+name: retrieve
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy==1.26.4
+      - packaging
+      - faiss-gpu
+      - sentence-transformers
+      - rank-bm25
+      - datasets
+      - tqdm
+      - scikit-learn

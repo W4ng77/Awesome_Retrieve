@@ -1,0 +1,5 @@
+[
+    {"dataset": "hotpotqa", "retriever": "bm25", "embedding_model": "None", "gpu": false},
+    {"dataset": "hotpotqa", "retriever": "faiss", "embedding_model": "sentence-transformers/all-MiniLM-L6-v2", "gpu": true},
+    {"dataset": "hotpotqa", "retriever": "dot", "embedding_model": "sentence-transformers/all-MiniLM-L6-v2", "gpu": true}
+]
