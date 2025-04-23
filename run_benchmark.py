@@ -7,7 +7,7 @@ from tqdm import tqdm
 from transformers import AutoTokenizer
 from dataset.load_hotpotqa import load_hotpotqa_subset
 from retrievers import RETRIEVER_CLASSES
-
+import json
 
 def compute_f1(prediction: str, reference: str) -> float:
     pred_tokens = prediction.lower().split()
@@ -25,9 +25,9 @@ def compute_best_f1(predictions, reference):
     return max(scores) if scores else 0.0
 
 
-def load_dataset(name, num_samples=200):
+def load_dataset(name, num_samples=200, chunk_size=16, embedding_model="sentence-transformers/all-MiniLM-L6-v2"):
     if name == "hotpotqa":
-        ds = load_hotpotqa_subset(num_samples=num_samples)
+        ds = load_hotpotqa_subset(num_samples=num_samples, embedding_model=embedding_model, chunk_size=chunk_size)
         for item in ds:
             item["gold"] = item.get("answers", [""])[0]
         return ds
@@ -35,9 +35,11 @@ def load_dataset(name, num_samples=200):
         raise ValueError(f"Unsupported dataset: {name}")
 
 
-def benchmark_retriever(dataset_name, retriever_name, embedding_model, num_samples=200, use_gpu=True):
+
+
+def benchmark_retriever(dataset_name, retriever_name, embedding_model, num_samples=200, use_gpu=True, chunk_size=16):
     os.environ["EMBEDDING_MODEL"] = embedding_model
-    data = load_dataset(dataset_name, num_samples=num_samples)
+    data = load_dataset(dataset_name, num_samples=num_samples, chunk_size=chunk_size, embedding_model=embedding_model)
 
     tokenizer = AutoTokenizer.from_pretrained(embedding_model)
 
@@ -50,7 +52,7 @@ def benchmark_retriever(dataset_name, retriever_name, embedding_model, num_sampl
     query_embed_time = 0.0
     search_time = 0.0
 
-    print(f"\n--- Running {retriever_name} with model {embedding_model} on {dataset_name} ---")
+    print(f"\n--- Running {retriever_name} with model {embedding_model} on {dataset_name} | chunk_size={chunk_size} ---")
     for sample in tqdm(data):
         query = sample["query"]
         context_chunks = sample["context"]
@@ -73,19 +75,37 @@ def benchmark_retriever(dataset_name, retriever_name, embedding_model, num_sampl
     print(f"\nAvg F1@Top10: {avg_f1:.2f}")
     print(f"Embedding time: {embed_time:.2f}s | Indexing time: {index_time:.2f}s | Query Embedding: {query_embed_time:.2f}s | Search: {search_time:.2f}s")
 
-    result_file = "benchmark_results.csv"
-    write_header = not os.path.exists(result_file)
-    with open(result_file, mode="a", newline="") as f:
-        writer = csv.writer(f)
-        if write_header:
-            writer.writerow([
-                "dataset", "retriever", "embedding_model", "samples", "f1_top10",
-                "embedding_time", "indexing_time", "query_embed_time", "search_time"
-            ])
-        writer.writerow([
-            dataset_name, retriever_name, embedding_model, num_samples, round(avg_f1, 4),
-            round(embed_time, 2), round(index_time, 2), round(query_embed_time, 2), round(search_time, 2)
-        ])
+    # 保存结果到 JSON 文件
+    result_file = "benchmark_results.json"
+    result_data = {
+        "dataset": dataset_name,
+        "retriever": retriever_name,
+        "embedding_model": embedding_model,
+        "samples": num_samples,
+        "chunk_size": chunk_size,
+        "f1_top10": round(avg_f1, 4),
+        "embedding_time": round(embed_time, 2),
+        "indexing_time": round(index_time, 2),
+        "query_embed_time": round(query_embed_time, 2),
+        "search_time": round(search_time, 2)
+    }
+
+    # 读取现有数据（如果有）
+    if os.path.exists(result_file):
+        with open(result_file, "r") as f:
+            try:
+                all_results = json.load(f)
+            except json.JSONDecodeError:
+                all_results = []
+    else:
+        all_results = []
+
+    # 添加新结果
+    all_results.append(result_data)
+
+    # 写回 JSON 文件
+    with open(result_file, "w") as f:
+        json.dump(all_results, f, indent=2)
 
 
 if __name__ == "__main__":
@@ -99,6 +119,7 @@ if __name__ == "__main__":
         parser.add_argument("--embedding_model", type=str, default="sentence-transformers/all-MiniLM-L6-v2")
         parser.add_argument("--samples", type=int, default=200)
         parser.add_argument("--gpu", action="store_true")
+        parser.add_argument("--chunk_size", type=int, default=16)
         args = parser.parse_args()
 
         benchmark_retriever(
@@ -106,5 +127,6 @@ if __name__ == "__main__":
             retriever_name=args.retriever,
             embedding_model=args.embedding_model,
             num_samples=args.samples,
-            use_gpu=args.gpu
+            use_gpu=args.gpu,
+            chunk_size=args.chunk_size
         )
