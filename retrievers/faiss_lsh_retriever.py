@@ -28,12 +28,12 @@ class FaissLSHRetriever(BaseRetriever):
         self._index_time = time.time() - t1
 
     def retrieve(self, query, context_chunks, top_k=10):
-        t0 = time.time()
+        t0 = time.perf_counter()
         query_vec = self.encoder.encode([query], convert_to_numpy=True, normalize=True)
-        self._query_embed_time = time.time() - t0
+        self._query_embed_time = time.perf_counter() - t0
 
-        t1 = time.time()
+        t1 = time.perf_counter()
         D, I = self.index.search(query_vec.astype(np.float32), top_k)
-        self._search_time = time.time() - t1
-
+        self._search_time = time.perf_counter() - t1
+        print(self._search_time)
         return [self.context_chunks[i] for i in I[0] if i != -1]

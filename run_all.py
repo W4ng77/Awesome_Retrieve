@@ -41,4 +41,4 @@ for chunk_size in chunk_sizes:
 # summary_df = pd.concat(dfs, ignore_index=True)
 # summary_df.to_csv("benchmark_summary.csv", index=False)
 
-print(f"\n✅ All results saved to benchmark_summary.csv with {len(summary_df)} rows.")
+#print(f"\n✅ All results saved to benchmark_summary.csv with {len(summary_df)} rows.")

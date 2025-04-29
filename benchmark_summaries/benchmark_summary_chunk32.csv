@@ -1,0 +1,7 @@
+Retriever,F1@Top10,Embedding Time (s),Indexing Time (s),Query Embed Time (s),Search Time (s),Chunking Total Time (s),Avg Time per Example (ms),Samples
+bm25,0.0767,0.0,0.04,0.0,0.08,4.0,19.98,200
+dot,0.0766,1.11,0.0,0.08,0.0,3.89,19.46,200
+faiss,0.0766,0.72,0.18,0.05,0.0,4.02,20.12,200
+lsh_annoy,0.0776,1.07,0.04,0.07,0.0,3.88,19.42,200
+lsh_faiss,0.0673,1.06,0.02,0.07,0.0,3.93,19.64,200
+lsh_nmslib,0.0766,1.09,0.07,0.08,0.0,3.94,19.69,200

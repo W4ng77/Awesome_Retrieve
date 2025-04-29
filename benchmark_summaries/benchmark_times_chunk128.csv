@@ -1,0 +1,7 @@
+Retriever,Embedding Time (s),Indexing Time (s),Query Embed Time (s),Search Time (s)
+bm25,0.0,0.029,0.0,0.018
+dot,0.541,0.0,0.109,0.0
+faiss,0.2985,0.1945,0.048,0.0055
+lsh_annoy,0.552,0.0135,0.1075,0.0
+lsh_faiss,0.552,0.01,0.1075,0.0
+lsh_nmslib,0.557,0.03,0.1075,0.0

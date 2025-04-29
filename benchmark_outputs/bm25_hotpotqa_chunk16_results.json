@@ -1,0 +1,302 @@
+[
+  {
+    "sample_idx": 0,
+    "queries": 10,
+    "context_chunks": 7550,
+    "f1_top10": 0.1102,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.16
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 1,
+    "queries": 9,
+    "context_chunks": 7284,
+    "f1_top10": 0.0948,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.15
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 2,
+    "queries": 11,
+    "context_chunks": 7512,
+    "f1_top10": 0.1948,
+    "embedding_time": 0.0,
+    "indexing_time": 0.2,
+    "query_embed_time": 0.0,
+    "search_time": 0.19
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 3,
+    "queries": 9,
+    "context_chunks": 8001,
+    "f1_top10": 0.1238,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.15
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 4,
+    "queries": 10,
+    "context_chunks": 8004,
+    "f1_top10": 0.1248,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.16
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 5,
+    "queries": 10,
+    "context_chunks": 7478,
+    "f1_top10": 0.1195,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.18
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 6,
+    "queries": 10,
+    "context_chunks": 7759,
+    "f1_top10": 0.044,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.13
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 7,
+    "queries": 12,
+    "context_chunks": 8107,
+    "f1_top10": 0.1237,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.16
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 8,
+    "queries": 10,
+    "context_chunks": 7719,
+    "f1_top10": 0.0398,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.17
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 9,
+    "queries": 9,
+    "context_chunks": 7789,
+    "f1_top10": 0.0449,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.13
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 10,
+    "queries": 9,
+    "context_chunks": 7793,
+    "f1_top10": 0.1132,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.15
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 11,
+    "queries": 10,
+    "context_chunks": 7891,
+    "f1_top10": 0.115,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.16
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 12,
+    "queries": 12,
+    "context_chunks": 7600,
+    "f1_top10": 0.1344,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.17
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 13,
+    "queries": 10,
+    "context_chunks": 7706,
+    "f1_top10": 0.0634,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.16
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 14,
+    "queries": 9,
+    "context_chunks": 8053,
+    "f1_top10": 0.0428,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.14
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 15,
+    "queries": 11,
+    "context_chunks": 7934,
+    "f1_top10": 0.138,
+    "embedding_time": 0.0,
+    "indexing_time": 0.18,
+    "query_embed_time": 0.0,
+    "search_time": 0.19
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 16,
+    "queries": 10,
+    "context_chunks": 7231,
+    "f1_top10": 0.0959,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.16
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 17,
+    "queries": 9,
+    "context_chunks": 7270,
+    "f1_top10": 0.1363,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.12
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 18,
+    "queries": 11,
+    "context_chunks": 8073,
+    "f1_top10": 0.0984,
+    "embedding_time": 0.0,
+    "indexing_time": 0.04,
+    "query_embed_time": 0.0,
+    "search_time": 0.15
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  },
+  {
+    "sample_idx": 19,
+    "queries": 9,
+    "context_chunks": 5424,
+    "f1_top10": 0.0923,
+    "embedding_time": 0.0,
+    "indexing_time": 0.03,
+    "query_embed_time": 0.0,
+    "search_time": 0.09
+  },
+  {
+    "chunking_total_time": 4.0951,
+    "chunking_avg_time_per_example": 20.48,
+    "total_examples_processed": 200
+  }
+]
