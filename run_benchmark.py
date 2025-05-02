@@ -127,6 +127,7 @@ def benchmark_retriever(dataset_name, retriever_name, embedding_model, num_sampl
     print(f"\n--- Running {retriever_name} with model {embedding_model} on {dataset_name} | chunk_size={chunk_size} ---")
 
     for sample_idx, sample in enumerate(tqdm(data)):
+        #import pdb; pdb.set_trace()
         queries = sample["queries"]
         context_chunks = sample["context"]
         reference_answers = sample["answers"]
@@ -160,10 +161,10 @@ def benchmark_retriever(dataset_name, retriever_name, embedding_model, num_sampl
             "queries": len(queries),
             "context_chunks": len(context_chunks),
             "f1_top10": round(avg_f1, 4),
-            "embedding_time": round(sample_embed_time, 2),
-            "indexing_time": round(sample_index_time, 2),
-            "query_embed_time": round(sample_query_embed_time, 2),
-            "search_time": round(sample_search_time, 2)
+            "embedding_time": round(sample_embed_time, 5),
+            "indexing_time": round(sample_index_time, 5),
+            "query_embed_time": round(sample_query_embed_time, 5),
+            "search_time": round(sample_search_time, 5)
         }
 
         overall_results.append(sample_result)

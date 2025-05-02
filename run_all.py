@@ -13,7 +13,8 @@ retrievers = [
     "lsh_nmslib",
 ]
 
-chunk_sizes = [16, 32, 64, 128]
+# chunk_sizes = [16, 32, 64, 128]
+chunk_sizes = [16]
 embedding_model = "sentence-transformers/all-MiniLM-L6-v2"
 dataset = "hotpotqa"
 samples = 200

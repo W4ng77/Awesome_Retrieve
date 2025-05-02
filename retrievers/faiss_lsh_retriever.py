@@ -10,7 +10,7 @@ from embedding_models.hf_transformer import HFTransformerEmbedding
 class FaissLSHRetriever(BaseRetriever):
     def __init__(self, model_name=None, use_gpu=True, hash_bits=128):
         super().__init__(model_name, use_gpu)
-        self.device = "cuda:0" if use_gpu and torch.cuda.is_available() else "cpu"
+        self.device = "cuda:7" if use_gpu and torch.cuda.is_available() else "cpu"
         model_name = model_name or os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
         self.encoder = HFTransformerEmbedding(model_name=model_name, device=self.device)
         self.hash_bits = hash_bits
