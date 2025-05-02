@@ -183,6 +183,9 @@ def benchmark_retriever(dataset_name, retriever_name, embedding_model, num_sampl
 
 if __name__ == "__main__":
     import sys
+    import os
+    os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
+
     if len(sys.argv) == 1:
         print("No arguments provided. Use run_all.py for batch benchmark or pass --retriever ...")
     else:
