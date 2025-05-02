@@ -1,0 +1,7 @@
+name: retrieve
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+prefix: /home/linrui/miniconda3/envs/retrieve
