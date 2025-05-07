@@ -1,0 +1,182 @@
+[
+  {
+    "length_split": "0k",
+    "accuracy": 0.97,
+    "total_queries": 100,
+    "hits": 97,
+    "embedding_time": 0.0,
+    "indexing_time": 1e-05,
+    "query_embed_time": 0.0,
+    "search_time": 2e-05
+  },
+  {
+    "chunking_total_time": 0.0208,
+    "chunking_avg_time_per_example": 0.21,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "1k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.0,
+    "indexing_time": 0.00024,
+    "query_embed_time": 0.0,
+    "search_time": 4e-05
+  },
+  {
+    "chunking_total_time": 0.111,
+    "chunking_avg_time_per_example": 1.11,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "2k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.0,
+    "indexing_time": 0.00057,
+    "query_embed_time": 0.0,
+    "search_time": 6e-05
+  },
+  {
+    "chunking_total_time": 0.2464,
+    "chunking_avg_time_per_example": 2.46,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "4k",
+    "accuracy": 0.99,
+    "total_queries": 100,
+    "hits": 99,
+    "embedding_time": 0.0,
+    "indexing_time": 0.0011,
+    "query_embed_time": 0.0,
+    "search_time": 0.00012
+  },
+  {
+    "chunking_total_time": 0.5478,
+    "chunking_avg_time_per_example": 5.48,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "8k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.0,
+    "indexing_time": 0.00227,
+    "query_embed_time": 0.0,
+    "search_time": 0.00022
+  },
+  {
+    "chunking_total_time": 1.1628,
+    "chunking_avg_time_per_example": 11.63,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "16k",
+    "accuracy": 0.99,
+    "total_queries": 100,
+    "hits": 99,
+    "embedding_time": 0.0,
+    "indexing_time": 0.00442,
+    "query_embed_time": 0.0,
+    "search_time": 0.00043
+  },
+  {
+    "chunking_total_time": 2.2115,
+    "chunking_avg_time_per_example": 22.12,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "32k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.0,
+    "indexing_time": 0.00878,
+    "query_embed_time": 0.0,
+    "search_time": 0.00098
+  },
+  {
+    "chunking_total_time": 4.5088,
+    "chunking_avg_time_per_example": 45.09,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "64k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.0,
+    "indexing_time": 0.01621,
+    "query_embed_time": 0.0,
+    "search_time": 0.00184
+  },
+  {
+    "chunking_total_time": 10.006,
+    "chunking_avg_time_per_example": 100.06,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "128k",
+    "accuracy": 0.98,
+    "total_queries": 100,
+    "hits": 98,
+    "embedding_time": 0.0,
+    "indexing_time": 0.03459,
+    "query_embed_time": 0.0,
+    "search_time": 0.00366
+  },
+  {
+    "chunking_total_time": 21.6789,
+    "chunking_avg_time_per_example": 216.79,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "256k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.0,
+    "indexing_time": 0.06845,
+    "query_embed_time": 0.0,
+    "search_time": 0.00764
+  },
+  {
+    "chunking_total_time": 46.5669,
+    "chunking_avg_time_per_example": 465.67,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "512k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.0,
+    "indexing_time": 0.12829,
+    "query_embed_time": 0.0,
+    "search_time": 0.01474
+  },
+  {
+    "chunking_total_time": 113.9991,
+    "chunking_avg_time_per_example": 1139.99,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "1M",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.0,
+    "indexing_time": 0.61619,
+    "query_embed_time": 0.0,
+    "search_time": 0.03243
+  },
+  {
+    "chunking_total_time": 250.9748,
+    "chunking_avg_time_per_example": 2509.75,
+    "total_examples_processed": 100
+  }
+]
