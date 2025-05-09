@@ -1,0 +1,167 @@
+[
+  {
+    "length_split": "1k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.00554,
+    "indexing_time": 0.00241,
+    "query_embed_time": 0.00365,
+    "search_time": 0.00032
+  },
+  {
+    "chunking_total_time": 0.1119,
+    "chunking_avg_time_per_example": 1.12,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "2k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.00664,
+    "indexing_time": 0.00272,
+    "query_embed_time": 0.00418,
+    "search_time": 0.0002
+  },
+  {
+    "chunking_total_time": 0.2544,
+    "chunking_avg_time_per_example": 2.54,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "4k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.01011,
+    "indexing_time": 0.00266,
+    "query_embed_time": 0.00366,
+    "search_time": 0.0002
+  },
+  {
+    "chunking_total_time": 0.5497,
+    "chunking_avg_time_per_example": 5.5,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "8k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.01896,
+    "indexing_time": 0.00306,
+    "query_embed_time": 0.00422,
+    "search_time": 0.0002
+  },
+  {
+    "chunking_total_time": 1.1806,
+    "chunking_avg_time_per_example": 11.81,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "16k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.03528,
+    "indexing_time": 0.00351,
+    "query_embed_time": 0.00369,
+    "search_time": 0.00023
+  },
+  {
+    "chunking_total_time": 2.281,
+    "chunking_avg_time_per_example": 22.81,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "32k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.07204,
+    "indexing_time": 0.00385,
+    "query_embed_time": 0.00409,
+    "search_time": 0.00334
+  },
+  {
+    "chunking_total_time": 4.6672,
+    "chunking_avg_time_per_example": 46.67,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "64k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.12773,
+    "indexing_time": 0.00384,
+    "query_embed_time": 0.00304,
+    "search_time": 0.0002
+  },
+  {
+    "chunking_total_time": 9.3786,
+    "chunking_avg_time_per_example": 93.79,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "128k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.26991,
+    "indexing_time": 0.00506,
+    "query_embed_time": 0.00302,
+    "search_time": 0.00021
+  },
+  {
+    "chunking_total_time": 20.7727,
+    "chunking_avg_time_per_example": 207.73,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "256k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 0.57,
+    "indexing_time": 0.0107,
+    "query_embed_time": 0.00384,
+    "search_time": 0.00042
+  },
+  {
+    "chunking_total_time": 48.595,
+    "chunking_avg_time_per_example": 485.95,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "512k",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 1.03839,
+    "indexing_time": 0.01441,
+    "query_embed_time": 0.00317,
+    "search_time": 0.00039
+  },
+  {
+    "chunking_total_time": 116.3112,
+    "chunking_avg_time_per_example": 1163.11,
+    "total_examples_processed": 100
+  },
+  {
+    "length_split": "1M",
+    "accuracy": 1.0,
+    "total_queries": 100,
+    "hits": 100,
+    "embedding_time": 2.05108,
+    "indexing_time": 0.03041,
+    "query_embed_time": 0.00326,
+    "search_time": 0.00211
+  },
+  {
+    "chunking_total_time": 254.7446,
+    "chunking_avg_time_per_example": 2547.45,
+    "total_examples_processed": 100
+  }
+]

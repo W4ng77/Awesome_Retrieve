@@ -29,7 +29,7 @@ class AnnoyLSHRetriever(BaseRetriever):
         self.context_chunks = context_chunks
         self._index_time = time.time() - t1
 
-    def retrieve(self, query, context_chunks, top_k=10):
+    def retrieve(self, query, top_k=10):
         t0 = time.time()
         query_vec = self.encoder.encode([query], convert_to_numpy=True, normalize=True)
         self._query_embed_time = time.time() - t0

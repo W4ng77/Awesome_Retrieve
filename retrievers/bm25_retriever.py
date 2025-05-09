@@ -14,7 +14,7 @@ class BM25Retriever(BaseRetriever):
         self._index_time = time.time() - t0
         self._embed_time = 0
 
-    def retrieve(self, query, context_chunks, top_k=10):
+    def retrieve(self,query,top_k=10):
         t0 = time.time()
         self._query_embed_time = 0
         scores = self.bm25.get_scores(query.split())

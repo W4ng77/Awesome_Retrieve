@@ -6,7 +6,7 @@ from .faiss_retriever import FaissRetriever
 from .faiss_lsh_retriever import FaissLSHRetriever
 from .annoy_lsh_retriever import AnnoyLSHRetriever
 from .nmslib_lsh_retriever import NMSLIBLSHRetriever
-from .scann_retriever import ScaNNRetriever
+# from .scann_retriever import ScaNNRetriever
 RETRIEVER_CLASSES = {
     "bm25": BM25Retriever,
     "dot": DotProductRetriever,
@@ -14,5 +14,5 @@ RETRIEVER_CLASSES = {
     "lsh_faiss": FaissLSHRetriever,
     "lsh_annoy": AnnoyLSHRetriever,
     "lsh_nmslib": NMSLIBLSHRetriever,
-    "scann": ScaNNRetriever,
+    # "scann": ScaNNRetriever,
 }

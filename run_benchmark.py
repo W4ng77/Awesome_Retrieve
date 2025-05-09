@@ -146,7 +146,7 @@ def benchmark_retriever(dataset_name, retriever_name, embedding_model, num_sampl
 
         # 对每个 query 检索
         for query, ref_answer in zip(queries, reference_answers):
-            retrieved = retriever.retrieve(query=query, context_chunks=context_chunks, top_k=10)
+            retrieved = retriever.retrieve(query=query, top_k=10)
             sample_query_embed_time += getattr(retriever, "_query_embed_time", 0.0)
             sample_search_time += getattr(retriever, "_search_time", 0.0)
 

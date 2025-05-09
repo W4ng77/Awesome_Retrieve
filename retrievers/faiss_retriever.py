@@ -9,7 +9,7 @@ import faiss
 class FaissRetriever(BaseRetriever):
     def __init__(self, model_name='sentence-transformers/all-MiniLM-L6-v2', use_gpu=True):
         super().__init__(model_name, use_gpu)
-        self.device = "cuda:2" if use_gpu and torch.cuda.is_available() else "cpu"
+        self.device = "cuda:0" if use_gpu and torch.cuda.is_available() else "cpu"
         self.model = SentenceTransformer(model_name, device=self.device)
         self.use_gpu = use_gpu
 
@@ -30,7 +30,7 @@ class FaissRetriever(BaseRetriever):
         self.context_chunks = context_chunks
         self._index_time = time.time() - t1
 
-    def retrieve(self, query, context_chunks, top_k=10):
+    def retrieve(self, query, top_k=10):
         t0 = time.time()
         query_vec = self.model.encode([query], convert_to_numpy=True, device=self.device)
         faiss.normalize_L2(query_vec)

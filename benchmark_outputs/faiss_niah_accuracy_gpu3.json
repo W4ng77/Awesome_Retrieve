@@ -1,0 +1,82 @@
+[
+  {
+    "sample_idx": 0,
+    "accuracy": 0.0,
+    "embedding_time": 0.95179,
+    "indexing_time": 0.59088,
+    "query_embed_time": 0.0064,
+    "search_time": 0.00019
+  },
+  {
+    "sample_idx": 1,
+    "accuracy": 1.0,
+    "embedding_time": 0.81521,
+    "indexing_time": 0.13027,
+    "query_embed_time": 0.00446,
+    "search_time": 0.00015
+  },
+  {
+    "sample_idx": 2,
+    "accuracy": 1.0,
+    "embedding_time": 0.69126,
+    "indexing_time": 0.12787,
+    "query_embed_time": 0.00374,
+    "search_time": 0.00014
+  },
+  {
+    "sample_idx": 3,
+    "accuracy": 1.0,
+    "embedding_time": 0.68403,
+    "indexing_time": 0.11614,
+    "query_embed_time": 0.00369,
+    "search_time": 0.00013
+  },
+  {
+    "sample_idx": 4,
+    "accuracy": 0.0,
+    "embedding_time": 0.6987,
+    "indexing_time": 0.1215,
+    "query_embed_time": 0.00405,
+    "search_time": 0.00014
+  },
+  {
+    "sample_idx": 5,
+    "accuracy": 0.0,
+    "embedding_time": 0.69409,
+    "indexing_time": 0.11636,
+    "query_embed_time": 0.00369,
+    "search_time": 0.00015
+  },
+  {
+    "sample_idx": 6,
+    "accuracy": 0.0,
+    "embedding_time": 0.69493,
+    "indexing_time": 0.1178,
+    "query_embed_time": 0.0038,
+    "search_time": 0.00012
+  },
+  {
+    "sample_idx": 7,
+    "accuracy": 0.0,
+    "embedding_time": 0.69383,
+    "indexing_time": 0.11307,
+    "query_embed_time": 0.00372,
+    "search_time": 0.00012
+  },
+  {
+    "sample_idx": 8,
+    "accuracy": 0.0,
+    "embedding_time": 0.69907,
+    "indexing_time": 0.12131,
+    "query_embed_time": 0.00376,
+    "search_time": 0.00013
+  },
+  {
+    "sample_idx": 9,
+    "accuracy": 0.0,
+    "embedding_time": 0.67977,
+    "indexing_time": 0.11559,
+    "query_embed_time": 0.00371,
+    "search_time": 0.00012
+  }
+]

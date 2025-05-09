@@ -31,7 +31,7 @@ class ScaNNRetriever(BaseRetriever):
         self.context_chunks = context_chunks
         self._index_time = time.time() - t1
 
-    def retrieve(self, query, context_chunks=None, top_k=10):
+    def retrieve(self, query, top_k=10):
         t0 = time.time()
         query_vec = self.model.encode([query], convert_to_numpy=True, device=self.device)
         query_vec = query_vec / np.linalg.norm(query_vec, axis=1, keepdims=True)
