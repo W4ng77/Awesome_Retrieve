@@ -1,0 +1,770 @@
+[
+  {
+    "sample_idx": 0,
+    "query": "What is the special magic numbers for 2913321 mentioned in the provided text? The special magic numbers for 2913321 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.3719,
+    "indexing_time": 0.18993,
+    "query_embed_time": 0.00281,
+    "search_time": 4e-05,
+    "retrieved": [
+      "492.\nOne of the special magic numbers for 2913809 is: 9476009.\nOne of the special magic numbers for 8306470 is: 9692831.\nOne of the special magic numbers for 2637688 is: 9095294.\nOne of the special magic numbers for 6350558 is: 1097839.\nOne of the special magic numbers for 3708244 is: 2146740.\nOne of the special magic numbers for 7203704 is: 8947126.\nOne of the special magic numbers for 1529787 is:",
+      "for 2915853 is: 1769768.\nOne of the special magic numbers for 5513115 is: 9916391.\nOne of the special magic numbers for 2133489 is: 6157493.\nOne of the special magic numbers for 8117715 is: 8348143.\nOne of the special magic numbers for 5599375 is: 8479028.\nOne of the special magic numbers for 1179969 is: 2888247.\nOne of the special magic numbers for 9526679 is: 6450823.\nOne of the special magic numbers",
+      "684.\nOne of the special magic numbers for 2913111 is: 4126612.\nOne of the special magic numbers for 3158708 is: 7804185.\nOne of the special magic numbers for 8160129 is: 8503951.\nOne of the special magic numbers for 7791661 is: 2819888.\nOne of the special magic numbers for 8682859 is: 1405664.\nOne of the special magic numbers for 1326740 is: 4488474.\nOne of the special magic numbers for 2879324 is: 8202109.",
+      ": 7136473.\nOne of the special magic numbers for 2919066 is: 4913222.\nOne of the special magic numbers for 7221704 is: 1811446.\nOne of the special magic numbers for 9485185 is: 7202747.\nOne of the special magic numbers for 8954316 is: 8043638.\nOne of the special magic numbers for 5706382 is: 9641906.\nOne of the special magic numbers for 6091361 is: 4497531.\nOne of the special magic numbers for 2191205 is: 63812",
+      "is: 7112782.\nOne of the special magic numbers for 3046421 is: 2911703.\nOne of the special magic numbers for 7516037 is: 9415211.\nOne of the special magic numbers for 2782810 is: 8929639.\nOne of the special magic numbers for 3846476 is: 1553240.\nOne of the special magic numbers for 6133445 is: 4841565.\nOne of the special magic numbers for 8041463 is: 1621504.\nOne of the special magic numbers for 6289808 is: 7836",
+      "is: 8530987.\nOne of the special magic numbers for 2915294 is: 3828255.\nOne of the special magic numbers for 1381315 is: 5281671.\nOne of the special magic numbers for 4450435 is: 9843335.\nOne of the special magic numbers for 4604758 is: 2481919.\nOne of the special magic numbers for 5484282 is: 8315229.\nOne of the special magic numbers for 4354969 is: 7178780.\nOne of the special magic numbers for 5117701 is",
+      ".\nOne of the special magic numbers for 3101755 is: 9827750.\nOne of the special magic numbers for 1323664 is: 1445606.\nOne of the special magic numbers for 6402710 is: 8826365.\nOne of the special magic numbers for 6645368 is: 9087213.\nOne of the special magic numbers for 1825019 is: 4560221.\nOne of the special magic numbers for 2912880 is: 3064128.\nOne of the special magic numbers for 7951338 is: 3678217.\nOne of the special magic",
+      "numbers for 3345638 is: 9446616.\nOne of the special magic numbers for 7913631 is: 6020603.\nOne of the special magic numbers for 6173082 is: 9731085.\nOne of the special magic numbers for 3033712 is: 6458593.\nOne of the special magic numbers for 6127894 is: 6045731.\nOne of the special magic numbers for 2670029 is: 7103668.\nOne of the special magic numbers for 2679770 is: 6331762.\nOne of the special magic numbers for"
+    ]
+  },
+  {
+    "sample_idx": 1,
+    "query": "What is the special magic numbers for 1439127 mentioned in the provided text? The special magic numbers for 1439127 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.20718,
+    "indexing_time": 0.19389,
+    "query_embed_time": 0.00284,
+    "search_time": 5e-05,
+    "retrieved": [
+      "8.\nOne of the special magic numbers for 1431324 is: 7654514.\nOne of the special magic numbers for 9374855 is: 9829611.\nOne of the special magic numbers for 7744629 is: 9708908.\nOne of the special magic numbers for 7614696 is: 7454894.\nOne of the special magic numbers for 2080253 is: 9866349.\nOne of the special magic numbers for 7096893 is: 1073815.\nOne of the special magic numbers for 4254658 is: 464116",
+      "1433520 is: 7384613.\nOne of the special magic numbers for 6145919 is: 6128963.\nOne of the special magic numbers for 8467554 is: 4731976.\nOne of the special magic numbers for 9262807 is: 1646702.\nOne of the special magic numbers for 9892872 is: 7018883.\nOne of the special magic numbers for 1779087 is: 2781713.\nOne of the special magic numbers for 9922064 is: 1538227.\nOne of the special magic numbers for",
+      "the special magic numbers for 1430998 is: 2187043.\nOne of the special magic numbers for 1514465 is: 7109299.\nOne of the special magic numbers for 5776682 is: 4180472.\nOne of the special magic numbers for 9953968 is: 7489784.\nOne of the special magic numbers for 1815848 is: 3479749.\nOne of the special magic numbers for 5712638 is: 1482079.\nOne of the special magic numbers for 4903063 is: 4866466.\nOne",
+      "639 is: 7448986.\nOne of the special magic numbers for 1433520 is: 7384613.\nOne of the special magic numbers for 6145919 is: 6128963.\nOne of the special magic numbers for 8467554 is: 4731976.\nOne of the special magic numbers for 9262807 is: 1646702.\nOne of the special magic numbers for 9892872 is: 7018883.\nOne of the special magic numbers for 1779087 is: 2781713.\nOne of the special magic numbers for 9922",
+      ": 8199397.\nOne of the special magic numbers for 1439127 is: 7237890.\nOne of the special magic numbers for 2976098 is: 4180828.\nOne of the special magic numbers for 3878782 is: 4471112.\nOne of the special magic numbers for 6148720 is: 8737163.\nOne of the special magic numbers for 7303689 is: 4173096.\nOne of the special magic numbers for 4717427 is: 6400121.\nOne of the special magic numbers for 8294397",
+      "is: 9098685.\nOne of the special magic numbers for 7133639 is: 7448986.\nOne of the special magic numbers for 1433520 is: 7384613.\nOne of the special magic numbers for 6145919 is: 6128963.\nOne of the special magic numbers for 8467554 is: 4731976.\nOne of the special magic numbers for 9262807 is: 1646702.\nOne of the special magic numbers for 9892872 is: 7018883.\nOne of the special magic numbers for 177908",
+      "4.\nOne of the special magic numbers for 1593479 is: 6488257.\nOne of the special magic numbers for 1604542 is: 9887261.\nOne of the special magic numbers for 9979685 is: 9285820.\nOne of the special magic numbers for 9104981 is: 1570102.\nOne of the special magic numbers for 3442248 is: 9954846.\nOne of the special magic numbers for 1601312 is: 7542565.\nOne of the special magic numbers for 1070221 is: 1135097.\nOne",
+      "numbers for 1438461 is: 9783374.\nOne of the special magic numbers for 8438977 is: 2189668.\nOne of the special magic numbers for 9143643 is: 9896939.\nOne of the special magic numbers for 5586769 is: 8296346.\nOne of the special magic numbers for 6233479 is: 9396463.\nOne of the special magic numbers for 3916279 is: 8170297.\nOne of the special magic numbers for 4429167 is: 6060751.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": 2,
+    "query": "What is the special magic numbers for 1164761 mentioned in the provided text? The special magic numbers for 1164761 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.92242,
+    "indexing_time": 0.19781,
+    "query_embed_time": 0.00282,
+    "search_time": 6e-05,
+    "retrieved": [
+      "numbers for 1161764 is: 2764146.\nOne of the special magic numbers for 9166099 is: 8151159.\nOne of the special magic numbers for 3847710 is: 5099028.\nOne of the special magic numbers for 4730674 is: 6463137.\nOne of the special magic numbers for 4126593 is: 7508460.\nOne of the special magic numbers for 9375653 is: 1191907.\nOne of the special magic numbers for 6577835 is: 2793317.\nOne of the special magic numbers for",
+      ": 3037383.\nOne of the special magic numbers for 3140457 is: 6782814.\nOne of the special magic numbers for 9403985 is: 6679221.\nOne of the special magic numbers for 4867913 is: 2656720.\nOne of the special magic numbers for 1843076 is: 4503570.\nOne of the special magic numbers for 3998880 is: 3918520.\nOne of the special magic numbers for 1317550 is: 5837650.\nOne of the special magic numbers for 9890694 is",
+      "3034619.\nOne of the special magic numbers for 1162874 is: 3048860.\nOne of the special magic numbers for 7712519 is: 8043239.\nOne of the special magic numbers for 6729243 is: 4365878.\nOne of the special magic numbers for 8964316 is: 4623221.\nOne of the special magic numbers for 6035554 is: 7055276.\nOne of the special magic numbers for 2647873 is: 4558357.\nOne of the special magic numbers for 5435694 is:",
+      "special magic numbers for 1164761 is: 3977840.\nOne of the special magic numbers for 6040864 is: 3191158.\nOne of the special magic numbers for 3468873 is: 6233177.\nOne of the special magic numbers for 9655086 is: 8208894.\nOne of the special magic numbers for 7472965 is: 8568569.\nOne of the special magic numbers for 5075581 is: 7865985.\nOne of the special magic numbers for 7718717 is: 9347128.\nOne of",
+      "is: 7957195.\nOne of the special magic numbers for 1164942 is: 1726807.\nOne of the special magic numbers for 9904806 is: 2382557.\nOne of the special magic numbers for 2194439 is: 3299975.\nOne of the special magic numbers for 4406965 is: 7221701.\nOne of the special magic numbers for 2135194 is: 3382767.\nOne of the special magic numbers for 9155180 is: 7294133.\nOne of the special magic numbers for 1679208 is: 1982089",
+      "magic numbers for 1162074 is: 9772491.\nOne of the special magic numbers for 2484800 is: 4727309.\nOne of the special magic numbers for 4741767 is: 4478177.\nOne of the special magic numbers for 8672822 is: 7250400.\nOne of the special magic numbers for 2334110 is: 8099594.\nOne of the special magic numbers for 6118142 is: 9047893.\nOne of the special magic numbers for 1773291 is: 2464554.\nOne of the special magic numbers",
+      ": 8010251.\nOne of the special magic numbers for 1141339 is: 2421721.\nOne of the special magic numbers for 2958677 is: 7374802.\nOne of the special magic numbers for 7483628 is: 5958687.\nOne of the special magic numbers for 8345197 is: 1186755.\nOne of the special magic numbers for 1019867 is: 3477556.\nOne of the special magic numbers for 5398108 is: 9087372.\nOne of the special magic numbers for 5177261 is",
+      ": 6987393.\nOne of the special magic numbers for 1163053 is: 7515916.\nOne of the special magic numbers for 1767025 is: 3942425.\nOne of the special magic numbers for 9554553 is: 1052439.\nOne of the special magic numbers for 4263307 is: 1300244.\nOne of the special magic numbers for 5511922 is: 4277750.\nOne of the special magic numbers for 4713263 is: 9636221.\nOne of the special magic numbers for 9693803 is: 288"
+    ]
+  },
+  {
+    "sample_idx": 3,
+    "query": "What is the special magic numbers for 6668544 mentioned in the provided text? The special magic numbers for 6668544 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.22614,
+    "indexing_time": 0.19299,
+    "query_embed_time": 0.00303,
+    "search_time": 8e-05,
+    "retrieved": [
+      "special magic numbers for 6668544 is: 3331582.\nOne of the special magic numbers for 8187066 is: 5522902.\nOne of the special magic numbers for 7523246 is: 4758462.\nOne of the special magic numbers for 6491236 is: 5303323.\nOne of the special magic numbers for 7748804 is: 8167874.\nOne of the special magic numbers for 1421414 is: 4342102.\nOne of the special magic numbers for 4984322 is: 8617014.\nOne of the special magic",
+      "is: 1504718.\nOne of the special magic numbers for 6693986 is: 2465106.\nOne of the special magic numbers for 2080694 is: 8571658.\nOne of the special magic numbers for 7725442 is: 6149809.\nOne of the special magic numbers for 6482652 is: 3255162.\nOne of the special magic numbers for 1444122 is: 5291185.\nOne of the special magic numbers for 9903853 is: 7595906.\nOne of the special magic numbers for 1448737 is:",
+      "5839466.\nOne of the special magic numbers for 6641718 is: 5330323.\nOne of the special magic numbers for 3980065 is: 8962767.\nOne of the special magic numbers for 9356218 is: 1846310.\nOne of the special magic numbers for 4398003 is: 9464984.\nOne of the special magic numbers for 4309667 is: 9438172.\nOne of the special magic numbers for 6864559 is: 3763980.\nOne of the special magic numbers for 8264285 is:",
+      "of the special magic numbers for 6668454 is: 6801043.\nOne of the special magic numbers for 9994568 is: 3946797.\nOne of the special magic numbers for 6384941 is: 2261002.\nOne of the special magic numbers for 6142900 is: 6520651.\nOne of the special magic numbers for 4294341 is: 6621077.\nOne of the special magic numbers for 5900125 is: 9703174.\nOne of the special magic numbers for 2172625 is: 6914259.\nOne of the",
+      "of the special magic numbers for 6686745 is: 5442047.\nOne of the special magic numbers for 1074074 is: 3596182.\nOne of the special magic numbers for 6452135 is: 6388016.\nOne of the special magic numbers for 2579932 is: 1817727.\nOne of the special magic numbers for 3733882 is: 6951505.\nOne of the special magic numbers for 1592072 is: 8222682.\nOne of the special magic numbers for 8704669 is: 5839637.\nOne",
+      "98.\nOne of the special magic numbers for 6656739 is: 1660415.\nOne of the special magic numbers for 3243996 is: 4139148.\nOne of the special magic numbers for 2721122 is: 4553241.\nOne of the special magic numbers for 6141728 is: 6457144.\nOne of the special magic numbers for 2744476 is: 8240645.\nOne of the special magic numbers for 9346644 is: 1349399.\nOne of the special magic numbers for 6450083 is: 6567972",
+      "8450.\nOne of the special magic numbers for 6615228 is: 8473415.\nOne of the special magic numbers for 5378637 is: 7071698.\nOne of the special magic numbers for 4670773 is: 9049925.\nOne of the special magic numbers for 1962794 is: 4640745.\nOne of the special magic numbers for 7988839 is: 3724750.\nOne of the special magic numbers for 2040038 is: 8974285.\nOne of the special magic numbers for 4071597 is: 660",
+      "of the special magic numbers for 6610529 is: 5199012.\nOne of the special magic numbers for 8212899 is: 2993609.\nOne of the special magic numbers for 6657690 is: 7339719.\nOne of the special magic numbers for 9632568 is: 7409965.\nOne of the special magic numbers for 8309317 is: 6720421.\nOne of the special magic numbers for 2362007 is: 8981982.\nOne of the special magic numbers for 4247930 is: 2082245.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": 4,
+    "query": "What is the special magic numbers for 9461439 mentioned in the provided text? The special magic numbers for 9461439 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.28399,
+    "indexing_time": 0.19761,
+    "query_embed_time": 0.00293,
+    "search_time": 5e-05,
+    "retrieved": [
+      "the special magic numbers for 9412010 is: 1384520.\nOne of the special magic numbers for 6763290 is: 7491610.\nOne of the special magic numbers for 3253693 is: 8320786.\nOne of the special magic numbers for 9053616 is: 9068758.\nOne of the special magic numbers for 4395563 is: 1569179.\nOne of the special magic numbers for 3773788 is: 7382041.\nOne of the special magic numbers for 2513665 is: 7836085.\nOne of the",
+      ".\nOne of the special magic numbers for 9496576 is: 5787245.\nOne of the special magic numbers for 1645621 is: 5864451.\nOne of the special magic numbers for 6373698 is: 3247093.\nOne of the special magic numbers for 4975643 is: 8140153.\nOne of the special magic numbers for 8391094 is: 5702963.\nOne of the special magic numbers for 5676689 is: 6149352.\nOne of the special magic numbers for 3406962 is: 310",
+      "2.\nOne of the special magic numbers for 9413240 is: 7678580.\nOne of the special magic numbers for 7928430 is: 9655922.\nOne of the special magic numbers for 2957586 is: 7216264.\nOne of the special magic numbers for 4814804 is: 8519663.\nOne of the special magic numbers for 5505750 is: 9045605.\nOne of the special magic numbers for 3340997 is: 6379396.\nOne of the special magic numbers for 4645474 is: 9891305",
+      "8.\nOne of the special magic numbers for 9469135 is: 9769365.\nOne of the special magic numbers for 7910386 is: 8349266.\nOne of the special magic numbers for 3870204 is: 9682161.\nOne of the special magic numbers for 3070216 is: 4945589.\nOne of the special magic numbers for 2477096 is: 1939982.\nOne of the special magic numbers for 5729101 is: 6483829.\nOne of the special magic numbers for 7248767 is: 76",
+      "200.\nOne of the special magic numbers for 9413558 is: 4695350.\nOne of the special magic numbers for 9031565 is: 5488037.\nOne of the special magic numbers for 3229280 is: 5598896.\nOne of the special magic numbers for 1845629 is: 3812454.\nOne of the special magic numbers for 1336418 is: 8168312.\nOne of the special magic numbers for 3474092 is: 3016412.\nOne of the special magic numbers for 9297769 is: 3562266",
+      "is: 6177548.\nOne of the special magic numbers for 9491508 is: 5964792.\nOne of the special magic numbers for 8676338 is: 1344868.\nOne of the special magic numbers for 9819317 is: 8507883.\nOne of the special magic numbers for 2069178 is: 5004248.\nOne of the special magic numbers for 1912159 is: 9686731.\nOne of the special magic numbers for 7304689 is: 5285572.\nOne of the special magic numbers for 4538760",
+      ": 1411816.\nOne of the special magic numbers for 9462827 is: 3995840.\nOne of the special magic numbers for 7837733 is: 9529386.\nOne of the special magic numbers for 1821564 is: 6963174.\nOne of the special magic numbers for 7796709 is: 7935300.\nOne of the special magic numbers for 5736064 is: 7241899.\nOne of the special magic numbers for 4684564 is: 1533208.\nOne of the special magic numbers for 7941968 is",
+      "of the special magic numbers for 9404801 is: 5803636.\nOne of the special magic numbers for 8477198 is: 2285774.\nOne of the special magic numbers for 7640014 is: 1491739.\nOne of the special magic numbers for 1695637 is: 5313225.\nOne of the special magic numbers for 5448889 is: 2364185.\nOne of the special magic numbers for 6326841 is: 3217378.\nOne of the special magic numbers for 9106974 is: 8974857.\nOne of the special magic"
+    ]
+  },
+  {
+    "sample_idx": 5,
+    "query": "What is the special magic numbers for 6521738 mentioned in the provided text? The special magic numbers for 6521738 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.1678,
+    "indexing_time": 0.19204,
+    "query_embed_time": 0.00278,
+    "search_time": 5e-05,
+    "retrieved": [
+      "44.\nOne of the special magic numbers for 6521738 is: 7141186.\nOne of the special magic numbers for 9042809 is: 8165709.\nOne of the special magic numbers for 5715641 is: 4504500.\nOne of the special magic numbers for 6505408 is: 9157987.\nOne of the special magic numbers for 2968605 is: 5988568.\nOne of the special magic numbers for 2212970 is: 1772567.\nOne of the special magic numbers for 3869164 is: 1430273.",
+      "special magic numbers for 6572126 is: 2058942.\nOne of the special magic numbers for 8329304 is: 1603273.\nOne of the special magic numbers for 4682012 is: 5267426.\nOne of the special magic numbers for 5827135 is: 1584056.\nOne of the special magic numbers for 8050565 is: 8582360.\nOne of the special magic numbers for 3220926 is: 6103577.\nOne of the special magic numbers for 2662384 is: 3271938.\nOne of the special magic numbers for",
+      ": 1318647.\nOne of the special magic numbers for 7066433 is: 4796267.\nOne of the special magic numbers for 6583449 is: 7536438.\nOne of the special magic numbers for 6316398 is: 3833695.\nOne of the special magic numbers for 6782861 is: 1578206.\nOne of the special magic numbers for 7911392 is: 2291157.\nOne of the special magic numbers for 8553504 is: 6146445.\nOne of the special magic numbers for 1287179 is:",
+      "numbers for 6375088 is: 1562908.\nOne of the special magic numbers for 5525825 is: 6188048.\nOne of the special magic numbers for 2076514 is: 1252903.\nOne of the special magic numbers for 8160657 is: 5722660.\nOne of the special magic numbers for 2123562 is: 7150315.\nOne of the special magic numbers for 2210948 is: 5847454.\nOne of the special magic numbers for 8341481 is: 5196445.\nOne of the special magic numbers for",
+      ": 4219821.\nOne of the special magic numbers for 6568638 is: 7813451.\nOne of the special magic numbers for 7191479 is: 7965580.\nOne of the special magic numbers for 8163995 is: 9330809.\nOne of the special magic numbers for 7746224 is: 3664697.\nOne of the special magic numbers for 6455791 is: 9086018.\nOne of the special magic numbers for 8457575 is: 8993120.\nOne of the special magic numbers for 66860",
+      "of the special magic numbers for 6558729 is: 1277264.\nOne of the special magic numbers for 6882342 is: 1394112.\nOne of the special magic numbers for 3374307 is: 3881327.\nOne of the special magic numbers for 2436847 is: 7057860.\nOne of the special magic numbers for 9533596 is: 1048903.\nOne of the special magic numbers for 8220001 is: 7693381.\nOne of the special magic numbers for 6019887 is: 8175323.\nOne of the",
+      "One of the special magic numbers for 6395255 is: 8207102.\nOne of the special magic numbers for 1649802 is: 9358493.\nOne of the special magic numbers for 7615936 is: 4058351.\nOne of the special magic numbers for 1919017 is: 6780282.\nOne of the special magic numbers for 6858958 is: 5184388.\nOne of the special magic numbers for 8254543 is: 9316097.\nOne of the special magic numbers for 6065827 is: 1795861.\nOne of the",
+      "of the special magic numbers for 6716506 is: 3411335.\nOne of the special magic numbers for 3949058 is: 2709085.\nOne of the special magic numbers for 5859666 is: 8220888.\nOne of the special magic numbers for 3784753 is: 2384552.\nOne of the special magic numbers for 6366578 is: 4233537.\nOne of the special magic numbers for 7625325 is: 7825605.\nOne of the special magic numbers for 1378912 is: 5754931.\nOne of the special magic"
+    ]
+  },
+  {
+    "sample_idx": 6,
+    "query": "What is the special magic numbers for 3013177 mentioned in the provided text? The special magic numbers for 3013177 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.11864,
+    "indexing_time": 0.1945,
+    "query_embed_time": 0.00283,
+    "search_time": 5e-05,
+    "retrieved": [
+      "626.\nOne of the special magic numbers for 3019671 is: 4733818.\nOne of the special magic numbers for 8684044 is: 1311092.\nOne of the special magic numbers for 8373727 is: 2884743.\nOne of the special magic numbers for 6764624 is: 1247815.\nOne of the special magic numbers for 2885004 is: 9679925.\nOne of the special magic numbers for 5573369 is: 2109420.\nOne of the special magic numbers for 3482427 is: 1620229",
+      "2982.\nOne of the special magic numbers for 3016767 is: 4789337.\nOne of the special magic numbers for 3772111 is: 9756684.\nOne of the special magic numbers for 5561449 is: 3956613.\nOne of the special magic numbers for 2300113 is: 6093151.\nOne of the special magic numbers for 2617229 is: 7685111.\nOne of the special magic numbers for 8800558 is: 7808039.\nOne of the special magic numbers for 7368037 is: 1408536",
+      "32802.\nOne of the special magic numbers for 3015831 is: 4734389.\nOne of the special magic numbers for 6534348 is: 1529451.\nOne of the special magic numbers for 6474184 is: 5234607.\nOne of the special magic numbers for 7645936 is: 9099787.\nOne of the special magic numbers for 1472074 is: 3850155.\nOne of the special magic numbers for 8880028 is: 7435606.\nOne of the special magic numbers for 1609339 is: 88657",
+      "1 is: 4816809.\nOne of the special magic numbers for 7010868 is: 3541595.\nOne of the special magic numbers for 1207086 is: 3134703.\nOne of the special magic numbers for 5134713 is: 3430337.\nOne of the special magic numbers for 7431496 is: 7512401.\nOne of the special magic numbers for 3487837 is: 4062491.\nOne of the special magic numbers for 4229197 is: 9256842.\nOne of the special magic numbers for 8125731 is",
+      "5512415.\nOne of the special magic numbers for 7110627 is: 4405182.\nOne of the special magic numbers for 1494013 is: 2881999.\nOne of the special magic numbers for 7763791 is: 7065195.\nOne of the special magic numbers for 7188766 is: 2609446.\nOne of the special magic numbers for 6335969 is: 2453837.\nOne of the special magic numbers for 7799631 is: 4457181.\nOne of the special magic numbers for 3580749 is:",
+      "the special magic numbers for 5718310 is: 7256154.\nOne of the special magic numbers for 9930547 is: 1090632.\nOne of the special magic numbers for 1205145 is: 4217237.\nOne of the special magic numbers for 4679098 is: 4095718.\nOne of the special magic numbers for 5835562 is: 1029564.\nOne of the special magic numbers for 7058921 is: 8806458.\nOne of the special magic numbers for 5586359 is: 3060948.\nOne of the special magic",
+      "63957 is: 9862091.\nOne of the special magic numbers for 4677739 is: 8754935.\nOne of the special magic numbers for 6947600 is: 7181801.\nOne of the special magic numbers for 5638187 is: 8713641.\nOne of the special magic numbers for 9547204 is: 7379825.\nOne of the special magic numbers for 9483958 is: 8694375.\nOne of the special magic numbers for 9575190 is: 4797087.\nOne of the special magic numbers for 301",
+      "5731 is: 1958694.\nOne of the special magic numbers for 1157566 is: 2473037.\nOne of the special magic numbers for 5175003 is: 5992255.\nOne of the special magic numbers for 7684186 is: 9422116.\nOne of the special magic numbers for 8220765 is: 8868981.\nOne of the special magic numbers for 9097969 is: 8411516.\nOne of the special magic numbers for 6118850 is: 9119102.\nOne of the special magic numbers for 10815"
+    ]
+  },
+  {
+    "sample_idx": 7,
+    "query": "What is the special magic numbers for 3740851 mentioned in the provided text? The special magic numbers for 3740851 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.31108,
+    "indexing_time": 0.19754,
+    "query_embed_time": 0.00278,
+    "search_time": 5e-05,
+    "retrieved": [
+      "numbers for 3740851 is: 9103274.\nOne of the special magic numbers for 5690845 is: 9179025.\nOne of the special magic numbers for 8107276 is: 4853143.\nOne of the special magic numbers for 5706599 is: 9207761.\nOne of the special magic numbers for 6898079 is: 4098699.\nOne of the special magic numbers for 9965965 is: 3900298.\nOne of the special magic numbers for 8239668 is: 9404445.\nOne of",
+      ": 8724381.\nOne of the special magic numbers for 3735840 is: 9874095.\nOne of the special magic numbers for 4876343 is: 9129885.\nOne of the special magic numbers for 4400667 is: 4770635.\nOne of the special magic numbers for 2651794 is: 6531218.\nOne of the special magic numbers for 7748729 is: 4751348.\nOne of the special magic numbers for 1475983 is: 4779010.\nOne of the special magic numbers for 4269119 is",
+      "is: 1137465.\nOne of the special magic numbers for 3721205 is: 2690984.\nOne of the special magic numbers for 4476594 is: 2636025.\nOne of the special magic numbers for 6425764 is: 3072234.\nOne of the special magic numbers for 1074855 is: 6248994.\nOne of the special magic numbers for 8343307 is: 5048597.\nOne of the special magic numbers for 5615490 is: 9220771.\nOne of the special magic numbers for 4276440 is",
+      "magic numbers for 3791691 is: 1511157.\nOne of the special magic numbers for 7362045 is: 3593585.\nOne of the special magic numbers for 2159669 is: 8802340.\nOne of the special magic numbers for 6471443 is: 8349491.\nOne of the special magic numbers for 3835836 is: 1539095.\nOne of the special magic numbers for 6935333 is: 6053120.\nOne of the special magic numbers for 4858753 is: 8239351.\nOne of the special magic numbers for",
+      "One of the special magic numbers for 3762385 is: 5086507.\nOne of the special magic numbers for 7130948 is: 5703852.\nOne of the special magic numbers for 4106018 is: 2342494.\nOne of the special magic numbers for 8286206 is: 8804263.\nOne of the special magic numbers for 5525061 is: 5964570.\nOne of the special magic numbers for 7499398 is: 5847499.\nOne of the special magic numbers for 1946045 is: 1929379.\nOne of the special",
+      ".\nOne of the special magic numbers for 3718410 is: 3022194.\nOne of the special magic numbers for 4841271 is: 1002762.\nOne of the special magic numbers for 6762942 is: 1102595.\nOne of the special magic numbers for 1602852 is: 1288972.\nOne of the special magic numbers for 3003814 is: 7338118.\nOne of the special magic numbers for 7641801 is: 6634981.\nOne of the special magic numbers for 3445268 is: 8643070.\nOne",
+      "is: 9700258.\nOne of the special magic numbers for 3711985 is: 4250605.\nOne of the special magic numbers for 6886192 is: 7351653.\nOne of the special magic numbers for 4582115 is: 3761041.\nOne of the special magic numbers for 1560465 is: 4713650.\nOne of the special magic numbers for 6196674 is: 3131920.\nOne of the special magic numbers for 3809786 is: 3205084.\nOne of the special magic numbers for 1806553 is: 32551",
+      ": 2392089.\nOne of the special magic numbers for 3788646 is: 1826514.\nOne of the special magic numbers for 5319888 is: 2407627.\nOne of the special magic numbers for 4503530 is: 5178102.\nOne of the special magic numbers for 3278577 is: 2191378.\nOne of the special magic numbers for 8663241 is: 9430921.\nOne of the special magic numbers for 7073643 is: 5785162.\nOne of the special magic numbers for 6616699 is:"
+    ]
+  },
+  {
+    "sample_idx": 8,
+    "query": "What is the special magic numbers for 5440610 mentioned in the provided text? The special magic numbers for 5440610 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.22094,
+    "indexing_time": 0.19336,
+    "query_embed_time": 0.00292,
+    "search_time": 5e-05,
+    "retrieved": [
+      "the special magic numbers for 5440610 is: 1940731.\nOne of the special magic numbers for 2987972 is: 7519912.\nOne of the special magic numbers for 4329017 is: 5999746.\nOne of the special magic numbers for 1820502 is: 5174018.\nOne of the special magic numbers for 1429792 is: 4467725.\nOne of the special magic numbers for 7781397 is: 5614190.\nOne of the special magic numbers for 8736225 is: 4285340.\nOne",
+      "the special magic numbers for 5440520 is: 2088006.\nOne of the special magic numbers for 9121845 is: 5239301.\nOne of the special magic numbers for 9194329 is: 1016366.\nOne of the special magic numbers for 6474114 is: 1306690.\nOne of the special magic numbers for 2346063 is: 1863555.\nOne of the special magic numbers for 2339542 is: 5250559.\nOne of the special magic numbers for 7412364 is: 3983395.\nOne of the special magic numbers",
+      "2577.\nOne of the special magic numbers for 5895689 is: 9083291.\nOne of the special magic numbers for 4581955 is: 6845165.\nOne of the special magic numbers for 5466256 is: 2668247.\nOne of the special magic numbers for 2917940 is: 8205495.\nOne of the special magic numbers for 4130370 is: 7818209.\nOne of the special magic numbers for 4099504 is: 4487863.\nOne of the special magic numbers for 5357575 is",
+      "99454.\nOne of the special magic numbers for 5450628 is: 9835574.\nOne of the special magic numbers for 7048195 is: 1080875.\nOne of the special magic numbers for 8961165 is: 1073902.\nOne of the special magic numbers for 5330953 is: 4954037.\nOne of the special magic numbers for 4829529 is: 4548947.\nOne of the special magic numbers for 4624567 is: 4809044.\nOne of the special magic numbers for 6401180 is: 7042855.",
+      "of the special magic numbers for 5440056 is: 5047519.\nOne of the special magic numbers for 4249643 is: 3343344.\nOne of the special magic numbers for 7043601 is: 2506307.\nOne of the special magic numbers for 1569099 is: 2861545.\nOne of the special magic numbers for 6939229 is: 9154601.\nOne of the special magic numbers for 5489827 is: 1698796.\nOne of the special magic numbers for 7135664 is: 3216894.\nOne of the",
+      "numbers for 5949565 is: 1275740.\nOne of the special magic numbers for 6585326 is: 5386123.\nOne of the special magic numbers for 8431013 is: 9717614.\nOne of the special magic numbers for 4548251 is: 2911733.\nOne of the special magic numbers for 2206056 is: 4780718.\nOne of the special magic numbers for 9136077 is: 7500378.\nOne of the special magic numbers for 9825801 is: 1578373.\nOne of the special magic numbers for 608",
+      "for 4894526 is: 4472860.\nOne of the special magic numbers for 5954770 is: 3236637.\nOne of the special magic numbers for 9393746 is: 8573485.\nOne of the special magic numbers for 7154386 is: 3717465.\nOne of the special magic numbers for 4258158 is: 8933736.\nOne of the special magic numbers for 9915040 is: 2082458.\nOne of the special magic numbers for 6647029 is: 9143601.\nOne of the special magic numbers for 4209100",
+      "1200912.\nOne of the special magic numbers for 5455090 is: 3526066.\nOne of the special magic numbers for 4921967 is: 7874932.\nOne of the special magic numbers for 9268390 is: 8833951.\nOne of the special magic numbers for 7958494 is: 5127003.\nOne of the special magic numbers for 8094935 is: 6372204.\nOne of the special magic numbers for 5532768 is: 6122204.\nOne of the special magic numbers for 9871058 is:"
+    ]
+  },
+  {
+    "sample_idx": 9,
+    "query": "What is the special magic numbers for 4373734 mentioned in the provided text? The special magic numbers for 4373734 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.26232,
+    "indexing_time": 0.20796,
+    "query_embed_time": 0.00286,
+    "search_time": 5e-05,
+    "retrieved": [
+      "345.\nOne of the special magic numbers for 4144226 is: 1021904.\nOne of the special magic numbers for 9773573 is: 8107002.\nOne of the special magic numbers for 9413796 is: 7517611.\nOne of the special magic numbers for 8480099 is: 5384017.\nOne of the special magic numbers for 3070787 is: 1575322.\nOne of the special magic numbers for 9437487 is: 5242882.\nOne of the special magic numbers for 6880591 is",
+      ": 9302225.\nOne of the special magic numbers for 4319350 is: 8615675.\nOne of the special magic numbers for 9463981 is: 6771359.\nOne of the special magic numbers for 6640141 is: 8111925.\nOne of the special magic numbers for 9771645 is: 3094977.\nOne of the special magic numbers for 9588195 is: 6239205.\nOne of the special magic numbers for 2065638 is: 9296796.\nOne of the special magic numbers for 8660926 is",
+      "numbers for 4388421 is: 6646714.\nOne of the special magic numbers for 3661496 is: 1548448.\nOne of the special magic numbers for 5058578 is: 4627464.\nOne of the special magic numbers for 8550795 is: 5156489.\nOne of the special magic numbers for 7869145 is: 4279164.\nOne of the special magic numbers for 3531099 is: 1308506.\nOne of the special magic numbers for 6450026 is: 1707649.\nOne of the",
+      "of the special magic numbers for 4372319 is: 1082598.\nOne of the special magic numbers for 8521586 is: 9369544.\nOne of the special magic numbers for 9229537 is: 3911234.\nOne of the special magic numbers for 4588217 is: 3611398.\nOne of the special magic numbers for 4371853 is: 7725197.\nOne of the special magic numbers for 1580081 is: 5632191.\nOne of the special magic numbers for 8202241 is: 2922095.\nOne of",
+      "One of the special magic numbers for 4311950 is: 3834885.\nOne of the special magic numbers for 9673651 is: 5306405.\nOne of the special magic numbers for 4541881 is: 6048513.\nOne of the special magic numbers for 2364574 is: 8544207.\nOne of the special magic numbers for 7876107 is: 9970962.\nOne of the special magic numbers for 4748632 is: 2252577.\nOne of the special magic numbers for 4842178 is: 1153503",
+      "745.\nOne of the special magic numbers for 4372539 is: 8771410.\nOne of the special magic numbers for 6847836 is: 5952642.\nOne of the special magic numbers for 4797542 is: 1623621.\nOne of the special magic numbers for 6925361 is: 1515785.\nOne of the special magic numbers for 4333708 is: 4760724.\nOne of the special magic numbers for 6766758 is: 3369855.\nOne of the special magic numbers for 7362337 is: 3583557.\nOne",
+      "magic numbers for 4135239 is: 5437443.\nOne of the special magic numbers for 4863445 is: 6816366.\nOne of the special magic numbers for 1597582 is: 8608696.\nOne of the special magic numbers for 3665773 is: 8291836.\nOne of the special magic numbers for 1426535 is: 7131591.\nOne of the special magic numbers for 1227624 is: 4881664.\nOne of the special magic numbers for 4527140 is: 1920983.\nOne of the special magic",
+      "is: 1092274.\nOne of the special magic numbers for 4187624 is: 5111033.\nOne of the special magic numbers for 4835170 is: 7352915.\nOne of the special magic numbers for 4635362 is: 6217300.\nOne of the special magic numbers for 9802269 is: 4576759.\nOne of the special magic numbers for 7142260 is: 2548136.\nOne of the special magic numbers for 4910380 is: 4077654.\nOne of the special magic numbers for 4632296"
+    ]
+  },
+  {
+    "sample_idx": 10,
+    "query": "What is the special magic numbers for 6744962 mentioned in the provided text? The special magic numbers for 6744962 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.9925,
+    "indexing_time": 0.19791,
+    "query_embed_time": 0.00286,
+    "search_time": 5e-05,
+    "retrieved": [
+      "the special magic numbers for 6746410 is: 8158132.\nOne of the special magic numbers for 9087053 is: 9807276.\nOne of the special magic numbers for 2153992 is: 3844262.\nOne of the special magic numbers for 2365219 is: 3838737.\nOne of the special magic numbers for 1971344 is: 6830620.\nOne of the special magic numbers for 9394123 is: 8902847.\nOne of the special magic numbers for 2418709 is: 1336096.\nOne of the special magic numbers",
+      "811.\nOne of the special magic numbers for 6347655 is: 6341683.\nOne of the special magic numbers for 6421404 is: 5367719.\nOne of the special magic numbers for 9698940 is: 7972339.\nOne of the special magic numbers for 4969662 is: 6245171.\nOne of the special magic numbers for 8867201 is: 1189402.\nOne of the special magic numbers for 2478160 is: 1341910.\nOne of the special magic numbers for 1630859 is: 42",
+      "of the special magic numbers for 6726218 is: 8106251.\nOne of the special magic numbers for 9549337 is: 4848225.\nOne of the special magic numbers for 5227493 is: 1184240.\nOne of the special magic numbers for 8540006 is: 3574729.\nOne of the special magic numbers for 4868603 is: 9487763.\nOne of the special magic numbers for 9468671 is: 9562353.\nOne of the special magic numbers for 6444777 is: 4217225",
+      "of the special magic numbers for 6731418 is: 1680758.\nOne of the special magic numbers for 6608550 is: 2769965.\nOne of the special magic numbers for 8111722 is: 7719176.\nOne of the special magic numbers for 6492408 is: 3367162.\nOne of the special magic numbers for 1205868 is: 7498331.\nOne of the special magic numbers for 6341926 is: 1027805.\nOne of the special magic numbers for 9510937 is: 6072251.\nOne of the",
+      "special magic numbers for 6746021 is: 1109200.\nOne of the special magic numbers for 8715063 is: 6945653.\nOne of the special magic numbers for 4171226 is: 3602784.\nOne of the special magic numbers for 9454041 is: 7655535.\nOne of the special magic numbers for 9484357 is: 9358625.\nOne of the special magic numbers for 6283333 is: 1658903.\nOne of the special magic numbers for 8895307 is: 4461063.\nOne of the special magic",
+      "is: 2439929.\nOne of the special magic numbers for 6353262 is: 1133163.\nOne of the special magic numbers for 8579758 is: 5619302.\nOne of the special magic numbers for 4161133 is: 4350477.\nOne of the special magic numbers for 9772410 is: 9914753.\nOne of the special magic numbers for 6569420 is: 9299716.\nOne of the special magic numbers for 2090158 is: 1827105.\nOne of the special magic numbers for 7046870 is",
+      "One of the special magic numbers for 6390608 is: 8811588.\nOne of the special magic numbers for 2572466 is: 4909005.\nOne of the special magic numbers for 8940993 is: 6650254.\nOne of the special magic numbers for 9564343 is: 6565573.\nOne of the special magic numbers for 7262393 is: 4978044.\nOne of the special magic numbers for 7611294 is: 7086260.\nOne of the special magic numbers for 3194399 is: 4585554.\nOne",
+      "the special magic numbers for 6770625 is: 4691924.\nOne of the special magic numbers for 4474229 is: 5498137.\nOne of the special magic numbers for 4472984 is: 1919566.\nOne of the special magic numbers for 4408792 is: 6568871.\nOne of the special magic numbers for 8898652 is: 4845099.\nOne of the special magic numbers for 4129860 is: 6155983.\nOne of the special magic numbers for 5918650 is: 4598"
+    ]
+  },
+  {
+    "sample_idx": 11,
+    "query": "What is the special magic numbers for 7960979 mentioned in the provided text? The special magic numbers for 7960979 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.25509,
+    "indexing_time": 0.19591,
+    "query_embed_time": 0.00279,
+    "search_time": 4e-05,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 7960979 is: 6114456.\nOne of the special magic numbers for 1154756 is: 5815495.\nOne of the special magic numbers for 4840661 is: 4156551.\nOne of the special magic numbers for 9731258 is: 2810755.\nOne of the special magic numbers for 2270645 is: 9931124.\nOne of the special magic numbers for 4212364 is: 9130154.\nOne of the special magic numbers for 1771883 is: 9066907.\nOne of the",
+      "the special magic numbers for 7919865 is: 4808453.\nOne of the special magic numbers for 1758647 is: 9097419.\nOne of the special magic numbers for 9869942 is: 7978118.\nOne of the special magic numbers for 7923952 is: 3016327.\nOne of the special magic numbers for 4590090 is: 3530488.\nOne of the special magic numbers for 5893690 is: 4105190.\nOne of the special magic numbers for 3392752 is: 2762045.\nOne of the special magic",
+      "the special magic numbers for 6979580 is: 1462244.\nOne of the special magic numbers for 8900243 is: 8923884.\nOne of the special magic numbers for 7962309 is: 8834126.\nOne of the special magic numbers for 6652997 is: 5300657.\nOne of the special magic numbers for 6696889 is: 6081765.\nOne of the special magic numbers for 8079618 is: 5980558.\nOne of the special magic numbers for 2676934 is: 85816",
+      "699 is: 4991754.\nOne of the special magic numbers for 8900014 is: 6525956.\nOne of the special magic numbers for 7765048 is: 1970163.\nOne of the special magic numbers for 8621601 is: 4349015.\nOne of the special magic numbers for 8291093 is: 9313206.\nOne of the special magic numbers for 4327491 is: 8523789.\nOne of the special magic numbers for 5942968 is: 8452777.\nOne of the special magic numbers for",
+      "01465.\nOne of the special magic numbers for 7963040 is: 9881772.\nOne of the special magic numbers for 6778270 is: 1462926.\nOne of the special magic numbers for 6918187 is: 7860027.\nOne of the special magic numbers for 1441561 is: 1153920.\nOne of the special magic numbers for 9965800 is: 8938210.\nOne of the special magic numbers for 7324179 is: 9533361.\nOne of the special magic numbers for 6348129 is: 6276",
+      "84.\nOne of the special magic numbers for 7962309 is: 8834126.\nOne of the special magic numbers for 6652997 is: 5300657.\nOne of the special magic numbers for 6696889 is: 6081765.\nOne of the special magic numbers for 8079618 is: 5980558.\nOne of the special magic numbers for 2676934 is: 8581625.\nOne of the special magic numbers for 3246222 is: 8881026.\nOne of the special magic numbers for 2601915 is:",
+      "42.\nOne of the special magic numbers for 7998943 is: 9680901.\nOne of the special magic numbers for 2886062 is: 4673326.\nOne of the special magic numbers for 8374668 is: 3130762.\nOne of the special magic numbers for 7087427 is: 9225689.\nOne of the special magic numbers for 4672413 is: 8420390.\nOne of the special magic numbers for 4300568 is: 4030451.\nOne of the special magic numbers for 9960231 is:",
+      "special magic numbers for 7969898 is: 3536185.\nOne of the special magic numbers for 4671327 is: 7980635.\nOne of the special magic numbers for 3950748 is: 3047173.\nOne of the special magic numbers for 1804799 is: 6680003.\nOne of the special magic numbers for 4577220 is: 4507930.\nOne of the special magic numbers for 6722375 is: 7754724.\nOne of the special magic numbers for 3218316 is: 6087804.\nOne"
+    ]
+  },
+  {
+    "sample_idx": 12,
+    "query": "What is the special magic numbers for 7646183 mentioned in the provided text? The special magic numbers for 7646183 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.09686,
+    "indexing_time": 0.20628,
+    "query_embed_time": 0.0029,
+    "search_time": 6e-05,
+    "retrieved": [
+      "special magic numbers for 7624389 is: 9562238.\nOne of the special magic numbers for 5517777 is: 5175337.\nOne of the special magic numbers for 7184456 is: 5247060.\nOne of the special magic numbers for 5420746 is: 9499023.\nOne of the special magic numbers for 6658348 is: 1862641.\nOne of the special magic numbers for 6146328 is: 7325845.\nOne of the special magic numbers for 4713973 is: 2220016.\nOne of the special magic",
+      "932.\nOne of the special magic numbers for 6786570 is: 6515963.\nOne of the special magic numbers for 8416357 is: 2832761.\nOne of the special magic numbers for 9697341 is: 3318979.\nOne of the special magic numbers for 7898564 is: 6277247.\nOne of the special magic numbers for 7110782 is: 8594082.\nOne of the special magic numbers for 8566273 is: 1366734.\nOne of the special magic numbers for 364967",
+      "One of the special magic numbers for 7619110 is: 2775771.\nOne of the special magic numbers for 5840021 is: 7892697.\nOne of the special magic numbers for 6002935 is: 7030779.\nOne of the special magic numbers for 6974492 is: 5250109.\nOne of the special magic numbers for 5673603 is: 1638344.\nOne of the special magic numbers for 5973146 is: 3316220.\nOne of the special magic numbers for 6483936 is: 1239354.\nOne",
+      "of the special magic numbers for 7644373 is: 6522050.\nOne of the special magic numbers for 6621186 is: 5273950.\nOne of the special magic numbers for 9962279 is: 2199643.\nOne of the special magic numbers for 2797048 is: 8721844.\nOne of the special magic numbers for 3271666 is: 5043494.\nOne of the special magic numbers for 9685077 is: 4575862.\nOne of the special magic numbers for 4512784 is: 3188189.\nOne of the",
+      "2830.\nOne of the special magic numbers for 7669755 is: 3032161.\nOne of the special magic numbers for 3580808 is: 7832444.\nOne of the special magic numbers for 4038875 is: 1886300.\nOne of the special magic numbers for 2253048 is: 1957614.\nOne of the special magic numbers for 1800033 is: 7529915.\nOne of the special magic numbers for 7260919 is: 5691614.\nOne of the special magic numbers for 2757675 is: 6475599.\nOne of",
+      "618.\nOne of the special magic numbers for 6381122 is: 6415673.\nOne of the special magic numbers for 9792821 is: 3508304.\nOne of the special magic numbers for 9757371 is: 5762068.\nOne of the special magic numbers for 7555071 is: 5331775.\nOne of the special magic numbers for 1712729 is: 3710040.\nOne of the special magic numbers for 7584765 is: 9165331.\nOne of the special magic numbers for 9635112 is: 921226",
+      "30.\nOne of the special magic numbers for 7671068 is: 1073671.\nOne of the special magic numbers for 3184917 is: 9376527.\nOne of the special magic numbers for 8906641 is: 4763260.\nOne of the special magic numbers for 5961533 is: 3064856.\nOne of the special magic numbers for 9668132 is: 1815447.\nOne of the special magic numbers for 5158376 is: 9052211.\nOne of the special magic numbers for 9300098 is: 5790894.",
+      "for 7633113 is: 4935849.\nOne of the special magic numbers for 9310780 is: 7631519.\nOne of the special magic numbers for 2433104 is: 6130687.\nOne of the special magic numbers for 5585703 is: 7620611.\nOne of the special magic numbers for 3266440 is: 7696262.\nOne of the special magic numbers for 8765374 is: 5093742.\nOne of the special magic numbers for 3513798 is: 4633662.\nOne of the special magic numbers for"
+    ]
+  },
+  {
+    "sample_idx": 13,
+    "query": "What is the special magic numbers for 8557134 mentioned in the provided text? The special magic numbers for 8557134 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.25367,
+    "indexing_time": 0.19396,
+    "query_embed_time": 0.00295,
+    "search_time": 5e-05,
+    "retrieved": [
+      ": 7361211.\nOne of the special magic numbers for 8220874 is: 6364129.\nOne of the special magic numbers for 4303955 is: 4797716.\nOne of the special magic numbers for 8582623 is: 8314146.\nOne of the special magic numbers for 5561645 is: 8346620.\nOne of the special magic numbers for 6603649 is: 5787248.\nOne of the special magic numbers for 9310209 is: 8915274.\nOne of the special magic numbers for 7359997 is",
+      "for 8015424 is: 9530870.\nOne of the special magic numbers for 6360139 is: 8642160.\nOne of the special magic numbers for 9169957 is: 1731427.\nOne of the special magic numbers for 8013835 is: 3745863.\nOne of the special magic numbers for 6642928 is: 5830362.\nOne of the special magic numbers for 8255954 is: 3873976.\nOne of the special magic numbers for 8811435 is: 5421883.\nOne of the special magic numbers",
+      "of the special magic numbers for 8576219 is: 8733322.\nOne of the special magic numbers for 9760858 is: 5736256.\nOne of the special magic numbers for 4556412 is: 5013153.\nOne of the special magic numbers for 8042631 is: 5388034.\nOne of the special magic numbers for 5979330 is: 6989534.\nOne of the special magic numbers for 9762678 is: 7769489.\nOne of the special magic numbers for 5540175 is: 3651206",
+      "is: 7764775.\nOne of the special magic numbers for 8075775 is: 3564791.\nOne of the special magic numbers for 5828769 is: 8244031.\nOne of the special magic numbers for 8596106 is: 8729517.\nOne of the special magic numbers for 4661883 is: 6602167.\nOne of the special magic numbers for 4213142 is: 5350530.\nOne of the special magic numbers for 6359930 is: 6967893.\nOne of the special magic numbers for 8135",
+      "numbers for 8058134 is: 3196453.\nOne of the special magic numbers for 6831138 is: 4424452.\nOne of the special magic numbers for 3408126 is: 3674602.\nOne of the special magic numbers for 2606668 is: 7033750.\nOne of the special magic numbers for 9949532 is: 9341876.\nOne of the special magic numbers for 1495293 is: 8916522.\nOne of the special magic numbers for 8475755 is: 2695024.\nOne of the special magic numbers for",
+      "of the special magic numbers for 8533816 is: 4944502.\nOne of the special magic numbers for 6213439 is: 2429143.\nOne of the special magic numbers for 6286973 is: 3623268.\nOne of the special magic numbers for 6094915 is: 2089130.\nOne of the special magic numbers for 9340576 is: 3360678.\nOne of the special magic numbers for 7537274 is: 3277289.\nOne of the special magic numbers for 7310553 is: 5809448.\nOne",
+      "One of the special magic numbers for 8013835 is: 3745863.\nOne of the special magic numbers for 6642928 is: 5830362.\nOne of the special magic numbers for 8255954 is: 3873976.\nOne of the special magic numbers for 8811435 is: 5421883.\nOne of the special magic numbers for 1996123 is: 1793895.\nOne of the special magic numbers for 8230532 is: 8638028.\nOne of the special magic numbers for 5342306 is: 7150665.\nOne",
+      "65653.\nOne of the special magic numbers for 8599985 is: 5264986.\nOne of the special magic numbers for 3095422 is: 9778426.\nOne of the special magic numbers for 2628710 is: 8066803.\nOne of the special magic numbers for 9375441 is: 9942182.\nOne of the special magic numbers for 3283302 is: 5761454.\nOne of the special magic numbers for 8533816 is: 4944502.\nOne of the special magic numbers for 6213439 is: 2429"
+    ]
+  },
+  {
+    "sample_idx": 14,
+    "query": "What is the special magic numbers for 4609070 mentioned in the provided text? The special magic numbers for 4609070 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.25006,
+    "indexing_time": 0.19295,
+    "query_embed_time": 0.00285,
+    "search_time": 5e-05,
+    "retrieved": [
+      "numbers for 4609070 is: 3977202.\nOne of the special magic numbers for 5396455 is: 5178213.\nOne of the special magic numbers for 3434678 is: 6470450.\nOne of the special magic numbers for 5053007 is: 6105687.\nOne of the special magic numbers for 6789708 is: 7679883.\nOne of the special magic numbers for 9879289 is: 3953234.\nOne of the special magic numbers for 6975371 is: 5892239.\nOne of the",
+      "4992375 is: 4231519.\nOne of the special magic numbers for 4609070 is: 3977202.\nOne of the special magic numbers for 5396455 is: 5178213.\nOne of the special magic numbers for 3434678 is: 6470450.\nOne of the special magic numbers for 5053007 is: 6105687.\nOne of the special magic numbers for 6789708 is: 7679883.\nOne of the special magic numbers for 9879289 is: 3953234.\nOne of the special magic",
+      "4609 is: 1091268.\nOne of the special magic numbers for 8388831 is: 7080849.\nOne of the special magic numbers for 3741413 is: 2399664.\nOne of the special magic numbers for 5859885 is: 9698938.\nOne of the special magic numbers for 2489518 is: 7413802.\nOne of the special magic numbers for 6290821 is: 9193265.\nOne of the special magic numbers for 3688131 is: 9553671.\nOne of the special magic numbers",
+      "35827.\nOne of the special magic numbers for 4602721 is: 9351686.\nOne of the special magic numbers for 1699050 is: 4736117.\nOne of the special magic numbers for 1467462 is: 1398345.\nOne of the special magic numbers for 9335728 is: 3966028.\nOne of the special magic numbers for 7527725 is: 7236937.\nOne of the special magic numbers for 8756575 is: 1294243.\nOne of the special magic numbers for 7097780 is: 6356206.\nOne",
+      "46050 is: 7882406.\nOne of the special magic numbers for 1228472 is: 1414020.\nOne of the special magic numbers for 6944983 is: 6461232.\nOne of the special magic numbers for 6895715 is: 7616458.\nOne of the special magic numbers for 7584369 is: 7526843.\nOne of the special magic numbers for 7424752 is: 6563055.\nOne of the special magic numbers for 7294586 is: 6825319.\nOne of the special magic numbers for 51",
+      "is: 7036712.\nOne of the special magic numbers for 4604533 is: 5530417.\nOne of the special magic numbers for 6303437 is: 4090913.\nOne of the special magic numbers for 6642852 is: 8910715.\nOne of the special magic numbers for 3295821 is: 3377796.\nOne of the special magic numbers for 1877365 is: 2382128.\nOne of the special magic numbers for 6884572 is: 7075070.\nOne of the special magic numbers for 2137136 is: 737055",
+      ".\nOne of the special magic numbers for 1028505 is: 7506546.\nOne of the special magic numbers for 5541668 is: 8278607.\nOne of the special magic numbers for 6089730 is: 5104519.\nOne of the special magic numbers for 4565190 is: 8882405.\nOne of the special magic numbers for 4541408 is: 3914196.\nOne of the special magic numbers for 3383330 is: 4456756.\nOne of the special magic numbers for 6701170 is: 6598655.\nOne of",
+      "is: 7680402.\nOne of the special magic numbers for 4277596 is: 4007939.\nOne of the special magic numbers for 3889453 is: 9517037.\nOne of the special magic numbers for 8045150 is: 4126701.\nOne of the special magic numbers for 7648229 is: 9960228.\nOne of the special magic numbers for 9039343 is: 8090771.\nOne of the special magic numbers for 5170637 is: 1232160.\nOne of the special magic numbers for 1501210 is"
+    ]
+  },
+  {
+    "sample_idx": 15,
+    "query": "What is the special magic numbers for 3624923 mentioned in the provided text? The special magic numbers for 3624923 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.04209,
+    "indexing_time": 0.20082,
+    "query_embed_time": 0.00294,
+    "search_time": 4e-05,
+    "retrieved": [
+      "8.\nOne of the special magic numbers for 3624923 is: 8102122.\nOne of the special magic numbers for 6815187 is: 5116788.\nOne of the special magic numbers for 9694893 is: 8540510.\nOne of the special magic numbers for 7634244 is: 3591318.\nOne of the special magic numbers for 6881589 is: 7960377.\nOne of the special magic numbers for 3690357 is: 3724820.\nOne of the special magic numbers for 2903591 is: 627",
+      "of the special magic numbers for 3627912 is: 9244774.\nOne of the special magic numbers for 7435936 is: 9523540.\nOne of the special magic numbers for 9718136 is: 1470191.\nOne of the special magic numbers for 2072734 is: 9047775.\nOne of the special magic numbers for 7641186 is: 5670264.\nOne of the special magic numbers for 9368869 is: 6144563.\nOne of the special magic numbers for 4870102 is: 1824463.\nOne of the",
+      "numbers for 3622048 is: 2662195.\nOne of the special magic numbers for 2754164 is: 3047883.\nOne of the special magic numbers for 8301288 is: 4902986.\nOne of the special magic numbers for 9572498 is: 8380757.\nOne of the special magic numbers for 7396752 is: 9014125.\nOne of the special magic numbers for 9817391 is: 2899155.\nOne of the special magic numbers for 5086961 is: 1183438.\nOne of the special magic numbers",
+      "numbers for 3620271 is: 6183071.\nOne of the special magic numbers for 3766056 is: 6723418.\nOne of the special magic numbers for 3205259 is: 5124438.\nOne of the special magic numbers for 8435942 is: 7396145.\nOne of the special magic numbers for 5399960 is: 1137617.\nOne of the special magic numbers for 6872619 is: 2417973.\nOne of the special magic numbers for 8792395 is: 5918803.\nOne of the special",
+      "special magic numbers for 3661938 is: 8651163.\nOne of the special magic numbers for 6320194 is: 9487549.\nOne of the special magic numbers for 9616079 is: 3713348.\nOne of the special magic numbers for 7309223 is: 4093003.\nOne of the special magic numbers for 3333813 is: 9234180.\nOne of the special magic numbers for 4134727 is: 4604168.\nOne of the special magic numbers for 9259611 is: 2360964.\nOne of the special",
+      "the special magic numbers for 3676846 is: 4701092.\nOne of the special magic numbers for 2419782 is: 3251646.\nOne of the special magic numbers for 3625191 is: 5708412.\nOne of the special magic numbers for 6215096 is: 3991007.\nOne of the special magic numbers for 8954951 is: 5102744.\nOne of the special magic numbers for 2965873 is: 1388147.\nOne of the special magic numbers for 2308451 is: 4207594.\nOne of the",
+      "special magic numbers for 3610203 is: 4660723.\nOne of the special magic numbers for 4906626 is: 9677167.\nOne of the special magic numbers for 8439881 is: 7814711.\nOne of the special magic numbers for 9918137 is: 8750720.\nOne of the special magic numbers for 9747950 is: 1565461.\nOne of the special magic numbers for 3891390 is: 4135053.\nOne of the special magic numbers for 3603517 is: 9623854.\nOne of the special magic",
+      "of the special magic numbers for 3628098 is: 8912631.\nOne of the special magic numbers for 3486890 is: 9139299.\nOne of the special magic numbers for 3682274 is: 3681145.\nOne of the special magic numbers for 8205454 is: 5245674.\nOne of the special magic numbers for 6536892 is: 1701086.\nOne of the special magic numbers for 2085784 is: 3361394.\nOne of the special magic numbers for 2622354 is: 8938766.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": 16,
+    "query": "What is the special magic numbers for 2043309 mentioned in the provided text? The special magic numbers for 2043309 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.23103,
+    "indexing_time": 0.19684,
+    "query_embed_time": 0.00291,
+    "search_time": 5e-05,
+    "retrieved": [
+      "numbers for 2045591 is: 1964807.\nOne of the special magic numbers for 1521436 is: 6474621.\nOne of the special magic numbers for 5479370 is: 9168787.\nOne of the special magic numbers for 4975222 is: 4098973.\nOne of the special magic numbers for 1423558 is: 4292147.\nOne of the special magic numbers for 8203904 is: 3406194.\nOne of the special magic numbers for 3915421 is: 3038058.\nOne of the special magic numbers",
+      "One of the special magic numbers for 2048481 is: 5609002.\nOne of the special magic numbers for 2763282 is: 4868255.\nOne of the special magic numbers for 9608873 is: 5596503.\nOne of the special magic numbers for 9272425 is: 7926076.\nOne of the special magic numbers for 5589424 is: 8547453.\nOne of the special magic numbers for 2315956 is: 9098962.\nOne of the special magic numbers for 2100340 is: 146",
+      "41 is: 9502069.\nOne of the special magic numbers for 2046940 is: 4120872.\nOne of the special magic numbers for 6849882 is: 1567575.\nOne of the special magic numbers for 7562889 is: 1827611.\nOne of the special magic numbers for 8750090 is: 8420244.\nOne of the special magic numbers for 9692001 is: 8705351.\nOne of the special magic numbers for 6774309 is: 4053351.\nOne of the special magic numbers for 1702406 is: 232",
+      "One of the special magic numbers for 2048359 is: 3917881.\nOne of the special magic numbers for 9641787 is: 8855392.\nOne of the special magic numbers for 1410702 is: 9564897.\nOne of the special magic numbers for 4913709 is: 3737992.\nOne of the special magic numbers for 7008557 is: 8639360.\nOne of the special magic numbers for 5083913 is: 5888288.\nOne of the special magic numbers for 6661747 is: 61458",
+      "2042727 is: 3461397.\nOne of the special magic numbers for 9894669 is: 8569443.\nOne of the special magic numbers for 2607625 is: 1277730.\nOne of the special magic numbers for 4873159 is: 3417656.\nOne of the special magic numbers for 5367364 is: 4818151.\nOne of the special magic numbers for 6895611 is: 3445031.\nOne of the special magic numbers for 8671030 is: 7023235.\nOne of the special magic numbers for",
+      "is: 7606247.\nOne of the special magic numbers for 3111575 is: 8834704.\nOne of the special magic numbers for 1229572 is: 1529814.\nOne of the special magic numbers for 1028567 is: 2800668.\nOne of the special magic numbers for 8486034 is: 6551013.\nOne of the special magic numbers for 3461479 is: 7996577.\nOne of the special magic numbers for 2882836 is: 4196898.\nOne of the special magic numbers for 2028925",
+      "44125.\nOne of the special magic numbers for 2043309 is: 7768580.\nOne of the special magic numbers for 5247537 is: 9172785.\nOne of the special magic numbers for 9215975 is: 9767245.\nOne of the special magic numbers for 3264017 is: 9811012.\nOne of the special magic numbers for 4895504 is: 2970593.\nOne of the special magic numbers for 4442689 is: 8517058.\nOne of the special magic numbers for 1103486 is: 7246",
+      "for 2044682 is: 7731132.\nOne of the special magic numbers for 7445772 is: 7550132.\nOne of the special magic numbers for 2569215 is: 6654721.\nOne of the special magic numbers for 9969423 is: 4583846.\nOne of the special magic numbers for 2185161 is: 5675122.\nOne of the special magic numbers for 6144157 is: 9985996.\nOne of the special magic numbers for 7744887 is: 2654036.\nOne of the special magic"
+    ]
+  },
+  {
+    "sample_idx": 17,
+    "query": "What is the special magic numbers for 9862841 mentioned in the provided text? The special magic numbers for 9862841 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.15068,
+    "indexing_time": 0.20447,
+    "query_embed_time": 0.00293,
+    "search_time": 6e-05,
+    "retrieved": [
+      "976 is: 1385779.\nOne of the special magic numbers for 6748758 is: 3844541.\nOne of the special magic numbers for 9912967 is: 6344656.\nOne of the special magic numbers for 6624286 is: 9053435.\nOne of the special magic numbers for 9046182 is: 9881108.\nOne of the special magic numbers for 6523975 is: 4605084.\nOne of the special magic numbers for 7941534 is: 9128291.\nOne of the special magic numbers for 98",
+      "is: 5122420.\nOne of the special magic numbers for 9688400 is: 5501271.\nOne of the special magic numbers for 9776079 is: 1919270.\nOne of the special magic numbers for 9562043 is: 4076779.\nOne of the special magic numbers for 8117324 is: 1549502.\nOne of the special magic numbers for 9369493 is: 9007273.\nOne of the special magic numbers for 4979746 is: 6238582.\nOne of the special magic numbers for 9886200 is",
+      "the special magic numbers for 9882038 is: 9378281.\nOne of the special magic numbers for 7791676 is: 2968633.\nOne of the special magic numbers for 9671073 is: 1945238.\nOne of the special magic numbers for 9873999 is: 2492423.\nOne of the special magic numbers for 4091158 is: 1212616.\nOne of the special magic numbers for 5019803 is: 4361239.\nOne of the special magic numbers for 7826152 is: 2882370.\nOne of the special magic",
+      "special magic numbers for 9897486 is: 4623702.\nOne of the special magic numbers for 4999116 is: 5992414.\nOne of the special magic numbers for 1365668 is: 4428322.\nOne of the special magic numbers for 6549943 is: 1381564.\nOne of the special magic numbers for 2194484 is: 9722095.\nOne of the special magic numbers for 3515639 is: 3149886.\nOne of the special magic numbers for 6482861 is: 7793477.\nOne of",
+      "50.\nOne of the special magic numbers for 9909496 is: 7332895.\nOne of the special magic numbers for 1040620 is: 7798322.\nOne of the special magic numbers for 6738781 is: 4615344.\nOne of the special magic numbers for 8312177 is: 8845795.\nOne of the special magic numbers for 9405476 is: 5701616.\nOne of the special magic numbers for 1804209 is: 8671927.\nOne of the special magic numbers for 6544241 is: 61",
+      "the special magic numbers for 9851969 is: 8543990.\nOne of the special magic numbers for 7145962 is: 3656735.\nOne of the special magic numbers for 3663024 is: 4486483.\nOne of the special magic numbers for 8627867 is: 1125955.\nOne of the special magic numbers for 9766780 is: 9875611.\nOne of the special magic numbers for 6743283 is: 5335660.\nOne of the special magic numbers for 9851163 is: 4532070.\nOne of the",
+      "03.\nOne of the special magic numbers for 9976288 is: 8169492.\nOne of the special magic numbers for 4809828 is: 5848168.\nOne of the special magic numbers for 7830591 is: 2503802.\nOne of the special magic numbers for 5762801 is: 2430864.\nOne of the special magic numbers for 7090725 is: 8183368.\nOne of the special magic numbers for 1840785 is: 7277805.\nOne of the special magic numbers for 4392536 is: 39",
+      "6238582.\nOne of the special magic numbers for 9886200 is: 7937651.\nOne of the special magic numbers for 9697125 is: 9421836.\nOne of the special magic numbers for 6640239 is: 2936991.\nOne of the special magic numbers for 7968781 is: 4602305.\nOne of the special magic numbers for 3715390 is: 3536325.\nOne of the special magic numbers for 3676325 is: 2496060.\nOne of the special magic numbers for 5489511"
+    ]
+  },
+  {
+    "sample_idx": 18,
+    "query": "What is the special magic numbers for 7601385 mentioned in the provided text? The special magic numbers for 7601385 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.04547,
+    "indexing_time": 0.20923,
+    "query_embed_time": 0.00282,
+    "search_time": 5e-05,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 7601385 is: 6441088.\nOne of the special magic numbers for 3016232 is: 5111705.\nOne of the special magic numbers for 3795257 is: 9209897.\nOne of the special magic numbers for 3126485 is: 8175229.\nOne of the special magic numbers for 6884632 is: 5398009.\nOne of the special magic numbers for 1448603 is: 1835018.\nOne of the special magic numbers for 8612725 is: 6009515.",
+      ": 9500065.\nOne of the special magic numbers for 7602373 is: 3913211.\nOne of the special magic numbers for 4436937 is: 6816955.\nOne of the special magic numbers for 6825956 is: 8323854.\nOne of the special magic numbers for 8566664 is: 2370862.\nOne of the special magic numbers for 5422783 is: 4111093.\nOne of the special magic numbers for 7478794 is: 1488884.\nOne of the special magic numbers for 6997210",
+      "41443.\nOne of the special magic numbers for 7603067 is: 9142597.\nOne of the special magic numbers for 1588722 is: 2995329.\nOne of the special magic numbers for 2915965 is: 5452693.\nOne of the special magic numbers for 3677270 is: 1545035.\nOne of the special magic numbers for 3379065 is: 8900517.\nOne of the special magic numbers for 1013917 is: 8848667.\nOne of the special magic numbers for 4873589 is: 2358366.",
+      "9.\nOne of the special magic numbers for 7604118 is: 2225750.\nOne of the special magic numbers for 4546854 is: 7162031.\nOne of the special magic numbers for 5174444 is: 6435701.\nOne of the special magic numbers for 9776635 is: 6894081.\nOne of the special magic numbers for 7942152 is: 2118285.\nOne of the special magic numbers for 1974383 is: 9619914.\nOne of the special magic numbers for 9404348 is: 9588020.\nOne of",
+      "numbers for 6609770 is: 1693300.\nOne of the special magic numbers for 6230684 is: 3355856.\nOne of the special magic numbers for 3975213 is: 1066975.\nOne of the special magic numbers for 8163838 is: 6851116.\nOne of the special magic numbers for 2476491 is: 3973275.\nOne of the special magic numbers for 7542066 is: 5707778.\nOne of the special magic numbers for 8911941 is: 8541576.\nOne of the special magic numbers for",
+      "is: 8287024.\nOne of the special magic numbers for 7602252 is: 4171961.\nOne of the special magic numbers for 9200723 is: 2799848.\nOne of the special magic numbers for 8884105 is: 2494369.\nOne of the special magic numbers for 7937147 is: 6418325.\nOne of the special magic numbers for 4474360 is: 7750731.\nOne of the special magic numbers for 1028937 is: 6234904.\nOne of the special magic numbers for 7517339 is:",
+      "the special magic numbers for 6754709 is: 3209311.\nOne of the special magic numbers for 8742812 is: 6114119.\nOne of the special magic numbers for 2907062 is: 5467948.\nOne of the special magic numbers for 3924218 is: 5149149.\nOne of the special magic numbers for 9662417 is: 6094473.\nOne of the special magic numbers for 7016113 is: 8906845.\nOne of the special magic numbers for 8978091 is: 2052863.",
+      "the special magic numbers for 7676196 is: 9497760.\nOne of the special magic numbers for 7920518 is: 8792018.\nOne of the special magic numbers for 9394698 is: 9748066.\nOne of the special magic numbers for 2780945 is: 5254199.\nOne of the special magic numbers for 9209778 is: 8004348.\nOne of the special magic numbers for 7658403 is: 2972711.\nOne of the special magic numbers for 1772220 is: 3664657.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": 19,
+    "query": "What is the special magic numbers for 8032396 mentioned in the provided text? The special magic numbers for 8032396 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.0082,
+    "indexing_time": 0.1961,
+    "query_embed_time": 0.00279,
+    "search_time": 5e-05,
+    "retrieved": [
+      "41 is: 1594651.\nOne of the special magic numbers for 8058260 is: 8819326.\nOne of the special magic numbers for 2789643 is: 9623765.\nOne of the special magic numbers for 6013739 is: 2943879.\nOne of the special magic numbers for 8582168 is: 2853694.\nOne of the special magic numbers for 9281161 is: 5238574.\nOne of the special magic numbers for 1336099 is: 1324556.\nOne of the special magic numbers for 7824986 is",
+      ": 8326121.\nOne of the special magic numbers for 8050967 is: 9311921.\nOne of the special magic numbers for 2635908 is: 3739645.\nOne of the special magic numbers for 7162938 is: 9531898.\nOne of the special magic numbers for 3492818 is: 8884903.\nOne of the special magic numbers for 6974356 is: 2385378.\nOne of the special magic numbers for 9832249 is: 9163369.\nOne of the special magic numbers for 60921",
+      ": 9874081.\nOne of the special magic numbers for 8032396 is: 9752511.\nOne of the special magic numbers for 8760938 is: 1403280.\nOne of the special magic numbers for 8333527 is: 7815679.\nOne of the special magic numbers for 6557357 is: 3365680.\nOne of the special magic numbers for 7228691 is: 2670242.\nOne of the special magic numbers for 2065586 is: 3842932.\nOne of the special magic numbers for 5013495 is: 239",
+      "80321 is: 4309337.\nOne of the special magic numbers for 6539677 is: 2679109.\nOne of the special magic numbers for 6430702 is: 6552593.\nOne of the special magic numbers for 9881197 is: 3384111.\nOne of the special magic numbers for 5226458 is: 5288400.\nOne of the special magic numbers for 3272712 is: 9593000.\nOne of the special magic numbers for 9629635 is: 8605713.\nOne of the special magic numbers for 883190",
+      "One of the special magic numbers for 8034727 is: 6010894.\nOne of the special magic numbers for 2783268 is: 6950203.\nOne of the special magic numbers for 5410904 is: 9343886.\nOne of the special magic numbers for 3206960 is: 6918198.\nOne of the special magic numbers for 3099748 is: 2915085.\nOne of the special magic numbers for 7920784 is: 6588228.\nOne of the special magic numbers for 4377069 is: 801706",
+      ": 5789339.\nOne of the special magic numbers for 8039961 is: 5684027.\nOne of the special magic numbers for 5024409 is: 3838606.\nOne of the special magic numbers for 6069152 is: 7239627.\nOne of the special magic numbers for 2809188 is: 2748217.\nOne of the special magic numbers for 7550397 is: 7402298.\nOne of the special magic numbers for 4657850 is: 9655453.\nOne of the special magic numbers for 668740",
+      ".\nOne of the special magic numbers for 8041425 is: 5817480.\nOne of the special magic numbers for 6918980 is: 3381520.\nOne of the special magic numbers for 2680036 is: 2246255.\nOne of the special magic numbers for 1634899 is: 4797192.\nOne of the special magic numbers for 2909288 is: 1065006.\nOne of the special magic numbers for 6339972 is: 5562062.\nOne of the special magic numbers for 1839887 is: 2424414.\nOne of",
+      "One of the special magic numbers for 8092146 is: 6495199.\nOne of the special magic numbers for 4753533 is: 6003700.\nOne of the special magic numbers for 8566803 is: 4731012.\nOne of the special magic numbers for 5332872 is: 1154670.\nOne of the special magic numbers for 1280985 is: 9713414.\nOne of the special magic numbers for 4954204 is: 1591770.\nOne of the special magic numbers for 6553743 is: 8099832.\nOne of the"
+    ]
+  },
+  {
+    "sample_idx": 20,
+    "query": "What is the special magic numbers for 2549852 mentioned in the provided text? The special magic numbers for 2549852 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.10708,
+    "indexing_time": 0.19941,
+    "query_embed_time": 0.00277,
+    "search_time": 5e-05,
+    "retrieved": [
+      "798.\nOne of the special magic numbers for 2546078 is: 2600845.\nOne of the special magic numbers for 8515773 is: 5934216.\nOne of the special magic numbers for 3806908 is: 8131189.\nOne of the special magic numbers for 3099775 is: 2688562.\nOne of the special magic numbers for 4285340 is: 4940505.\nOne of the special magic numbers for 6842919 is: 5217308.\nOne of the special magic numbers for 9751058 is: 346",
+      "2 is: 9514243.\nOne of the special magic numbers for 2549852 is: 2845932.\nOne of the special magic numbers for 4108261 is: 4976380.\nOne of the special magic numbers for 2035650 is: 1782621.\nOne of the special magic numbers for 8268724 is: 7574991.\nOne of the special magic numbers for 3975388 is: 1527238.\nOne of the special magic numbers for 5452209 is: 7061429.\nOne of the special magic numbers for 8315146 is",
+      "1539.\nOne of the special magic numbers for 2542493 is: 5149480.\nOne of the special magic numbers for 1776884 is: 7069601.\nOne of the special magic numbers for 1551657 is: 9005893.\nOne of the special magic numbers for 8903815 is: 1797009.\nOne of the special magic numbers for 2937042 is: 4264257.\nOne of the special magic numbers for 5001657 is: 7852036.\nOne of the special magic numbers for 2408344 is: 5542771.\nOne",
+      "One of the special magic numbers for 2749262 is: 5021785.\nOne of the special magic numbers for 9991264 is: 8155960.\nOne of the special magic numbers for 3615851 is: 5050664.\nOne of the special magic numbers for 2469665 is: 4231334.\nOne of the special magic numbers for 6537619 is: 3868143.\nOne of the special magic numbers for 8358750 is: 2159317.\nOne of the special magic numbers for 6113453 is: 7538395.\nOne of",
+      "One of the special magic numbers for 3209398 is: 3432796.\nOne of the special magic numbers for 1177504 is: 5427318.\nOne of the special magic numbers for 9108112 is: 1497819.\nOne of the special magic numbers for 8131824 is: 2808803.\nOne of the special magic numbers for 9663640 is: 3576515.\nOne of the special magic numbers for 4690139 is: 3757275.\nOne of the special magic numbers for 4361913 is: 2088519.\nOne of the special",
+      "for 8924752 is: 3831691.\nOne of the special magic numbers for 3192100 is: 2577318.\nOne of the special magic numbers for 8212171 is: 5519304.\nOne of the special magic numbers for 9472839 is: 3633889.\nOne of the special magic numbers for 5656909 is: 8935214.\nOne of the special magic numbers for 4522022 is: 1209242.\nOne of the special magic numbers for 3721015 is: 3608343.\nOne of the special magic numbers for",
+      "of the special magic numbers for 3180446 is: 3055353.\nOne of the special magic numbers for 7580597 is: 3476259.\nOne of the special magic numbers for 8914243 is: 5244461.\nOne of the special magic numbers for 9003719 is: 9976575.\nOne of the special magic numbers for 4231865 is: 1097653.\nOne of the special magic numbers for 3089867 is: 4787028.\nOne of the special magic numbers for 6888614 is: 2365748.\nOne of the special magic",
+      "special magic numbers for 3190133 is: 9364689.\nOne of the special magic numbers for 4342266 is: 5210669.\nOne of the special magic numbers for 1513262 is: 9484914.\nOne of the special magic numbers for 1506661 is: 2630682.\nOne of the special magic numbers for 8999212 is: 9294175.\nOne of the special magic numbers for 2422890 is: 1785223.\nOne of the special magic numbers for 5009692 is: 9668904.\nOne of the"
+    ]
+  },
+  {
+    "sample_idx": 21,
+    "query": "What is the special magic numbers for 6701991 mentioned in the provided text? The special magic numbers for 6701991 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.15707,
+    "indexing_time": 0.19605,
+    "query_embed_time": 0.00276,
+    "search_time": 5e-05,
+    "retrieved": [
+      "6701991 is: 2355900.\nOne of the special magic numbers for 2860473 is: 5609255.\nOne of the special magic numbers for 6380605 is: 4117829.\nOne of the special magic numbers for 6493316 is: 1605472.\nOne of the special magic numbers for 4275185 is: 4170492.\nOne of the special magic numbers for 1918005 is: 3067439.\nOne of the special magic numbers for 9195518 is: 6058405.\nOne of the special magic numbers for 1637247 is",
+      "the special magic numbers for 6105068 is: 4999178.\nOne of the special magic numbers for 1294769 is: 6852256.\nOne of the special magic numbers for 1262698 is: 2947092.\nOne of the special magic numbers for 9109110 is: 4768054.\nOne of the special magic numbers for 3001717 is: 7582030.\nOne of the special magic numbers for 4789159 is: 2883446.\nOne of the special magic numbers for 6537109 is: 1871221.\nOne of the special magic",
+      "for 6727126 is: 1790607.\nOne of the special magic numbers for 5007918 is: 8376701.\nOne of the special magic numbers for 6516771 is: 2607007.\nOne of the special magic numbers for 9121251 is: 4632959.\nOne of the special magic numbers for 8537771 is: 8345348.\nOne of the special magic numbers for 6767761 is: 8537776.\nOne of the special magic numbers for 5526496 is: 6313044.\nOne of the",
+      ".\nOne of the special magic numbers for 6715341 is: 4549488.\nOne of the special magic numbers for 1909324 is: 4395030.\nOne of the special magic numbers for 7825494 is: 1700354.\nOne of the special magic numbers for 6735546 is: 6728057.\nOne of the special magic numbers for 1283274 is: 2145565.\nOne of the special magic numbers for 1674611 is: 7093563.\nOne of the special magic numbers for 6374870 is: 6385467.\nOne of the special",
+      ".\nOne of the special magic numbers for 6707608 is: 9236884.\nOne of the special magic numbers for 2255150 is: 5225653.\nOne of the special magic numbers for 2791065 is: 4687855.\nOne of the special magic numbers for 6618503 is: 8201806.\nOne of the special magic numbers for 5685816 is: 3959505.\nOne of the special magic numbers for 4531940 is: 6250469.\nOne of the special magic numbers for 7327258 is: 9751558.\nOne",
+      ".\nOne of the special magic numbers for 6707725 is: 3221879.\nOne of the special magic numbers for 7578353 is: 8108606.\nOne of the special magic numbers for 5895021 is: 5111137.\nOne of the special magic numbers for 8866138 is: 3455877.\nOne of the special magic numbers for 5312863 is: 8384198.\nOne of the special magic numbers for 6079866 is: 3803388.\nOne of the special magic numbers for 1019282 is: 2628",
+      "7.\nOne of the special magic numbers for 6601891 is: 1832055.\nOne of the special magic numbers for 7514204 is: 1171226.\nOne of the special magic numbers for 3076699 is: 4522296.\nOne of the special magic numbers for 4179567 is: 2336324.\nOne of the special magic numbers for 2852382 is: 3361402.\nOne of the special magic numbers for 6390566 is: 9861405.\nOne of the special magic numbers for 9715762 is: 7595897",
+      "1296191 is: 2726063.\nOne of the special magic numbers for 1573087 is: 5115336.\nOne of the special magic numbers for 1869713 is: 2964465.\nOne of the special magic numbers for 4280383 is: 2696977.\nOne of the special magic numbers for 9936846 is: 9001640.\nOne of the special magic numbers for 3567468 is: 6264491.\nOne of the special magic numbers for 8172966 is: 6357156.\nOne of the special magic numbers for 4701735 is"
+    ]
+  },
+  {
+    "sample_idx": 22,
+    "query": "What is the special magic numbers for 7893317 mentioned in the provided text? The special magic numbers for 7893317 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.15301,
+    "indexing_time": 0.19419,
+    "query_embed_time": 0.00281,
+    "search_time": 5e-05,
+    "retrieved": [
+      "special magic numbers for 7823977 is: 2940117.\nOne of the special magic numbers for 7845770 is: 1057550.\nOne of the special magic numbers for 6219404 is: 1042294.\nOne of the special magic numbers for 7214179 is: 8521483.\nOne of the special magic numbers for 1516758 is: 3375665.\nOne of the special magic numbers for 8496849 is: 2950913.\nOne of the special magic numbers for 6301108 is: 3144690.\nOne of the special magic numbers for",
+      ".\nOne of the special magic numbers for 7874808 is: 1995017.\nOne of the special magic numbers for 7156029 is: 9190270.\nOne of the special magic numbers for 3066735 is: 5390108.\nOne of the special magic numbers for 6078613 is: 6678228.\nOne of the special magic numbers for 8463471 is: 3412175.\nOne of the special magic numbers for 4316920 is: 6698399.\nOne of the special magic numbers for 9168355 is: 741370",
+      "numbers for 7846157 is: 1463455.\nOne of the special magic numbers for 2339671 is: 3705549.\nOne of the special magic numbers for 7698811 is: 8898490.\nOne of the special magic numbers for 7419520 is: 6354939.\nOne of the special magic numbers for 4578463 is: 1404956.\nOne of the special magic numbers for 7810471 is: 7912213.\nOne of the special magic numbers for 8316991 is: 6161128.\nOne of the special magic",
+      "179.\nOne of the special magic numbers for 7830015 is: 6012894.\nOne of the special magic numbers for 7225778 is: 4754814.\nOne of the special magic numbers for 6785983 is: 3696398.\nOne of the special magic numbers for 1172845 is: 2344799.\nOne of the special magic numbers for 4791963 is: 4558179.\nOne of the special magic numbers for 4959941 is: 8474330.\nOne of the special magic numbers for 8924290 is: 45",
+      "of the special magic numbers for 7845770 is: 1057550.\nOne of the special magic numbers for 6219404 is: 1042294.\nOne of the special magic numbers for 7214179 is: 8521483.\nOne of the special magic numbers for 1516758 is: 3375665.\nOne of the special magic numbers for 8496849 is: 2950913.\nOne of the special magic numbers for 6301108 is: 3144690.\nOne of the special magic numbers for 6857124 is: 8473094.\nOne of the special",
+      "magic numbers for 7884592 is: 5293319.\nOne of the special magic numbers for 8174718 is: 5666844.\nOne of the special magic numbers for 6912953 is: 5596657.\nOne of the special magic numbers for 2976340 is: 2632370.\nOne of the special magic numbers for 2049170 is: 1173485.\nOne of the special magic numbers for 5764440 is: 7846241.\nOne of the special magic numbers for 7125524 is: 4912434.\nOne of the special magic numbers for",
+      "the special magic numbers for 7719996 is: 1281079.\nOne of the special magic numbers for 3074823 is: 4096952.\nOne of the special magic numbers for 5546803 is: 7640480.\nOne of the special magic numbers for 6964713 is: 7814476.\nOne of the special magic numbers for 5201779 is: 8645093.\nOne of the special magic numbers for 2115702 is: 2651742.\nOne of the special magic numbers for 7889480 is: 4722940.\nOne of",
+      "is: 1546080.\nOne of the special magic numbers for 7873505 is: 5425139.\nOne of the special magic numbers for 8713581 is: 6508210.\nOne of the special magic numbers for 8514283 is: 8796407.\nOne of the special magic numbers for 9463703 is: 7599146.\nOne of the special magic numbers for 4865182 is: 3804926.\nOne of the special magic numbers for 3125629 is: 3413209.\nOne of the special magic numbers for 6517180 is"
+    ]
+  },
+  {
+    "sample_idx": 23,
+    "query": "What is the special magic numbers for 2246503 mentioned in the provided text? The special magic numbers for 2246503 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.16447,
+    "indexing_time": 0.19831,
+    "query_embed_time": 0.00276,
+    "search_time": 5e-05,
+    "retrieved": [
+      "44853.\nOne of the special magic numbers for 2246503 is: 2867914.\nOne of the special magic numbers for 5815180 is: 4423753.\nOne of the special magic numbers for 2798767 is: 4809464.\nOne of the special magic numbers for 1530181 is: 6768806.\nOne of the special magic numbers for 9464605 is: 7756566.\nOne of the special magic numbers for 8793534 is: 5437026.\nOne of the special magic numbers for 8402718 is: 898",
+      "381.\nOne of the special magic numbers for 2246652 is: 2974990.\nOne of the special magic numbers for 8302673 is: 9397492.\nOne of the special magic numbers for 2611838 is: 9313701.\nOne of the special magic numbers for 2102885 is: 5578033.\nOne of the special magic numbers for 4207850 is: 1065017.\nOne of the special magic numbers for 4201756 is: 5556672.\nOne of the special magic numbers for 7329149 is: 3509988.\nOne of",
+      "numbers for 6580213 is: 5951840.\nOne of the special magic numbers for 9069450 is: 8495786.\nOne of the special magic numbers for 6308675 is: 5092078.\nOne of the special magic numbers for 2717616 is: 4144853.\nOne of the special magic numbers for 2246503 is: 2867914.\nOne of the special magic numbers for 5815180 is: 4423753.\nOne of the special magic numbers for 2798767 is: 4809464.\nOne of the special magic",
+      "003.\nOne of the special magic numbers for 6245619 is: 4739660.\nOne of the special magic numbers for 3365714 is: 8809009.\nOne of the special magic numbers for 5586767 is: 2638650.\nOne of the special magic numbers for 7638518 is: 9060526.\nOne of the special magic numbers for 7922507 is: 5488162.\nOne of the special magic numbers for 3082454 is: 1170104.\nOne of the special magic numbers for 3453499 is: 1382140.\nOne",
+      "special magic numbers for 9069450 is: 8495786.\nOne of the special magic numbers for 6308675 is: 5092078.\nOne of the special magic numbers for 2717616 is: 4144853.\nOne of the special magic numbers for 2246503 is: 2867914.\nOne of the special magic numbers for 5815180 is: 4423753.\nOne of the special magic numbers for 2798767 is: 4809464.\nOne of the special magic numbers for 1530181 is: 6768806.\nOne of",
+      "One of the special magic numbers for 6308675 is: 5092078.\nOne of the special magic numbers for 2717616 is: 4144853.\nOne of the special magic numbers for 2246503 is: 2867914.\nOne of the special magic numbers for 5815180 is: 4423753.\nOne of the special magic numbers for 2798767 is: 4809464.\nOne of the special magic numbers for 1530181 is: 6768806.\nOne of the special magic numbers for 9464605 is: 7756566.",
+      ": 2136696.\nOne of the special magic numbers for 6246934 is: 1213065.\nOne of the special magic numbers for 2346760 is: 2098870.\nOne of the special magic numbers for 2195067 is: 8567574.\nOne of the special magic numbers for 3364577 is: 5962947.\nOne of the special magic numbers for 5975829 is: 7355864.\nOne of the special magic numbers for 5955246 is: 2890875.\nOne of the special magic numbers for 4536563 is: 53",
+      "77100.\nOne of the special magic numbers for 2248049 is: 3403289.\nOne of the special magic numbers for 1436698 is: 5002988.\nOne of the special magic numbers for 2173729 is: 9569429.\nOne of the special magic numbers for 5030763 is: 3290388.\nOne of the special magic numbers for 8741404 is: 4512478.\nOne of the special magic numbers for 2679404 is: 4268980.\nOne of the special magic numbers for 6838024 is: 1010"
+    ]
+  },
+  {
+    "sample_idx": 24,
+    "query": "What is the special magic numbers for 8982440 mentioned in the provided text? The special magic numbers for 8982440 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.43146,
+    "indexing_time": 0.19565,
+    "query_embed_time": 0.00286,
+    "search_time": 5e-05,
+    "retrieved": [
+      ": 1011702.\nOne of the special magic numbers for 8874023 is: 4363536.\nOne of the special magic numbers for 4600813 is: 6967153.\nOne of the special magic numbers for 8624638 is: 2994365.\nOne of the special magic numbers for 9722341 is: 6432495.\nOne of the special magic numbers for 9533328 is: 9879123.\nOne of the special magic numbers for 2853482 is: 9882508.\nOne of the special magic numbers for 6548248 is",
+      "special magic numbers for 8961840 is: 7040438.\nOne of the special magic numbers for 2086842 is: 3426844.\nOne of the special magic numbers for 2058026 is: 3571095.\nOne of the special magic numbers for 7265451 is: 3936210.\nOne of the special magic numbers for 5237917 is: 4226177.\nOne of the special magic numbers for 8242689 is: 4814111.\nOne of the special magic numbers for 6367065 is: 2536661.\nOne of the special magic",
+      "of the special magic numbers for 8908911 is: 1975647.\nOne of the special magic numbers for 3802731 is: 1157738.\nOne of the special magic numbers for 6596723 is: 9892156.\nOne of the special magic numbers for 9323725 is: 6933330.\nOne of the special magic numbers for 4536696 is: 5058170.\nOne of the special magic numbers for 2140253 is: 4242033.\nOne of the special magic numbers for 9068311 is: 1975255.\nOne of",
+      "magic numbers for 8982440 is: 6485376.\nOne of the special magic numbers for 9401280 is: 2815692.\nOne of the special magic numbers for 6514747 is: 9682300.\nOne of the special magic numbers for 5021479 is: 9148345.\nOne of the special magic numbers for 5717536 is: 5554931.\nOne of the special magic numbers for 5687753 is: 8517182.\nOne of the special magic numbers for 3093912 is: 7834550.\nOne of the special magic numbers for",
+      "88 is: 4028745.\nOne of the special magic numbers for 8900060 is: 7418085.\nOne of the special magic numbers for 3129056 is: 4117370.\nOne of the special magic numbers for 4291923 is: 8788857.\nOne of the special magic numbers for 8345054 is: 9610045.\nOne of the special magic numbers for 2603655 is: 3854333.\nOne of the special magic numbers for 4100814 is: 3546089.\nOne of the special magic numbers for 3724313 is: 51",
+      "3812.\nOne of the special magic numbers for 8857207 is: 2730885.\nOne of the special magic numbers for 4099047 is: 5227222.\nOne of the special magic numbers for 2510291 is: 3307039.\nOne of the special magic numbers for 9488216 is: 5968750.\nOne of the special magic numbers for 7987789 is: 7693958.\nOne of the special magic numbers for 8941095 is: 5810197.\nOne of the special magic numbers for 3181561 is:",
+      "8048899 is: 9874366.\nOne of the special magic numbers for 8602371 is: 4818624.\nOne of the special magic numbers for 6055485 is: 5875897.\nOne of the special magic numbers for 6368164 is: 2167898.\nOne of the special magic numbers for 9088211 is: 3018029.\nOne of the special magic numbers for 5392262 is: 9873956.\nOne of the special magic numbers for 8808393 is: 2142031.\nOne of the special",
+      "for 8989406 is: 5561362.\nOne of the special magic numbers for 3829875 is: 1514699.\nOne of the special magic numbers for 7623079 is: 6439690.\nOne of the special magic numbers for 8958328 is: 1278104.\nOne of the special magic numbers for 3266649 is: 5681163.\nOne of the special magic numbers for 3590321 is: 3486504.\nOne of the special magic numbers for 6252139 is: 3851339.\nOne of the special magic numbers for"
+    ]
+  },
+  {
+    "sample_idx": 25,
+    "query": "What is the special magic numbers for 2367677 mentioned in the provided text? The special magic numbers for 2367677 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.00801,
+    "indexing_time": 0.21954,
+    "query_embed_time": 0.00288,
+    "search_time": 6e-05,
+    "retrieved": [
+      "magic numbers for 2407571 is: 6728124.\nOne of the special magic numbers for 6136677 is: 9838786.\nOne of the special magic numbers for 2705775 is: 2296509.\nOne of the special magic numbers for 4702121 is: 3825367.\nOne of the special magic numbers for 5895343 is: 6339553.\nOne of the special magic numbers for 7922503 is: 7234718.\nOne of the special magic numbers for 9174380 is: 8467499.\nOne of the special magic numbers",
+      "One of the special magic numbers for 1597433 is: 6749915.\nOne of the special magic numbers for 6871317 is: 6806841.\nOne of the special magic numbers for 1440050 is: 8335812.\nOne of the special magic numbers for 8298601 is: 6794207.\nOne of the special magic numbers for 4120954 is: 6484788.\nOne of the special magic numbers for 1400658 is: 2046068.\nOne of the special magic numbers for 4336465 is: 1672975.\nOne of the",
+      "the special magic numbers for 7106375 is: 6714255.\nOne of the special magic numbers for 5602031 is: 2613058.\nOne of the special magic numbers for 3500533 is: 1251534.\nOne of the special magic numbers for 9776309 is: 2140029.\nOne of the special magic numbers for 2401775 is: 9069124.\nOne of the special magic numbers for 4275054 is: 5911534.\nOne of the special magic numbers for 6167823 is: 6278851.\nOne of the special magic",
+      "special magic numbers for 7007765 is: 7332963.\nOne of the special magic numbers for 3132928 is: 2344807.\nOne of the special magic numbers for 3787723 is: 3099497.\nOne of the special magic numbers for 6548275 is: 4546283.\nOne of the special magic numbers for 2344313 is: 2870158.\nOne of the special magic numbers for 9158684 is: 3684034.\nOne of the special magic numbers for 2506195 is: 9597857.\nOne of the special",
+      "the special magic numbers for 2457584 is: 5820948.\nOne of the special magic numbers for 9333589 is: 6097945.\nOne of the special magic numbers for 6207890 is: 8585777.\nOne of the special magic numbers for 9760825 is: 4743764.\nOne of the special magic numbers for 1802331 is: 4405657.\nOne of the special magic numbers for 7672116 is: 7233667.\nOne of the special magic numbers for 7971571 is: 8195057.\nOne of the",
+      "9497.\nOne of the special magic numbers for 6548275 is: 4546283.\nOne of the special magic numbers for 2344313 is: 2870158.\nOne of the special magic numbers for 9158684 is: 3684034.\nOne of the special magic numbers for 2506195 is: 9597857.\nOne of the special magic numbers for 8657255 is: 8966056.\nOne of the special magic numbers for 9076748 is: 8090073.\nOne of the special magic numbers for 3217013 is: 33364",
+      "the special magic numbers for 1677612 is: 9106595.\nOne of the special magic numbers for 7168065 is: 9972503.\nOne of the special magic numbers for 8277752 is: 3373558.\nOne of the special magic numbers for 4167572 is: 1770732.\nOne of the special magic numbers for 9890076 is: 6236890.\nOne of the special magic numbers for 8204631 is: 3118224.\nOne of the special magic numbers for 9286355 is: 5512562.\nOne of the",
+      "is: 1767513.\nOne of the special magic numbers for 8447767 is: 5706147.\nOne of the special magic numbers for 2774757 is: 9734841.\nOne of the special magic numbers for 9953665 is: 7114645.\nOne of the special magic numbers for 7698570 is: 4436171.\nOne of the special magic numbers for 3862448 is: 7778283.\nOne of the special magic numbers for 5753570 is: 2096415.\nOne of the special magic numbers for 1104275 is: 33558"
+    ]
+  },
+  {
+    "sample_idx": 26,
+    "query": "What is the special magic numbers for 3303787 mentioned in the provided text? The special magic numbers for 3303787 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.08393,
+    "indexing_time": 0.19677,
+    "query_embed_time": 0.00287,
+    "search_time": 4e-05,
+    "retrieved": [
+      "2707.\nOne of the special magic numbers for 3301667 is: 5950352.\nOne of the special magic numbers for 2432264 is: 5585035.\nOne of the special magic numbers for 2275538 is: 2254428.\nOne of the special magic numbers for 1233853 is: 8658735.\nOne of the special magic numbers for 5559369 is: 3848888.\nOne of the special magic numbers for 9478073 is: 3882841.\nOne of the special magic numbers for 4889709 is: 8326148",
+      "One of the special magic numbers for 3309032 is: 9146914.\nOne of the special magic numbers for 7183935 is: 5988086.\nOne of the special magic numbers for 1370205 is: 1451741.\nOne of the special magic numbers for 5956486 is: 6623390.\nOne of the special magic numbers for 6332202 is: 4084136.\nOne of the special magic numbers for 4346919 is: 8347770.\nOne of the special magic numbers for 2973275 is: 3903614.\nOne of the special magic numbers",
+      "magic numbers for 3305805 is: 2082492.\nOne of the special magic numbers for 9663875 is: 9706104.\nOne of the special magic numbers for 6081788 is: 7524073.\nOne of the special magic numbers for 7595268 is: 9060225.\nOne of the special magic numbers for 2425983 is: 1148146.\nOne of the special magic numbers for 8470931 is: 4631134.\nOne of the special magic numbers for 2565269 is: 2468087.\nOne of",
+      "the special magic numbers for 3306565 is: 4734127.\nOne of the special magic numbers for 6617652 is: 1803403.\nOne of the special magic numbers for 5005495 is: 9471454.\nOne of the special magic numbers for 4240578 is: 4232071.\nOne of the special magic numbers for 6487389 is: 5290327.\nOne of the special magic numbers for 3104425 is: 1006671.\nOne of the special magic numbers for 4863701 is: 7660489.\nOne of the special magic",
+      "of the special magic numbers for 3308200 is: 5905529.\nOne of the special magic numbers for 8168762 is: 8620781.\nOne of the special magic numbers for 5999446 is: 5819803.\nOne of the special magic numbers for 3939043 is: 4084834.\nOne of the special magic numbers for 2448210 is: 3847539.\nOne of the special magic numbers for 1949981 is: 2115076.\nOne of the special magic numbers for 4618847 is: 3107012.\nOne of",
+      "magic numbers for 3308003 is: 3584028.\nOne of the special magic numbers for 7417081 is: 8166989.\nOne of the special magic numbers for 3882300 is: 4918722.\nOne of the special magic numbers for 8343614 is: 1248409.\nOne of the special magic numbers for 2063180 is: 7296817.\nOne of the special magic numbers for 3948495 is: 6009156.\nOne of the special magic numbers for 4124927 is: 1680291.\nOne of the special magic numbers",
+      ": 8946712.\nOne of the special magic numbers for 3305693 is: 8325788.\nOne of the special magic numbers for 4119473 is: 4488167.\nOne of the special magic numbers for 4418189 is: 5531951.\nOne of the special magic numbers for 7627340 is: 4679453.\nOne of the special magic numbers for 1246446 is: 7574684.\nOne of the special magic numbers for 7597337 is: 8872150.\nOne of the special magic numbers for 352187",
+      "3303935 is: 1575320.\nOne of the special magic numbers for 1478985 is: 1981128.\nOne of the special magic numbers for 7113478 is: 5421884.\nOne of the special magic numbers for 8473195 is: 6387814.\nOne of the special magic numbers for 9032330 is: 1398537.\nOne of the special magic numbers for 3481711 is: 8968433.\nOne of the special magic numbers for 2863245 is: 4591487.\nOne of the special magic numbers for 69000"
+    ]
+  },
+  {
+    "sample_idx": 27,
+    "query": "What is the special magic numbers for 8217685 mentioned in the provided text? The special magic numbers for 8217685 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.92948,
+    "indexing_time": 0.19527,
+    "query_embed_time": 0.0029,
+    "search_time": 4e-05,
+    "retrieved": [
+      "One of the special magic numbers for 8218180 is: 4832773.\nOne of the special magic numbers for 8594899 is: 6230865.\nOne of the special magic numbers for 1131239 is: 2066045.\nOne of the special magic numbers for 4145765 is: 6570829.\nOne of the special magic numbers for 9875097 is: 7132852.\nOne of the special magic numbers for 3943983 is: 3578111.\nOne of the special magic numbers for 5252603 is: 4918614.",
+      "821 is: 3895427.\nOne of the special magic numbers for 4509696 is: 3947837.\nOne of the special magic numbers for 8604686 is: 5866016.\nOne of the special magic numbers for 6537358 is: 8828030.\nOne of the special magic numbers for 7654568 is: 8270944.\nOne of the special magic numbers for 3704584 is: 8226546.\nOne of the special magic numbers for 7680514 is: 9174843.\nOne of the special magic numbers for 81479",
+      "of the special magic numbers for 8561553 is: 1137588.\nOne of the special magic numbers for 6437210 is: 1316011.\nOne of the special magic numbers for 5939586 is: 5843418.\nOne of the special magic numbers for 6857742 is: 7379226.\nOne of the special magic numbers for 8749872 is: 6206040.\nOne of the special magic numbers for 8185707 is: 8749803.\nOne of the special magic numbers for 1356641 is: 4612574.\nOne of the special magic",
+      "the special magic numbers for 8288508 is: 1741860.\nOne of the special magic numbers for 6632712 is: 7701797.\nOne of the special magic numbers for 3746296 is: 7688153.\nOne of the special magic numbers for 2020194 is: 9362874.\nOne of the special magic numbers for 3140623 is: 3294615.\nOne of the special magic numbers for 1530315 is: 1633174.\nOne of the special magic numbers for 5492191 is: 3614625.\nOne of the",
+      "for 8381610 is: 8469642.\nOne of the special magic numbers for 8604017 is: 3064608.\nOne of the special magic numbers for 8967986 is: 3230502.\nOne of the special magic numbers for 8260110 is: 1978396.\nOne of the special magic numbers for 5571016 is: 9611943.\nOne of the special magic numbers for 7948158 is: 2244518.\nOne of the special magic numbers for 9813418 is: 3889423.\nOne of the special magic numbers for",
+      "of the special magic numbers for 8217091 is: 7622891.\nOne of the special magic numbers for 5480262 is: 3196574.\nOne of the special magic numbers for 2634918 is: 3853262.\nOne of the special magic numbers for 6701042 is: 7436200.\nOne of the special magic numbers for 6572596 is: 2752142.\nOne of the special magic numbers for 2591627 is: 7148221.\nOne of the special magic numbers for 7727486 is: 9529438.\nOne of the special magic",
+      "of the special magic numbers for 8232247 is: 1861718.\nOne of the special magic numbers for 8649236 is: 9385067.\nOne of the special magic numbers for 2407125 is: 6214385.\nOne of the special magic numbers for 3411317 is: 6114594.\nOne of the special magic numbers for 7453726 is: 1236749.\nOne of the special magic numbers for 7814685 is: 7462334.\nOne of the special magic numbers for 4786183 is: 1102475.\nOne of the special magic",
+      "numbers for 8241249 is: 9464617.\nOne of the special magic numbers for 5522268 is: 7871884.\nOne of the special magic numbers for 9853743 is: 8586946.\nOne of the special magic numbers for 3201197 is: 9003740.\nOne of the special magic numbers for 4610948 is: 5174900.\nOne of the special magic numbers for 5348926 is: 3049841.\nOne of the special magic numbers for 8978488 is: 8044976.\nOne of the special magic"
+    ]
+  },
+  {
+    "sample_idx": 28,
+    "query": "What is the special magic numbers for 8138133 mentioned in the provided text? The special magic numbers for 8138133 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.18359,
+    "indexing_time": 0.19613,
+    "query_embed_time": 0.00295,
+    "search_time": 6e-05,
+    "retrieved": [
+      "the special magic numbers for 8138133 is: 3413543.\nOne of the special magic numbers for 4922410 is: 9852632.\nOne of the special magic numbers for 2097335 is: 3466810.\nOne of the special magic numbers for 6465644 is: 5014781.\nOne of the special magic numbers for 7728685 is: 8359675.\nOne of the special magic numbers for 7943866 is: 7877570.\nOne of the special magic numbers for 4845353 is: 7177882.\nOne of the",
+      "special magic numbers for 8109838 is: 5329817.\nOne of the special magic numbers for 9374253 is: 8160790.\nOne of the special magic numbers for 6448717 is: 7222261.\nOne of the special magic numbers for 1556339 is: 4705437.\nOne of the special magic numbers for 7692329 is: 9143027.\nOne of the special magic numbers for 6098019 is: 5653829.\nOne of the special magic numbers for 2438951 is: 7978758.\nOne of the special",
+      "77534.\nOne of the special magic numbers for 8198813 is: 1426434.\nOne of the special magic numbers for 3928067 is: 9086686.\nOne of the special magic numbers for 3874568 is: 8583829.\nOne of the special magic numbers for 8215588 is: 1318136.\nOne of the special magic numbers for 3413869 is: 2556929.\nOne of the special magic numbers for 2597660 is: 2646370.\nOne of the special magic numbers for 6436425 is: 67",
+      "special magic numbers for 8163802 is: 8975750.\nOne of the special magic numbers for 1136942 is: 9496062.\nOne of the special magic numbers for 9932723 is: 2174470.\nOne of the special magic numbers for 4783428 is: 7778185.\nOne of the special magic numbers for 5633743 is: 1975680.\nOne of the special magic numbers for 1457305 is: 5619743.\nOne of the special magic numbers for 1322348 is: 8123537.\nOne of the special magic",
+      "the special magic numbers for 8187073 is: 7574966.\nOne of the special magic numbers for 3103110 is: 7970480.\nOne of the special magic numbers for 7415690 is: 1841795.\nOne of the special magic numbers for 6128206 is: 8301597.\nOne of the special magic numbers for 1847389 is: 7707960.\nOne of the special magic numbers for 5712849 is: 8321763.\nOne of the special magic numbers for 5682129 is: 4214165.\nOne of the special magic",
+      "2.\nOne of the special magic numbers for 8166525 is: 6035531.\nOne of the special magic numbers for 7549944 is: 9061954.\nOne of the special magic numbers for 4918292 is: 1745864.\nOne of the special magic numbers for 3570109 is: 2072966.\nOne of the special magic numbers for 7202324 is: 5556025.\nOne of the special magic numbers for 8983446 is: 8595427.\nOne of the special magic numbers for 2062042 is: 1691981.\nOne of the special magic",
+      "the special magic numbers for 6003883 is: 4398742.\nOne of the special magic numbers for 5527589 is: 8185835.\nOne of the special magic numbers for 4881329 is: 9729936.\nOne of the special magic numbers for 2013133 is: 6708996.\nOne of the special magic numbers for 3586247 is: 9758205.\nOne of the special magic numbers for 8300489 is: 2526477.\nOne of the special magic numbers for 6792040 is: 4312744.\nOne of the",
+      "magic numbers for 8139680 is: 9817745.\nOne of the special magic numbers for 8138133 is: 3413543.\nOne of the special magic numbers for 4922410 is: 9852632.\nOne of the special magic numbers for 2097335 is: 3466810.\nOne of the special magic numbers for 6465644 is: 5014781.\nOne of the special magic numbers for 7728685 is: 8359675.\nOne of the special magic numbers for 7943866 is: 7877570.\nOne of the special magic numbers for"
+    ]
+  },
+  {
+    "sample_idx": 29,
+    "query": "What is the special magic numbers for 9358480 mentioned in the provided text? The special magic numbers for 9358480 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.01541,
+    "indexing_time": 0.1975,
+    "query_embed_time": 0.00279,
+    "search_time": 5e-05,
+    "retrieved": [
+      "9938.\nOne of the special magic numbers for 9358480 is: 5692096.\nOne of the special magic numbers for 2080772 is: 3548333.\nOne of the special magic numbers for 7853264 is: 2296663.\nOne of the special magic numbers for 4284853 is: 3078987.\nOne of the special magic numbers for 2234205 is: 5479323.\nOne of the special magic numbers for 8489056 is: 9019426.\nOne of the special magic numbers for 1286340 is",
+      "the special magic numbers for 9323988 is: 5425788.\nOne of the special magic numbers for 9550802 is: 3715992.\nOne of the special magic numbers for 4003034 is: 3752902.\nOne of the special magic numbers for 1078748 is: 6254150.\nOne of the special magic numbers for 4078282 is: 8397996.\nOne of the special magic numbers for 5601454 is: 1764565.\nOne of the special magic numbers for 4533102 is: 5882504.\nOne of",
+      ": 8158395.\nOne of the special magic numbers for 9395030 is: 6284046.\nOne of the special magic numbers for 8982234 is: 5833599.\nOne of the special magic numbers for 1965319 is: 3319740.\nOne of the special magic numbers for 6362761 is: 4287528.\nOne of the special magic numbers for 2134669 is: 5172038.\nOne of the special magic numbers for 2519700 is: 8625095.\nOne of the special magic numbers for 8528679 is",
+      "the special magic numbers for 9343350 is: 2943546.\nOne of the special magic numbers for 6060969 is: 9618449.\nOne of the special magic numbers for 8760002 is: 7114027.\nOne of the special magic numbers for 9522476 is: 6439704.\nOne of the special magic numbers for 8035087 is: 8581831.\nOne of the special magic numbers for 8247019 is: 1753503.\nOne of the special magic numbers for 8965516 is: 2932621.\nOne of the special magic",
+      "magic numbers for 9360045 is: 1524710.\nOne of the special magic numbers for 8711789 is: 9911254.\nOne of the special magic numbers for 9809685 is: 6762614.\nOne of the special magic numbers for 8034718 is: 6707980.\nOne of the special magic numbers for 2747128 is: 3270500.\nOne of the special magic numbers for 5892517 is: 4063701.\nOne of the special magic numbers for 7043687 is: 5369170.\nOne of the special magic numbers",
+      "of the special magic numbers for 9338479 is: 8879604.\nOne of the special magic numbers for 4979571 is: 4225316.\nOne of the special magic numbers for 9821137 is: 2852707.\nOne of the special magic numbers for 8983598 is: 1721005.\nOne of the special magic numbers for 5705586 is: 3538859.\nOne of the special magic numbers for 9627043 is: 2516328.\nOne of the special magic numbers for 1568471 is: 6319083.\nOne of",
+      "is: 3064546.\nOne of the special magic numbers for 9397593 is: 7241980.\nOne of the special magic numbers for 9796488 is: 8878189.\nOne of the special magic numbers for 6148588 is: 8696143.\nOne of the special magic numbers for 9843946 is: 9107097.\nOne of the special magic numbers for 4683804 is: 9673593.\nOne of the special magic numbers for 1240055 is: 1841554.\nOne of the special magic numbers for 641428",
+      "931 is: 1517631.\nOne of the special magic numbers for 9845250 is: 7722372.\nOne of the special magic numbers for 5265159 is: 5523889.\nOne of the special magic numbers for 9436861 is: 3941025.\nOne of the special magic numbers for 1883260 is: 2855406.\nOne of the special magic numbers for 2788384 is: 4678391.\nOne of the special magic numbers for 6030618 is: 1468869.\nOne of the special magic numbers for 83940"
+    ]
+  },
+  {
+    "sample_idx": 30,
+    "query": "What is the special magic numbers for 2897719 mentioned in the provided text? The special magic numbers for 2897719 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.1113,
+    "indexing_time": 0.1959,
+    "query_embed_time": 0.00279,
+    "search_time": 5e-05,
+    "retrieved": [
+      "of the special magic numbers for 1616081 is: 9942302.\nOne of the special magic numbers for 7119001 is: 9891723.\nOne of the special magic numbers for 9736758 is: 6920414.\nOne of the special magic numbers for 1530466 is: 2576687.\nOne of the special magic numbers for 2099116 is: 4122540.\nOne of the special magic numbers for 3050494 is: 6414667.\nOne of the special magic numbers for 2938025 is: 9837058.\nOne of the special magic",
+      "the special magic numbers for 2103167 is: 2907363.\nOne of the special magic numbers for 3166565 is: 5893231.\nOne of the special magic numbers for 6943259 is: 6552937.\nOne of the special magic numbers for 7746969 is: 1189900.\nOne of the special magic numbers for 3417857 is: 6659590.\nOne of the special magic numbers for 6392726 is: 2575637.\nOne of the special magic numbers for 4484520 is: 2017805.\nOne of the special magic numbers",
+      "of the special magic numbers for 2893377 is: 7114491.\nOne of the special magic numbers for 1884603 is: 7417456.\nOne of the special magic numbers for 8080434 is: 5520061.\nOne of the special magic numbers for 2085700 is: 7142227.\nOne of the special magic numbers for 5387927 is: 3384520.\nOne of the special magic numbers for 8370482 is: 1026797.\nOne of the special magic numbers for 6011691 is: 6054524.\nOne of the",
+      "magic numbers for 2899756 is: 4141671.\nOne of the special magic numbers for 9797433 is: 4795474.\nOne of the special magic numbers for 6433248 is: 2321939.\nOne of the special magic numbers for 1019705 is: 8406410.\nOne of the special magic numbers for 4539769 is: 5350099.\nOne of the special magic numbers for 6204159 is: 9095893.\nOne of the special magic numbers for 5119173 is: 8464618.\nOne of the special",
+      "6920414.\nOne of the special magic numbers for 1530466 is: 2576687.\nOne of the special magic numbers for 2099116 is: 4122540.\nOne of the special magic numbers for 3050494 is: 6414667.\nOne of the special magic numbers for 2938025 is: 9837058.\nOne of the special magic numbers for 6077629 is: 4306177.\nOne of the special magic numbers for 8440718 is: 8782232.\nOne of the special magic numbers for 8997455 is: 1407",
+      "1 is: 3568840.\nOne of the special magic numbers for 6791887 is: 7617374.\nOne of the special magic numbers for 1398542 is: 8551649.\nOne of the special magic numbers for 4995542 is: 4107766.\nOne of the special magic numbers for 2871589 is: 4131525.\nOne of the special magic numbers for 2762913 is: 7379792.\nOne of the special magic numbers for 1376716 is: 1553237.\nOne of the special magic numbers for 1702856 is: 71",
+      ": 4058592.\nOne of the special magic numbers for 1598467 is: 5575887.\nOne of the special magic numbers for 6139694 is: 8373538.\nOne of the special magic numbers for 2677968 is: 2075774.\nOne of the special magic numbers for 2431681 is: 1473901.\nOne of the special magic numbers for 7006742 is: 7744128.\nOne of the special magic numbers for 7840900 is: 2646771.\nOne of the special magic numbers for 3684565",
+      "the special magic numbers for 2817673 is: 2682960.\nOne of the special magic numbers for 8875019 is: 5620375.\nOne of the special magic numbers for 9011260 is: 4974556.\nOne of the special magic numbers for 2902295 is: 3993761.\nOne of the special magic numbers for 2981707 is: 7518752.\nOne of the special magic numbers for 2798204 is: 7223605.\nOne of the special magic numbers for 4452567 is: 3219373.\nOne of the"
+    ]
+  },
+  {
+    "sample_idx": 31,
+    "query": "What is the special magic numbers for 8195196 mentioned in the provided text? The special magic numbers for 8195196 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.83463,
+    "indexing_time": 0.1961,
+    "query_embed_time": 0.00286,
+    "search_time": 5e-05,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 8190996 is: 9419760.\nOne of the special magic numbers for 5723841 is: 6271999.\nOne of the special magic numbers for 4999389 is: 9586637.\nOne of the special magic numbers for 7164281 is: 5634074.\nOne of the special magic numbers for 1201145 is: 2690498.\nOne of the special magic numbers for 2367733 is: 2235146.\nOne of the special magic numbers for 5054983 is: 7062617",
+      "magic numbers for 8195196 is: 7216815.\nOne of the special magic numbers for 2060065 is: 9504832.\nOne of the special magic numbers for 5907984 is: 6246502.\nOne of the special magic numbers for 7546342 is: 8835776.\nOne of the special magic numbers for 6406776 is: 5545007.\nOne of the special magic numbers for 7703604 is: 6459367.\nOne of the special magic numbers for 4977100 is: 4445401.\nOne of the special",
+      "of the special magic numbers for 8102243 is: 8418631.\nOne of the special magic numbers for 5622157 is: 6613337.\nOne of the special magic numbers for 9118446 is: 6914853.\nOne of the special magic numbers for 2238334 is: 3533528.\nOne of the special magic numbers for 9605168 is: 4576314.\nOne of the special magic numbers for 8571709 is: 5590244.\nOne of the special magic numbers for 9856290 is: 5390149.\nOne",
+      "9 is: 5910291.\nOne of the special magic numbers for 8195006 is: 1471547.\nOne of the special magic numbers for 6656041 is: 9085982.\nOne of the special magic numbers for 9681089 is: 7878567.\nOne of the special magic numbers for 3302343 is: 7465453.\nOne of the special magic numbers for 8640854 is: 5012779.\nOne of the special magic numbers for 8800731 is: 3243071.\nOne of the special magic numbers for 6236315",
+      "special magic numbers for 8130674 is: 6180746.\nOne of the special magic numbers for 6185198 is: 1218236.\nOne of the special magic numbers for 8665241 is: 6621714.\nOne of the special magic numbers for 8735106 is: 7134140.\nOne of the special magic numbers for 4496714 is: 7266280.\nOne of the special magic numbers for 9715647 is: 8667568.\nOne of the special magic numbers for 8209329 is: 9450505.\nOne of",
+      "of the special magic numbers for 8155566 is: 6681061.\nOne of the special magic numbers for 1278199 is: 9325409.\nOne of the special magic numbers for 9399756 is: 9179105.\nOne of the special magic numbers for 9010541 is: 9708017.\nOne of the special magic numbers for 5396937 is: 3362633.\nOne of the special magic numbers for 6450472 is: 5413146.\nOne of the special magic numbers for 3356783 is: 2067520.",
+      "magic numbers for 8194554 is: 5813467.\nOne of the special magic numbers for 9383385 is: 7324060.\nOne of the special magic numbers for 5973309 is: 9374314.\nOne of the special magic numbers for 3463627 is: 8708042.\nOne of the special magic numbers for 7616515 is: 2414078.\nOne of the special magic numbers for 5007400 is: 6017791.\nOne of the special magic numbers for 2059232 is: 5821024.\nOne of the special magic numbers",
+      "numbers for 8943588 is: 5105013.\nOne of the special magic numbers for 9666707 is: 3636786.\nOne of the special magic numbers for 9907927 is: 5161544.\nOne of the special magic numbers for 8145309 is: 7855385.\nOne of the special magic numbers for 8211225 is: 2578173.\nOne of the special magic numbers for 2462785 is: 1734806.\nOne of the special magic numbers for 6868794 is: 1103098.\nOne of the special magic numbers for"
+    ]
+  },
+  {
+    "sample_idx": 32,
+    "query": "What is the special magic numbers for 7437883 mentioned in the provided text? The special magic numbers for 7437883 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.2713,
+    "indexing_time": 0.19604,
+    "query_embed_time": 0.00289,
+    "search_time": 5e-05,
+    "retrieved": [
+      "the special magic numbers for 7418846 is: 8582188.\nOne of the special magic numbers for 5164798 is: 2118547.\nOne of the special magic numbers for 7094687 is: 8255363.\nOne of the special magic numbers for 1462237 is: 3918495.\nOne of the special magic numbers for 8525920 is: 9451584.\nOne of the special magic numbers for 8506524 is: 4723532.\nOne of the special magic numbers for 3508016 is: 1279773.\nOne of the special",
+      "of the special magic numbers for 7437883 is: 8963025.\nOne of the special magic numbers for 9402836 is: 3217341.\nOne of the special magic numbers for 6079468 is: 3484159.\nOne of the special magic numbers for 4653782 is: 4034558.\nOne of the special magic numbers for 7401100 is: 5817511.\nOne of the special magic numbers for 2380899 is: 3232438.\nOne of the special magic numbers for 4335344 is: 8261259.\nOne of",
+      "the special magic numbers for 7487763 is: 1458762.\nOne of the special magic numbers for 9150866 is: 2557063.\nOne of the special magic numbers for 6273136 is: 1467972.\nOne of the special magic numbers for 6446515 is: 7475555.\nOne of the special magic numbers for 3515622 is: 7153825.\nOne of the special magic numbers for 6407186 is: 4624604.\nOne of the special magic numbers for 9814547 is: 5417666.\nOne of",
+      "5304.\nOne of the special magic numbers for 7488318 is: 1516682.\nOne of the special magic numbers for 7195966 is: 5841893.\nOne of the special magic numbers for 4261487 is: 2751355.\nOne of the special magic numbers for 5475124 is: 4612938.\nOne of the special magic numbers for 1444473 is: 1017873.\nOne of the special magic numbers for 9012875 is: 6795212.\nOne of the special magic numbers for 5838454 is:",
+      "1322176.\nOne of the special magic numbers for 7466249 is: 9217947.\nOne of the special magic numbers for 2771579 is: 6973589.\nOne of the special magic numbers for 4904248 is: 2539368.\nOne of the special magic numbers for 7320783 is: 2003117.\nOne of the special magic numbers for 2175793 is: 1529113.\nOne of the special magic numbers for 8174881 is: 3199902.\nOne of the special magic numbers for 5065403 is: 267",
+      "numbers for 7320783 is: 2003117.\nOne of the special magic numbers for 2175793 is: 1529113.\nOne of the special magic numbers for 8174881 is: 3199902.\nOne of the special magic numbers for 5065403 is: 2674805.\nOne of the special magic numbers for 6633762 is: 6095735.\nOne of the special magic numbers for 3516379 is: 8448104.\nOne of the special magic numbers for 1538932 is: 1079888.\nOne of the special",
+      "of the special magic numbers for 7498186 is: 9314701.\nOne of the special magic numbers for 9041539 is: 5455246.\nOne of the special magic numbers for 8577641 is: 2943935.\nOne of the special magic numbers for 8306730 is: 8105024.\nOne of the special magic numbers for 3485286 is: 2136756.\nOne of the special magic numbers for 5951899 is: 6940435.\nOne of the special magic numbers for 1041197 is: 1668780.",
+      "magic numbers for 7495787 is: 9387055.\nOne of the special magic numbers for 2458458 is: 4577938.\nOne of the special magic numbers for 8884014 is: 7218841.\nOne of the special magic numbers for 6853461 is: 4099684.\nOne of the special magic numbers for 1627358 is: 9088848.\nOne of the special magic numbers for 4381073 is: 9268112.\nOne of the special magic numbers for 3423352 is: 546707"
+    ]
+  },
+  {
+    "sample_idx": 33,
+    "query": "What is the special magic numbers for 5930632 mentioned in the provided text? The special magic numbers for 5930632 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.39841,
+    "indexing_time": 0.19391,
+    "query_embed_time": 0.00281,
+    "search_time": 4e-05,
+    "retrieved": [
+      "the special magic numbers for 5973018 is: 9492896.\nOne of the special magic numbers for 8308987 is: 6006242.\nOne of the special magic numbers for 3324294 is: 7951795.\nOne of the special magic numbers for 1363158 is: 6609810.\nOne of the special magic numbers for 4944104 is: 5472901.\nOne of the special magic numbers for 6715140 is: 6285856.\nOne of the special magic numbers for 4606227 is: 5073068.",
+      "the special magic numbers for 5930177 is: 2200755.\nOne of the special magic numbers for 2772831 is: 6414839.\nOne of the special magic numbers for 9365240 is: 2406024.\nOne of the special magic numbers for 3403184 is: 1815713.\nOne of the special magic numbers for 4377368 is: 6770885.\nOne of the special magic numbers for 6080723 is: 9306400.\nOne of the special magic numbers for 1929813 is: 5543397.\nOne of the special magic numbers for 328",
+      ".\nOne of the special magic numbers for 5930230 is: 9064910.\nOne of the special magic numbers for 3657858 is: 9718366.\nOne of the special magic numbers for 4130314 is: 7568206.\nOne of the special magic numbers for 3516944 is: 1119075.\nOne of the special magic numbers for 4348715 is: 3649956.\nOne of the special magic numbers for 1475503 is: 9827852.\nOne of the special magic numbers for 9001610 is: 6399240.\nOne",
+      "59110 is: 3015808.\nOne of the special magic numbers for 6093672 is: 4909601.\nOne of the special magic numbers for 1171549 is: 9874998.\nOne of the special magic numbers for 6674630 is: 8274408.\nOne of the special magic numbers for 4773299 is: 8553730.\nOne of the special magic numbers for 7234714 is: 1890647.\nOne of the special magic numbers for 5816499 is: 6785415.\nOne of the special magic numbers for 217",
+      "15.\nOne of the special magic numbers for 6030306 is: 2558005.\nOne of the special magic numbers for 5916684 is: 8491096.\nOne of the special magic numbers for 1396939 is: 7416616.\nOne of the special magic numbers for 2908812 is: 2559822.\nOne of the special magic numbers for 3999764 is: 9072972.\nOne of the special magic numbers for 5221551 is: 4926244.\nOne of the special magic numbers for 5140526 is: 475",
+      "the special magic numbers for 5730160 is: 4155675.\nOne of the special magic numbers for 6900981 is: 1428621.\nOne of the special magic numbers for 4814353 is: 6250269.\nOne of the special magic numbers for 7439668 is: 9771889.\nOne of the special magic numbers for 2649778 is: 1780145.\nOne of the special magic numbers for 5166112 is: 9145536.\nOne of the special magic numbers for 6416982 is: 8053541.\nOne of the",
+      "1 is: 5304957.\nOne of the special magic numbers for 5938030 is: 8702475.\nOne of the special magic numbers for 5722084 is: 5219129.\nOne of the special magic numbers for 8016704 is: 9250119.\nOne of the special magic numbers for 3423527 is: 2426976.\nOne of the special magic numbers for 8222368 is: 8859565.\nOne of the special magic numbers for 7730467 is: 8275441.\nOne of the special magic numbers for 8006524 is:",
+      "9208699.\nOne of the special magic numbers for 5930632 is: 8495983.\nOne of the special magic numbers for 2703028 is: 9080995.\nOne of the special magic numbers for 6762331 is: 9051209.\nOne of the special magic numbers for 1560722 is: 4004735.\nOne of the special magic numbers for 1232046 is: 5975560.\nOne of the special magic numbers for 3432004 is: 8674179.\nOne of the special magic numbers for 9445998 is: 189349"
+    ]
+  },
+  {
+    "sample_idx": 34,
+    "query": "What is the special magic numbers for 9066240 mentioned in the provided text? The special magic numbers for 9066240 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.92968,
+    "indexing_time": 0.19721,
+    "query_embed_time": 0.00284,
+    "search_time": 4e-05,
+    "retrieved": [
+      "One of the special magic numbers for 9066240 is: 9997556.\nOne of the special magic numbers for 5349441 is: 3351661.\nOne of the special magic numbers for 7416091 is: 8268301.\nOne of the special magic numbers for 1962042 is: 5452307.\nOne of the special magic numbers for 9825741 is: 4266856.\nOne of the special magic numbers for 8818886 is: 4646464.\nOne of the special magic numbers for 1016301 is: 8287586.\nOne of the",
+      "513.\nOne of the special magic numbers for 9055430 is: 9576785.\nOne of the special magic numbers for 5595922 is: 2115105.\nOne of the special magic numbers for 1737835 is: 2695210.\nOne of the special magic numbers for 8601590 is: 5357721.\nOne of the special magic numbers for 9032737 is: 8999823.\nOne of the special magic numbers for 3519815 is: 6557921.\nOne of the special magic numbers for 9037752 is: 5504300.",
+      "of the special magic numbers for 9045045 is: 1296247.\nOne of the special magic numbers for 7143875 is: 2473589.\nOne of the special magic numbers for 8031872 is: 8963262.\nOne of the special magic numbers for 6025072 is: 3235281.\nOne of the special magic numbers for 7670645 is: 9579257.\nOne of the special magic numbers for 8009788 is: 8871414.\nOne of the special magic numbers for 3169147 is: 323816",
+      "magic numbers for 9043679 is: 1786243.\nOne of the special magic numbers for 8364537 is: 6775647.\nOne of the special magic numbers for 9066240 is: 9997556.\nOne of the special magic numbers for 5349441 is: 3351661.\nOne of the special magic numbers for 7416091 is: 8268301.\nOne of the special magic numbers for 1962042 is: 5452307.\nOne of the special magic numbers for 9825741 is: 4266856.\nOne of the special magic numbers",
+      "652.\nOne of the special magic numbers for 9012559 is: 7412738.\nOne of the special magic numbers for 6743204 is: 8725585.\nOne of the special magic numbers for 1830966 is: 7429468.\nOne of the special magic numbers for 5868799 is: 9993937.\nOne of the special magic numbers for 1062524 is: 9837854.\nOne of the special magic numbers for 4842838 is: 2455026.\nOne of the special magic numbers for 2908878 is: 2654688.",
+      "9059030.\nOne of the special magic numbers for 2400679 is: 5228240.\nOne of the special magic numbers for 6024207 is: 2242704.\nOne of the special magic numbers for 6714606 is: 5210722.\nOne of the special magic numbers for 5948899 is: 6707223.\nOne of the special magic numbers for 3159791 is: 5128838.\nOne of the special magic numbers for 5007650 is: 5512623.\nOne of the special magic numbers for 2670790 is",
+      "6.\nOne of the special magic numbers for 9045243 is: 7269291.\nOne of the special magic numbers for 7837562 is: 7314731.\nOne of the special magic numbers for 4965839 is: 3711121.\nOne of the special magic numbers for 1246258 is: 2524375.\nOne of the special magic numbers for 1669667 is: 5683708.\nOne of the special magic numbers for 2229174 is: 3046483.\nOne of the special magic numbers for 1004772 is: 808340",
+      "198.\nOne of the special magic numbers for 2345105 is: 7935468.\nOne of the special magic numbers for 9060705 is: 4075717.\nOne of the special magic numbers for 6975941 is: 3440850.\nOne of the special magic numbers for 6096761 is: 5577248.\nOne of the special magic numbers for 1874862 is: 9607179.\nOne of the special magic numbers for 3702274 is: 6441128.\nOne of the special magic numbers for 1857570 is: 9549284"
+    ]
+  },
+  {
+    "sample_idx": 35,
+    "query": "What is the special magic numbers for 6095440 mentioned in the provided text? The special magic numbers for 6095440 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.36292,
+    "indexing_time": 0.19453,
+    "query_embed_time": 0.00289,
+    "search_time": 4e-05,
+    "retrieved": [
+      ": 6219228.\nOne of the special magic numbers for 1578456 is: 9620165.\nOne of the special magic numbers for 6564896 is: 1855857.\nOne of the special magic numbers for 5548689 is: 5729771.\nOne of the special magic numbers for 6030070 is: 4257203.\nOne of the special magic numbers for 7258488 is: 7795560.\nOne of the special magic numbers for 9184238 is: 3319691.\nOne of the special magic numbers for 6082286",
+      "of the special magic numbers for 6077332 is: 2148395.\nOne of the special magic numbers for 9305875 is: 9435110.\nOne of the special magic numbers for 5056298 is: 6734502.\nOne of the special magic numbers for 3419454 is: 6689730.\nOne of the special magic numbers for 6930934 is: 2474045.\nOne of the special magic numbers for 1502396 is: 4779138.\nOne of the special magic numbers for 6084994 is: 1922095.\nOne",
+      "the special magic numbers for 6090062 is: 9084195.\nOne of the special magic numbers for 3951439 is: 8133451.\nOne of the special magic numbers for 9817933 is: 4407833.\nOne of the special magic numbers for 4171936 is: 7971647.\nOne of the special magic numbers for 9582617 is: 3860756.\nOne of the special magic numbers for 3317827 is: 8582586.\nOne of the special magic numbers for 8588377 is: 7565853.\nOne of the",
+      ": 9573569.\nOne of the special magic numbers for 6017079 is: 7467147.\nOne of the special magic numbers for 9905228 is: 1499460.\nOne of the special magic numbers for 5795218 is: 5975882.\nOne of the special magic numbers for 8254312 is: 6532071.\nOne of the special magic numbers for 9456503 is: 7567460.\nOne of the special magic numbers for 5562154 is: 9332376.\nOne of the special magic numbers for 99",
+      ": 6182621.\nOne of the special magic numbers for 6090063 is: 5844987.\nOne of the special magic numbers for 6923259 is: 6650308.\nOne of the special magic numbers for 9549339 is: 5233877.\nOne of the special magic numbers for 9850941 is: 8950100.\nOne of the special magic numbers for 1810040 is: 8311747.\nOne of the special magic numbers for 6805091 is: 7491488.\nOne of the special magic numbers for 8874830 is",
+      "7.\nOne of the special magic numbers for 6029401 is: 7542941.\nOne of the special magic numbers for 3342983 is: 3241928.\nOne of the special magic numbers for 9963700 is: 7892627.\nOne of the special magic numbers for 3257471 is: 9577300.\nOne of the special magic numbers for 8573990 is: 7121296.\nOne of the special magic numbers for 5089333 is: 7653736.\nOne of the special magic numbers for 2454566 is: 9134718.",
+      "6040211 is: 8672857.\nOne of the special magic numbers for 5079296 is: 4989674.\nOne of the special magic numbers for 9167272 is: 2912088.\nOne of the special magic numbers for 9518908 is: 7852875.\nOne of the special magic numbers for 5279623 is: 9649766.\nOne of the special magic numbers for 3910280 is: 3229762.\nOne of the special magic numbers for 6002180 is: 2319741.\nOne of the special",
+      "4831.\nOne of the special magic numbers for 6035607 is: 6138507.\nOne of the special magic numbers for 5239647 is: 1617918.\nOne of the special magic numbers for 8049989 is: 6851340.\nOne of the special magic numbers for 9955028 is: 4012655.\nOne of the special magic numbers for 4204581 is: 1286549.\nOne of the special magic numbers for 1874050 is: 3711483.\nOne of the special magic numbers for 7532777 is: 7906061"
+    ]
+  },
+  {
+    "sample_idx": 36,
+    "query": "What is the special magic numbers for 9520451 mentioned in the provided text? The special magic numbers for 9520451 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.03443,
+    "indexing_time": 0.1986,
+    "query_embed_time": 0.00282,
+    "search_time": 4e-05,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 9545601 is: 7410194.\nOne of the special magic numbers for 9990121 is: 7458794.\nOne of the special magic numbers for 4145485 is: 3900671.\nOne of the special magic numbers for 8519661 is: 4523940.\nOne of the special magic numbers for 5605051 is: 6888750.\nOne of the special magic numbers for 8482527 is: 4964485.\nOne of the special magic numbers for 4213754 is: 3861163.",
+      "of the special magic numbers for 9520233 is: 5891993.\nOne of the special magic numbers for 2586426 is: 1197140.\nOne of the special magic numbers for 2169138 is: 3115155.\nOne of the special magic numbers for 8335331 is: 2688678.\nOne of the special magic numbers for 8910915 is: 5951216.\nOne of the special magic numbers for 8315330 is: 4685724.\nOne of the special magic numbers for 1397725 is: 6483040.\nOne of the special",
+      "One of the special magic numbers for 2155066 is: 2937614.\nOne of the special magic numbers for 9545601 is: 7410194.\nOne of the special magic numbers for 9990121 is: 7458794.\nOne of the special magic numbers for 4145485 is: 3900671.\nOne of the special magic numbers for 8519661 is: 4523940.\nOne of the special magic numbers for 5605051 is: 6888750.\nOne of the special magic numbers for 8482527 is: 4964485.\nOne of",
+      "89.\nOne of the special magic numbers for 9566801 is: 1733480.\nOne of the special magic numbers for 4934545 is: 6265709.\nOne of the special magic numbers for 3975028 is: 2705802.\nOne of the special magic numbers for 7088898 is: 3578071.\nOne of the special magic numbers for 6579714 is: 2961041.\nOne of the special magic numbers for 5409450 is: 3969918.\nOne of the special magic numbers for 7660800 is: 6651",
+      "the special magic numbers for 9584341 is: 7865454.\nOne of the special magic numbers for 9975240 is: 1929476.\nOne of the special magic numbers for 2330494 is: 9002653.\nOne of the special magic numbers for 9362826 is: 7067581.\nOne of the special magic numbers for 5392331 is: 8872989.\nOne of the special magic numbers for 1513212 is: 2940543.\nOne of the special magic numbers for 3053013 is: 2737580.\nOne of the special magic numbers for",
+      "of the special magic numbers for 9598204 is: 4481573.\nOne of the special magic numbers for 1571056 is: 5519586.\nOne of the special magic numbers for 8634229 is: 5131614.\nOne of the special magic numbers for 5000367 is: 4206153.\nOne of the special magic numbers for 5610087 is: 1511365.\nOne of the special magic numbers for 4024378 is: 3178816.\nOne of the special magic numbers for 7619579 is: 7303219.\nOne of the special magic",
+      "94.\nOne of the special magic numbers for 9520316 is: 3281926.\nOne of the special magic numbers for 9351222 is: 5682866.\nOne of the special magic numbers for 9807595 is: 4956621.\nOne of the special magic numbers for 5909091 is: 7041705.\nOne of the special magic numbers for 6317251 is: 6983611.\nOne of the special magic numbers for 3497422 is: 2365007.\nOne of the special magic numbers for 4801224 is: 9460474.\nOne of",
+      "the special magic numbers for 9547911 is: 9829696.\nOne of the special magic numbers for 6035248 is: 1573992.\nOne of the special magic numbers for 1501228 is: 5528564.\nOne of the special magic numbers for 9845147 is: 1859846.\nOne of the special magic numbers for 8818044 is: 8930770.\nOne of the special magic numbers for 4972688 is: 1421068.\nOne of the special magic numbers for 6371902 is: 7370127.\nOne of the special"
+    ]
+  },
+  {
+    "sample_idx": 37,
+    "query": "What is the special magic numbers for 1236139 mentioned in the provided text? The special magic numbers for 1236139 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.00189,
+    "indexing_time": 0.19714,
+    "query_embed_time": 0.00284,
+    "search_time": 5e-05,
+    "retrieved": [
+      "of the special magic numbers for 1236139 is: 4325492.\nOne of the special magic numbers for 9233173 is: 8410137.\nOne of the special magic numbers for 9614728 is: 6319858.\nOne of the special magic numbers for 6006066 is: 4646124.\nOne of the special magic numbers for 7746440 is: 4551712.\nOne of the special magic numbers for 3301079 is: 1165672.\nOne of the special magic numbers for 2374935 is: 4075713.\nOne of the special magic numbers",
+      "One of the special magic numbers for 6006131 is: 2877728.\nOne of the special magic numbers for 7148103 is: 1071847.\nOne of the special magic numbers for 9768523 is: 5041805.\nOne of the special magic numbers for 8536543 is: 4682779.\nOne of the special magic numbers for 3992254 is: 2005788.\nOne of the special magic numbers for 4377496 is: 4704679.\nOne of the special magic numbers for 7091750 is: 2188080.\nOne of",
+      "One of the special magic numbers for 9258913 is: 7116741.\nOne of the special magic numbers for 6321099 is: 2500156.\nOne of the special magic numbers for 2479146 is: 6908841.\nOne of the special magic numbers for 4339532 is: 4601836.\nOne of the special magic numbers for 5264722 is: 1693033.\nOne of the special magic numbers for 4345770 is: 4930561.\nOne of the special magic numbers for 3043346 is: 2905115.\nOne of the special magic numbers",
+      "magic numbers for 1237549 is: 1703525.\nOne of the special magic numbers for 1633871 is: 9095358.\nOne of the special magic numbers for 3322964 is: 7415126.\nOne of the special magic numbers for 8949830 is: 8778780.\nOne of the special magic numbers for 7758833 is: 8109616.\nOne of the special magic numbers for 8920973 is: 7211585.\nOne of the special magic numbers for 2326716 is: 2503645.\nOne of the special magic numbers for",
+      "6.\nOne of the special magic numbers for 9813137 is: 1095906.\nOne of the special magic numbers for 8347257 is: 2072233.\nOne of the special magic numbers for 4497199 is: 6779331.\nOne of the special magic numbers for 2971279 is: 3488480.\nOne of the special magic numbers for 6234784 is: 9904715.\nOne of the special magic numbers for 3089993 is: 6131469.\nOne of the special magic numbers for 8331986 is: 135",
+      "One of the special magic numbers for 9310139 is: 6798914.\nOne of the special magic numbers for 8432167 is: 3106525.\nOne of the special magic numbers for 9507577 is: 5337942.\nOne of the special magic numbers for 5084275 is: 2009599.\nOne of the special magic numbers for 3848886 is: 5161882.\nOne of the special magic numbers for 8006829 is: 6150457.\nOne of the special magic numbers for 1237549 is: 1703525.\nOne of the special",
+      "numbers for 1538913 is: 4423347.\nOne of the special magic numbers for 8582778 is: 8424260.\nOne of the special magic numbers for 7692915 is: 9348042.\nOne of the special magic numbers for 6224492 is: 8958568.\nOne of the special magic numbers for 7224381 is: 6713129.\nOne of the special magic numbers for 6781411 is: 6364012.\nOne of the special magic numbers for 9909381 is: 9930760.\nOne of the special magic",
+      "special magic numbers for 6313183 is: 1993995.\nOne of the special magic numbers for 3452268 is: 7222979.\nOne of the special magic numbers for 4906854 is: 8771785.\nOne of the special magic numbers for 7239053 is: 6442348.\nOne of the special magic numbers for 1416348 is: 2333301.\nOne of the special magic numbers for 6239667 is: 3329956.\nOne of the special magic numbers for 5428369 is: 1078045.\nOne of the special magic numbers"
+    ]
+  },
+  {
+    "sample_idx": 38,
+    "query": "What is the special magic numbers for 9983962 mentioned in the provided text? The special magic numbers for 9983962 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.19716,
+    "indexing_time": 0.19545,
+    "query_embed_time": 0.00288,
+    "search_time": 5e-05,
+    "retrieved": [
+      "the special magic numbers for 9983962 is: 7843442.\nOne of the special magic numbers for 5411798 is: 3551724.\nOne of the special magic numbers for 1211820 is: 9023332.\nOne of the special magic numbers for 3289223 is: 1468415.\nOne of the special magic numbers for 6587109 is: 1465437.\nOne of the special magic numbers for 3016877 is: 1708077.\nOne of the special magic numbers for 2836004 is: 7966760.\nOne of the",
+      "859.\nOne of the special magic numbers for 9967872 is: 2711876.\nOne of the special magic numbers for 1700495 is: 7220489.\nOne of the special magic numbers for 2251154 is: 1150656.\nOne of the special magic numbers for 5879382 is: 3568381.\nOne of the special magic numbers for 3903580 is: 9202546.\nOne of the special magic numbers for 9819858 is: 7824923.\nOne of the special magic numbers for 2975623 is: 7095379",
+      "03.\nOne of the special magic numbers for 9986269 is: 9144021.\nOne of the special magic numbers for 7969072 is: 7808956.\nOne of the special magic numbers for 9901100 is: 9677254.\nOne of the special magic numbers for 6833653 is: 6138353.\nOne of the special magic numbers for 2713928 is: 8637814.\nOne of the special magic numbers for 3137138 is: 7569430.\nOne of the special magic numbers for 2554604 is: 38338",
+      "of the special magic numbers for 9926921 is: 4951214.\nOne of the special magic numbers for 6351982 is: 7631113.\nOne of the special magic numbers for 8877867 is: 2554899.\nOne of the special magic numbers for 4148408 is: 1269741.\nOne of the special magic numbers for 9241696 is: 5151100.\nOne of the special magic numbers for 3598642 is: 6350405.\nOne of the special magic numbers for 4753839 is: 3625075.\nOne of the",
+      "2 is: 7808956.\nOne of the special magic numbers for 9901100 is: 9677254.\nOne of the special magic numbers for 6833653 is: 6138353.\nOne of the special magic numbers for 2713928 is: 8637814.\nOne of the special magic numbers for 3137138 is: 7569430.\nOne of the special magic numbers for 2554604 is: 3833816.\nOne of the special magic numbers for 9980417 is: 8229826.\nOne of the special magic numbers for 3643686 is",
+      "the special magic numbers for 9944478 is: 1552371.\nOne of the special magic numbers for 9297465 is: 8363281.\nOne of the special magic numbers for 9996381 is: 5562654.\nOne of the special magic numbers for 2812308 is: 6786189.\nOne of the special magic numbers for 1983704 is: 6358352.\nOne of the special magic numbers for 5959464 is: 9045289.\nOne of the special magic numbers for 5320324 is: 8802104.\nOne of the",
+      "the special magic numbers for 9971702 is: 9031217.\nOne of the special magic numbers for 8417069 is: 2548489.\nOne of the special magic numbers for 4970448 is: 8059551.\nOne of the special magic numbers for 6263651 is: 5364711.\nOne of the special magic numbers for 6499166 is: 2046074.\nOne of the special magic numbers for 7875913 is: 9588312.\nOne of the special magic numbers for 7680579 is: 7089954",
+      "of the special magic numbers for 4356316 is: 4180563.\nOne of the special magic numbers for 1068672 is: 8270803.\nOne of the special magic numbers for 5875083 is: 8675257.\nOne of the special magic numbers for 9939955 is: 6146880.\nOne of the special magic numbers for 2831528 is: 1017058.\nOne of the special magic numbers for 2994879 is: 7479429.\nOne of the special magic numbers for 7912145 is: 6641545.\nOne of the special"
+    ]
+  },
+  {
+    "sample_idx": 39,
+    "query": "What is the special magic numbers for 8658652 mentioned in the provided text? The special magic numbers for 8658652 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 3.10125,
+    "indexing_time": 0.19322,
+    "query_embed_time": 0.00277,
+    "search_time": 5e-05,
+    "retrieved": [
+      ": 8784501.\nOne of the special magic numbers for 8637866 is: 1026015.\nOne of the special magic numbers for 9642737 is: 6151372.\nOne of the special magic numbers for 4787342 is: 4341881.\nOne of the special magic numbers for 5059815 is: 1397956.\nOne of the special magic numbers for 7272595 is: 7159656.\nOne of the special magic numbers for 7280072 is: 5532245.\nOne of the special magic numbers for 8462137",
+      "of the special magic numbers for 8650807 is: 2713349.\nOne of the special magic numbers for 5727055 is: 6151077.\nOne of the special magic numbers for 4970397 is: 2282687.\nOne of the special magic numbers for 2365566 is: 8932391.\nOne of the special magic numbers for 1827274 is: 9539989.\nOne of the special magic numbers for 8929864 is: 5094676.\nOne of the special magic numbers for 4186645 is: 6797018.\nOne of the",
+      "70919.\nOne of the special magic numbers for 8659482 is: 7173304.\nOne of the special magic numbers for 1151269 is: 6169803.\nOne of the special magic numbers for 6456000 is: 5388464.\nOne of the special magic numbers for 4946327 is: 1799460.\nOne of the special magic numbers for 5944205 is: 7694830.\nOne of the special magic numbers for 7512088 is: 3766543.\nOne of the special magic numbers for 2632967 is:",
+      "One of the special magic numbers for 8669818 is: 6066999.\nOne of the special magic numbers for 8628356 is: 3801855.\nOne of the special magic numbers for 4260912 is: 8521236.\nOne of the special magic numbers for 7567105 is: 8501077.\nOne of the special magic numbers for 7729759 is: 6178651.\nOne of the special magic numbers for 7508513 is: 6940934.\nOne of the special magic numbers for 9601027 is: 1554277.\nOne of",
+      "One of the special magic numbers for 8857855 is: 3146039.\nOne of the special magic numbers for 4207646 is: 5958181.\nOne of the special magic numbers for 7080666 is: 1840656.\nOne of the special magic numbers for 9009182 is: 4503444.\nOne of the special magic numbers for 3611819 is: 1200035.\nOne of the special magic numbers for 5648887 is: 4856561.\nOne of the special magic numbers for 2571966 is: 3457063.\nOne of the special magic numbers",
+      "87209.\nOne of the special magic numbers for 3340671 is: 7688097.\nOne of the special magic numbers for 6341425 is: 5678121.\nOne of the special magic numbers for 9965244 is: 3830112.\nOne of the special magic numbers for 1295826 is: 1039226.\nOne of the special magic numbers for 9826465 is: 9554495.\nOne of the special magic numbers for 4899895 is: 1519849.\nOne of the special magic numbers for 839598",
+      ": 4612082.\nOne of the special magic numbers for 9895708 is: 3186673.\nOne of the special magic numbers for 9386645 is: 8224574.\nOne of the special magic numbers for 8321398 is: 1820182.\nOne of the special magic numbers for 1873688 is: 4546127.\nOne of the special magic numbers for 2991615 is: 2779565.\nOne of the special magic numbers for 8811804 is: 8400957.\nOne of the special magic numbers for 6288351 is:",
+      "of the special magic numbers for 8680625 is: 2413878.\nOne of the special magic numbers for 6145401 is: 1556510.\nOne of the special magic numbers for 5760683 is: 6122023.\nOne of the special magic numbers for 4762181 is: 8716859.\nOne of the special magic numbers for 7050048 is: 6306764.\nOne of the special magic numbers for 2480329 is: 5180299.\nOne of the special magic numbers for 1013236 is: 7413380.\nOne of the special"
+    ]
+  },
+  {
+    "sample_idx": "average",
+    "accuracy": 0.6,
+    "embedding_time": 3.14736,
+    "indexing_time": 0.19747,
+    "query_embed_time": 0.00285,
+    "search_time": 5e-05
+  }
+]

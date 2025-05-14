@@ -1,0 +1,610 @@
+[
+  {
+    "sample_idx": 0,
+    "query": "What is the special magic numbers for 2913321 mentioned in the provided text? The special magic numbers for 2913321 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.17011,
+    "indexing_time": 0.05513,
+    "query_embed_time": 0.00304,
+    "search_time": 9e-05,
+    "retrieved": [
+      "is: 8530987.\nOne of the special magic numbers for 2915294 is: 3828255.\nOne of the special magic numbers",
+      ": 9087213.\nOne of the special magic numbers for 1825019 is: 4560221.\nOne of the special magic numbers for 291",
+      ".\nOne of the special magic numbers for 3094827 is: 2417271.\nOne of the special magic numbers for 1357768 is:",
+      ".\nOne of the special magic numbers for 2854115 is: 6067243.\nOne of the special magic numbers for 8976486 is:"
+    ]
+  },
+  {
+    "sample_idx": 1,
+    "query": "What is the special magic numbers for 1439127 mentioned in the provided text? The special magic numbers for 1439127 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.504,
+    "indexing_time": 0.06414,
+    "query_embed_time": 0.00305,
+    "search_time": 0.0001,
+    "retrieved": [
+      ": 8199397.\nOne of the special magic numbers for 1439127 is: 7237890.\nOne of the special magic numbers for",
+      "the special magic numbers for 1430998 is: 2187043.\nOne of the special magic numbers for 1514465 is: 7109299",
+      "8.\nOne of the special magic numbers for 1431324 is: 7654514.\nOne of the special magic numbers for 9374855 is:",
+      "numbers for 1173579 is: 4614454.\nOne of the special magic numbers for 8342944 is: 5563844.\nOne"
+    ]
+  },
+  {
+    "sample_idx": 2,
+    "query": "What is the special magic numbers for 1164761 mentioned in the provided text? The special magic numbers for 1164761 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.26276,
+    "indexing_time": 0.0679,
+    "query_embed_time": 0.00298,
+    "search_time": 9e-05,
+    "retrieved": [
+      "special magic numbers for 1164761 is: 3977840.\nOne of the special magic numbers for 6040864 is: 3191158",
+      "the special magic numbers for 1169664 is: 2506970.\nOne of the special magic numbers for 9432374 is: 362153",
+      "is: 6213837.\nOne of the special magic numbers for 1148108 is: 5713448.\nOne of the special magic numbers for",
+      "numbers for 1161764 is: 2764146.\nOne of the special magic numbers for 9166099 is: 8151159.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": 3,
+    "query": "What is the special magic numbers for 6668544 mentioned in the provided text? The special magic numbers for 6668544 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.42564,
+    "indexing_time": 0.08255,
+    "query_embed_time": 0.00315,
+    "search_time": 0.0001,
+    "retrieved": [
+      "special magic numbers for 6668544 is: 3331582.\nOne of the special magic numbers for 8187066 is: 5522902",
+      ".\nOne of the special magic numbers for 6628458 is: 6178517.\nOne of the special magic numbers for 1458598 is:",
+      "the special magic numbers for 6696038 is: 9184893.\nOne of the special magic numbers for 1566127 is: 970",
+      "special magic numbers for 6695027 is: 4004245.\nOne of the special magic numbers for 6696038 is: 9184893"
+    ]
+  },
+  {
+    "sample_idx": 4,
+    "query": "What is the special magic numbers for 9461439 mentioned in the provided text? The special magic numbers for 9461439 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.41992,
+    "indexing_time": 0.07016,
+    "query_embed_time": 0.00318,
+    "search_time": 0.0001,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 9496576 is: 5787245.\nOne of the special magic numbers for 1645621 is",
+      "special magic numbers for 9436887 is: 9271225.\nOne of the special magic numbers for 7521644 is: 16398",
+      "of the special magic numbers for 9460274 is: 2921267.\nOne of the special magic numbers for 9791668 is: 90",
+      "special magic numbers for 9639337 is: 9416735.\nOne of the special magic numbers for 7145612 is: 288687"
+    ]
+  },
+  {
+    "sample_idx": 5,
+    "query": "What is the special magic numbers for 6521738 mentioned in the provided text? The special magic numbers for 6521738 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.48122,
+    "indexing_time": 0.06523,
+    "query_embed_time": 0.00297,
+    "search_time": 9e-05,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 6774174 is: 7864862.\nOne of the special magic numbers for 4765886 is",
+      "special magic numbers for 6572126 is: 2058942.\nOne of the special magic numbers for 8329304 is: 1603273.",
+      "the special magic numbers for 6538391 is: 9359080.\nOne of the special magic numbers for 3978010 is: 92059",
+      "44.\nOne of the special magic numbers for 6521738 is: 7141186.\nOne of the special magic numbers for 9042809 is"
+    ]
+  },
+  {
+    "sample_idx": 6,
+    "query": "What is the special magic numbers for 3013177 mentioned in the provided text? The special magic numbers for 3013177 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.32172,
+    "indexing_time": 0.06801,
+    "query_embed_time": 0.00293,
+    "search_time": 9e-05,
+    "retrieved": [
+      "magic numbers for 3013177 is: 7752642.\nOne of the special magic numbers for 3459272 is: 9118235.",
+      "is: 4797087.\nOne of the special magic numbers for 3017953 is: 4302296.\nOne of the special magic numbers",
+      "is: 8595497.\nOne of the special magic numbers for 3018506 is: 6873408.\nOne of the special magic",
+      "special magic numbers for 5392931 is: 4927370.\nOne of the special magic numbers for 7835687 is: 474318"
+    ]
+  },
+  {
+    "sample_idx": 7,
+    "query": "What is the special magic numbers for 3740851 mentioned in the provided text? The special magic numbers for 3740851 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.38207,
+    "indexing_time": 0.07934,
+    "query_embed_time": 0.00304,
+    "search_time": 9e-05,
+    "retrieved": [
+      "of the special magic numbers for 3989368 is: 6864075.\nOne of the special magic numbers for 6579601 is:",
+      "special magic numbers for 3775640 is: 9845961.\nOne of the special magic numbers for 8731438 is: 57835",
+      "numbers for 3740851 is: 9103274.\nOne of the special magic numbers for 5690845 is: 9179025.\nOne",
+      "One of the special magic numbers for 3768418 is: 6216467.\nOne of the special magic numbers for 3912218 is:"
+    ]
+  },
+  {
+    "sample_idx": 8,
+    "query": "What is the special magic numbers for 5440610 mentioned in the provided text? The special magic numbers for 5440610 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.48009,
+    "indexing_time": 0.0706,
+    "query_embed_time": 0.00301,
+    "search_time": 0.00011,
+    "retrieved": [
+      "of the special magic numbers for 5440056 is: 5047519.\nOne of the special magic numbers for 4249643 is: 3343344",
+      ".\nOne of the special magic numbers for 4456989 is: 5097825.\nOne of the special magic numbers for 5743012",
+      "the special magic numbers for 5440610 is: 1940731.\nOne of the special magic numbers for 2987972 is: 75199",
+      "of the special magic numbers for 5464943 is: 8018016.\nOne of the special magic numbers for 5401487 is: 667"
+    ]
+  },
+  {
+    "sample_idx": 9,
+    "query": "What is the special magic numbers for 4373734 mentioned in the provided text? The special magic numbers for 4373734 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.47149,
+    "indexing_time": 0.06897,
+    "query_embed_time": 0.00295,
+    "search_time": 0.0001,
+    "retrieved": [
+      "the special magic numbers for 4337727 is: 4999228.\nOne of the special magic numbers for 7052978 is: 73",
+      "of the special magic numbers for 4372319 is: 1082598.\nOne of the special magic numbers for 8521586 is: 936",
+      "the special magic numbers for 4373964 is: 4272716.\nOne of the special magic numbers for 8075460 is: 4697",
+      "One of the special magic numbers for 4336117 is: 8590203.\nOne of the special magic numbers for 5368320 is:"
+    ]
+  },
+  {
+    "sample_idx": 10,
+    "query": "What is the special magic numbers for 6744962 mentioned in the provided text? The special magic numbers for 6744962 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.58842,
+    "indexing_time": 0.06778,
+    "query_embed_time": 0.00308,
+    "search_time": 0.00027,
+    "retrieved": [
+      "of the special magic numbers for 6396437 is: 6649542.\nOne of the special magic numbers for 9304256 is: 58506",
+      "special magic numbers for 7768929 is: 3877642.\nOne of the special magic numbers for 4576476 is: 55",
+      "special magic numbers for 6726095 is: 8177610.\nOne of the special magic numbers for 7399754 is: 69",
+      "of the special magic numbers for 6726218 is: 8106251.\nOne of the special magic numbers for 9549337 is: 48"
+    ]
+  },
+  {
+    "sample_idx": 11,
+    "query": "What is the special magic numbers for 7960979 mentioned in the provided text? The special magic numbers for 7960979 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.58051,
+    "indexing_time": 0.0662,
+    "query_embed_time": 0.00299,
+    "search_time": 9e-05,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 7960979 is: 6114456.\nOne of the special magic numbers for 1154756 is:",
+      "special magic numbers for 7972167 is: 7287129.\nOne of the special magic numbers for 9373569 is: 66",
+      "special magic numbers for 7947896 is: 6160350.\nOne of the special magic numbers for 7116916 is: 92208",
+      "special magic numbers for 7969898 is: 3536185.\nOne of the special magic numbers for 4671327 is: 7980"
+    ]
+  },
+  {
+    "sample_idx": 12,
+    "query": "What is the special magic numbers for 7646183 mentioned in the provided text? The special magic numbers for 7646183 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.44751,
+    "indexing_time": 0.06606,
+    "query_embed_time": 0.00334,
+    "search_time": 0.0001,
+    "retrieved": [
+      "special magic numbers for 7624389 is: 9562238.\nOne of the special magic numbers for 5517777 is: 517533",
+      ".\nOne of the special magic numbers for 7667373 is: 8336396.\nOne of the special magic numbers for 9324094",
+      ": 7268756.\nOne of the special magic numbers for 7620213 is: 4689430.\nOne of the special magic numbers",
+      "the special magic numbers for 6363424 is: 5235834.\nOne of the special magic numbers for 9756156 is: 99569"
+    ]
+  },
+  {
+    "sample_idx": 13,
+    "query": "What is the special magic numbers for 8557134 mentioned in the provided text? The special magic numbers for 8557134 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.42081,
+    "indexing_time": 0.06442,
+    "query_embed_time": 0.00294,
+    "search_time": 0.0001,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 8554069 is: 9062975.\nOne of the special magic numbers for 4383558 is",
+      "special magic numbers for 8548683 is: 2655198.\nOne of the special magic numbers for 3138354 is: 9879",
+      ".\nOne of the special magic numbers for 8566799 is: 9395375.\nOne of the special magic numbers for 7529241 is",
+      "of the special magic numbers for 8533816 is: 4944502.\nOne of the special magic numbers for 6213439 is: 2429"
+    ]
+  },
+  {
+    "sample_idx": 14,
+    "query": "What is the special magic numbers for 4609070 mentioned in the provided text? The special magic numbers for 4609070 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.12526,
+    "indexing_time": 0.06774,
+    "query_embed_time": 0.00299,
+    "search_time": 0.0001,
+    "retrieved": [
+      "numbers for 4609070 is: 3977202.\nOne of the special magic numbers for 5396455 is: 5178213.",
+      "special magic numbers for 4600172 is: 4933775.\nOne of the special magic numbers for 8993230 is: 5062300",
+      "is: 7036712.\nOne of the special magic numbers for 4604533 is: 5530417.\nOne of the special magic numbers for 630",
+      "4992375 is: 4231519.\nOne of the special magic numbers for 4609070 is: 3977202.\nOne of the"
+    ]
+  },
+  {
+    "sample_idx": 15,
+    "query": "What is the special magic numbers for 3624923 mentioned in the provided text? The special magic numbers for 3624923 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.39292,
+    "indexing_time": 0.06513,
+    "query_embed_time": 0.00301,
+    "search_time": 0.0001,
+    "retrieved": [
+      "of the special magic numbers for 3627912 is: 9244774.\nOne of the special magic numbers for 7435936 is: 95",
+      "special magic numbers for 3672365 is: 4672746.\nOne of the special magic numbers for 9887892 is: 8556",
+      "8.\nOne of the special magic numbers for 3624923 is: 8102122.\nOne of the special magic numbers for 6815187 is",
+      "special magic numbers for 3610203 is: 4660723.\nOne of the special magic numbers for 4906626 is: 9677167"
+    ]
+  },
+  {
+    "sample_idx": 16,
+    "query": "What is the special magic numbers for 2043309 mentioned in the provided text? The special magic numbers for 2043309 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.60082,
+    "indexing_time": 0.06747,
+    "query_embed_time": 0.00304,
+    "search_time": 9e-05,
+    "retrieved": [
+      "One of the special magic numbers for 2048359 is: 3917881.\nOne of the special magic numbers for 9641787 is",
+      "One of the special magic numbers for 2047294 is: 3895687.\nOne of the special magic numbers for 1008296 is:",
+      "One of the special magic numbers for 2048481 is: 5609002.\nOne of the special magic numbers for 2763282 is: 48",
+      "is: 4810504.\nOne of the special magic numbers for 1633241 is: 9502069.\nOne of the special magic numbers for 204"
+    ]
+  },
+  {
+    "sample_idx": 17,
+    "query": "What is the special magic numbers for 9862841 mentioned in the provided text? The special magic numbers for 9862841 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.44002,
+    "indexing_time": 0.06546,
+    "query_embed_time": 0.00306,
+    "search_time": 0.0001,
+    "retrieved": [
+      "special magic numbers for 9897486 is: 4623702.\nOne of the special magic numbers for 4999116 is: 599",
+      "of the special magic numbers for 9888319 is: 7468722.\nOne of the special magic numbers for 4264390 is:",
+      ".\nOne of the special magic numbers for 9657128 is: 4841687.\nOne of the special magic numbers for 9160070 is",
+      ".\nOne of the special magic numbers for 9829491 is: 4830396.\nOne of the special magic numbers for 7642008 is:"
+    ]
+  },
+  {
+    "sample_idx": 18,
+    "query": "What is the special magic numbers for 7601385 mentioned in the provided text? The special magic numbers for 7601385 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.3442,
+    "indexing_time": 0.06508,
+    "query_embed_time": 0.00295,
+    "search_time": 9e-05,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 7601385 is: 6441088.\nOne of the special magic numbers for 3016232 is:",
+      "9.\nOne of the special magic numbers for 7604118 is: 2225750.\nOne of the special magic numbers for 4546854 is: 71",
+      ".\nOne of the special magic numbers for 6418681 is: 8541443.\nOne of the special magic numbers for 7603067 is",
+      "1.\nOne of the special magic numbers for 7606951 is: 7894716.\nOne of the special magic numbers for 5179033 is"
+    ]
+  },
+  {
+    "sample_idx": 19,
+    "query": "What is the special magic numbers for 8032396 mentioned in the provided text? The special magic numbers for 8032396 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.40083,
+    "indexing_time": 0.06563,
+    "query_embed_time": 0.00306,
+    "search_time": 0.0001,
+    "retrieved": [
+      ": 9874081.\nOne of the special magic numbers for 8032396 is: 9752511.\nOne of the special magic numbers for",
+      "is: 4458558.\nOne of the special magic numbers for 8074499 is: 8546046.\nOne of the special magic numbers",
+      "the special magic numbers for 8017964 is: 4568960.\nOne of the special magic numbers for 8109995 is:",
+      ": 5789339.\nOne of the special magic numbers for 8039961 is: 5684027.\nOne of the special magic numbers"
+    ]
+  },
+  {
+    "sample_idx": 20,
+    "query": "What is the special magic numbers for 2549852 mentioned in the provided text? The special magic numbers for 2549852 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.49762,
+    "indexing_time": 0.06945,
+    "query_embed_time": 0.00318,
+    "search_time": 0.0001,
+    "retrieved": [
+      "One of the special magic numbers for 2545392 is: 6571548.\nOne of the special magic numbers for 6675322 is: 307",
+      "254.\nOne of the special magic numbers for 9033592 is: 6918272.\nOne of the special magic numbers for 5288565",
+      ".\nOne of the special magic numbers for 2458049 is: 7976206.\nOne of the special magic numbers for 3336935 is:",
+      ".\nOne of the special magic numbers for 3345182 is: 2613354.\nOne of the special magic numbers for 4806132 is: 94"
+    ]
+  },
+  {
+    "sample_idx": 21,
+    "query": "What is the special magic numbers for 6701991 mentioned in the provided text? The special magic numbers for 6701991 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.43708,
+    "indexing_time": 0.06533,
+    "query_embed_time": 0.00308,
+    "search_time": 0.0001,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 6707725 is: 3221879.\nOne of the special magic numbers for 7578353 is",
+      "6701991 is: 2355900.\nOne of the special magic numbers for 2860473 is: 5609255.\nOne of the special",
+      ".\nOne of the special magic numbers for 6371909 is: 6230829.\nOne of the special magic numbers for 2251310 is:",
+      ".\nOne of the special magic numbers for 6707608 is: 9236884.\nOne of the special magic numbers for 2255150 is:"
+    ]
+  },
+  {
+    "sample_idx": 22,
+    "query": "What is the special magic numbers for 7893317 mentioned in the provided text? The special magic numbers for 7893317 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.51199,
+    "indexing_time": 0.06632,
+    "query_embed_time": 0.00317,
+    "search_time": 0.0001,
+    "retrieved": [
+      "special magic numbers for 7827033 is: 2255673.\nOne of the special magic numbers for 8597653 is: 75737",
+      ".\nOne of the special magic numbers for 7890354 is: 5173488.\nOne of the special magic numbers for 6763650 is",
+      "special magic numbers for 7823977 is: 2940117.\nOne of the special magic numbers for 7845770 is: 1057550.",
+      "One of the special magic numbers for 6972333 is: 3588117.\nOne of the special magic numbers for 3742767 is"
+    ]
+  },
+  {
+    "sample_idx": 23,
+    "query": "What is the special magic numbers for 2246503 mentioned in the provided text? The special magic numbers for 2246503 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.40221,
+    "indexing_time": 0.06818,
+    "query_embed_time": 0.00296,
+    "search_time": 0.0001,
+    "retrieved": [
+      "003.\nOne of the special magic numbers for 6245619 is: 4739660.\nOne of the special magic numbers for 3365714 is",
+      "the special magic numbers for 2247967 is: 1933613.\nOne of the special magic numbers for 4700505 is: 25199",
+      "One of the special magic numbers for 2249689 is: 5496003.\nOne of the special magic numbers for 1384133 is:",
+      ".\nOne of the special magic numbers for 6375888 is: 6228355.\nOne of the special magic numbers for 2672212 is:"
+    ]
+  },
+  {
+    "sample_idx": 24,
+    "query": "What is the special magic numbers for 8982440 mentioned in the provided text? The special magic numbers for 8982440 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.42046,
+    "indexing_time": 0.07137,
+    "query_embed_time": 0.00341,
+    "search_time": 0.0001,
+    "retrieved": [
+      "special magic numbers for 8961840 is: 7040438.\nOne of the special magic numbers for 2086842 is: 3426844",
+      "magic numbers for 8982440 is: 6485376.\nOne of the special magic numbers for 9401280 is: 2815692.",
+      ".\nOne of the special magic numbers for 7888620 is: 6053909.\nOne of the special magic numbers for 8169255 is",
+      "special magic numbers for 8914683 is: 9670178.\nOne of the special magic numbers for 8154847 is: 384022"
+    ]
+  },
+  {
+    "sample_idx": 25,
+    "query": "What is the special magic numbers for 2367677 mentioned in the provided text? The special magic numbers for 2367677 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.45723,
+    "indexing_time": 0.07276,
+    "query_embed_time": 0.00314,
+    "search_time": 0.0001,
+    "retrieved": [
+      "special magic numbers for 6357935 is: 6471297.\nOne of the special magic numbers for 2131213 is: 7917126",
+      ".\nOne of the special magic numbers for 2364563 is: 9514157.\nOne of the special magic numbers for 4834643 is:",
+      "7.\nOne of the special magic numbers for 6334237 is: 2113968.\nOne of the special magic numbers for 2427888",
+      "the special magic numbers for 1293776 is: 2496781.\nOne of the special magic numbers for 4971375 is: 2096"
+    ]
+  },
+  {
+    "sample_idx": 26,
+    "query": "What is the special magic numbers for 3303787 mentioned in the provided text? The special magic numbers for 3303787 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.25628,
+    "indexing_time": 0.06477,
+    "query_embed_time": 0.00299,
+    "search_time": 0.0001,
+    "retrieved": [
+      "special magic numbers for 3305138 is: 4062721.\nOne of the special magic numbers for 7177345 is: 2186662.",
+      "One of the special magic numbers for 3309032 is: 9146914.\nOne of the special magic numbers for 7183935 is: 598",
+      "magic numbers for 3305805 is: 2082492.\nOne of the special magic numbers for 9663875 is: 9706104",
+      "the special magic numbers for 3306565 is: 4734127.\nOne of the special magic numbers for 6617652 is: 1803403."
+    ]
+  },
+  {
+    "sample_idx": 27,
+    "query": "What is the special magic numbers for 8217685 mentioned in the provided text? The special magic numbers for 8217685 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.52946,
+    "indexing_time": 0.06904,
+    "query_embed_time": 0.00307,
+    "search_time": 9e-05,
+    "retrieved": [
+      "One of the special magic numbers for 8218180 is: 4832773.\nOne of the special magic numbers for 8594899 is",
+      ".\nOne of the special magic numbers for 8235914 is: 7619063.\nOne of the special magic numbers for 6509476 is",
+      "of the special magic numbers for 8561553 is: 1137588.\nOne of the special magic numbers for 6437210 is: 13160",
+      ".\nOne of the special magic numbers for 8380712 is: 8320158.\nOne of the special magic numbers for 6591982 is"
+    ]
+  },
+  {
+    "sample_idx": 28,
+    "query": "What is the special magic numbers for 8138133 mentioned in the provided text? The special magic numbers for 8138133 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.37862,
+    "indexing_time": 0.06787,
+    "query_embed_time": 0.00319,
+    "search_time": 9e-05,
+    "retrieved": [
+      "special magic numbers for 8163802 is: 8975750.\nOne of the special magic numbers for 1136942 is: 94960",
+      "the special magic numbers for 8138133 is: 3413543.\nOne of the special magic numbers for 4922410 is: 9852632",
+      "special magic numbers for 8109838 is: 5329817.\nOne of the special magic numbers for 9374253 is: 81607",
+      ".\nOne of the special magic numbers for 8109533 is: 2970104.\nOne of the special magic numbers for 8526955 is"
+    ]
+  },
+  {
+    "sample_idx": 29,
+    "query": "What is the special magic numbers for 9358480 mentioned in the provided text? The special magic numbers for 9358480 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.28333,
+    "indexing_time": 0.07103,
+    "query_embed_time": 0.00298,
+    "search_time": 0.0001,
+    "retrieved": [
+      "is: 9550350.\nOne of the special magic numbers for 9684689 is: 9192227.\nOne of the special magic numbers",
+      "of the special magic numbers for 9338479 is: 8879604.\nOne of the special magic numbers for 4979571 is:",
+      "of the special magic numbers for 9599288 is: 6472049.\nOne of the special magic numbers for 8160696 is:",
+      "of the special magic numbers for 9371605 is: 1189877.\nOne of the special magic numbers for 6422662 is:"
+    ]
+  },
+  {
+    "sample_idx": 30,
+    "query": "What is the special magic numbers for 2897719 mentioned in the provided text? The special magic numbers for 2897719 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.26089,
+    "indexing_time": 0.06525,
+    "query_embed_time": 0.00336,
+    "search_time": 0.0001,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 2676609 is: 2838584.\nOne of the special magic numbers for 7031188 is:",
+      ".\nOne of the special magic numbers for 6786787 is: 8819648.\nOne of the special magic numbers for 9713297 is",
+      ".\nOne of the special magic numbers for 7027678 is: 8537132.\nOne of the special magic numbers for 2305677 is",
+      "14.\nOne of the special magic numbers for 9164877 is: 2770380.\nOne of the special magic numbers for 2065346 is"
+    ]
+  },
+  {
+    "sample_idx": 31,
+    "query": "What is the special magic numbers for 8195196 mentioned in the provided text? The special magic numbers for 8195196 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.1803,
+    "indexing_time": 0.06473,
+    "query_embed_time": 0.00298,
+    "search_time": 0.0001,
+    "retrieved": [
+      "magic numbers for 8195196 is: 7216815.\nOne of the special magic numbers for 2060065 is: 9504832.\nOne",
+      ".\nOne of the special magic numbers for 8190996 is: 9419760.\nOne of the special magic numbers for 5723841 is",
+      "special magic numbers for 8988698 is: 9309655.\nOne of the special magic numbers for 3896753 is: 919",
+      "the special magic numbers for 8179843 is: 5461985.\nOne of the special magic numbers for 5068865 is: 89"
+    ]
+  },
+  {
+    "sample_idx": 32,
+    "query": "What is the special magic numbers for 7437883 mentioned in the provided text? The special magic numbers for 7437883 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.36921,
+    "indexing_time": 0.07047,
+    "query_embed_time": 0.00305,
+    "search_time": 9e-05,
+    "retrieved": [
+      "the special magic numbers for 7487763 is: 1458762.\nOne of the special magic numbers for 9150866 is:",
+      "of the special magic numbers for 7437883 is: 8963025.\nOne of the special magic numbers for 9402836 is: 321",
+      "the special magic numbers for 7418846 is: 8582188.\nOne of the special magic numbers for 5164798 is: 211",
+      "the special magic numbers for 7746279 is: 8373213.\nOne of the special magic numbers for 5187967 is: 97"
+    ]
+  },
+  {
+    "sample_idx": 33,
+    "query": "What is the special magic numbers for 5930632 mentioned in the provided text? The special magic numbers for 5930632 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.38459,
+    "indexing_time": 0.06641,
+    "query_embed_time": 0.00312,
+    "search_time": 0.0001,
+    "retrieved": [
+      "the special magic numbers for 5973018 is: 9492896.\nOne of the special magic numbers for 8308987 is:",
+      ".\nOne of the special magic numbers for 5930230 is: 9064910.\nOne of the special magic numbers for 3657858 is:",
+      "the special magic numbers for 5930177 is: 2200755.\nOne of the special magic numbers for 2772831 is: 6414839",
+      "the special magic numbers for 5952348 is: 5965746.\nOne of the special magic numbers for 1631098 is: 59387"
+    ]
+  },
+  {
+    "sample_idx": 34,
+    "query": "What is the special magic numbers for 9066240 mentioned in the provided text? The special magic numbers for 9066240 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.53997,
+    "indexing_time": 0.06511,
+    "query_embed_time": 0.0031,
+    "search_time": 9e-05,
+    "retrieved": [
+      "special magic numbers for 9036298 is: 4320065.\nOne of the special magic numbers for 9011390 is: 1431814.\nOne",
+      "special magic numbers for 9064260 is: 8940161.\nOne of the special magic numbers for 3338926 is: 4822216",
+      "One of the special magic numbers for 9066240 is: 9997556.\nOne of the special magic numbers for 5349441 is: 33516",
+      "of the special magic numbers for 9065268 is: 1602517.\nOne of the special magic numbers for 3220331 is: 988049"
+    ]
+  },
+  {
+    "sample_idx": 35,
+    "query": "What is the special magic numbers for 6095440 mentioned in the provided text? The special magic numbers for 6095440 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.53497,
+    "indexing_time": 0.07302,
+    "query_embed_time": 0.00313,
+    "search_time": 9e-05,
+    "retrieved": [
+      "of the special magic numbers for 6052768 is: 6244269.\nOne of the special magic numbers for 4090884 is:",
+      ".\nOne of the special magic numbers for 6098259 is: 5960749.\nOne of the special magic numbers for 7788315",
+      "is: 4173399.\nOne of the special magic numbers for 6036246 is: 8428410.\nOne of the special magic numbers for",
+      "is: 5489022.\nOne of the special magic numbers for 6017435 is: 7445287.\nOne of the special magic numbers for"
+    ]
+  },
+  {
+    "sample_idx": 36,
+    "query": "What is the special magic numbers for 9520451 mentioned in the provided text? The special magic numbers for 9520451 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.23357,
+    "indexing_time": 0.07698,
+    "query_embed_time": 0.00296,
+    "search_time": 0.0001,
+    "retrieved": [
+      ".\nOne of the special magic numbers for 9545601 is: 7410194.\nOne of the special magic numbers for 9990121 is: 74",
+      "89.\nOne of the special magic numbers for 9566801 is: 1733480.\nOne of the special magic numbers for 4934545 is",
+      "is: 4134839.\nOne of the special magic numbers for 9580143 is: 8874286.\nOne of the special magic numbers for",
+      "of the special magic numbers for 9520233 is: 5891993.\nOne of the special magic numbers for 2586426 is: 1197"
+    ]
+  },
+  {
+    "sample_idx": 37,
+    "query": "What is the special magic numbers for 1236139 mentioned in the provided text? The special magic numbers for 1236139 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.49474,
+    "indexing_time": 0.07114,
+    "query_embed_time": 0.0031,
+    "search_time": 0.0001,
+    "retrieved": [
+      "of the special magic numbers for 1236139 is: 4325492.\nOne of the special magic numbers for 9233173 is: 8410",
+      "123.\nOne of the special magic numbers for 5371219 is: 9224012.\nOne of the special magic numbers for 6654407",
+      "One of the special magic numbers for 1195963 is: 7871505.\nOne of the special magic numbers for 6324412 is:",
+      "special magic numbers for 6313183 is: 1993995.\nOne of the special magic numbers for 3452268 is: 722297"
+    ]
+  },
+  {
+    "sample_idx": 38,
+    "query": "What is the special magic numbers for 9983962 mentioned in the provided text? The special magic numbers for 9983962 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.28155,
+    "indexing_time": 0.06547,
+    "query_embed_time": 0.00303,
+    "search_time": 0.0001,
+    "retrieved": [
+      "the special magic numbers for 9983962 is: 7843442.\nOne of the special magic numbers for 5411798 is: 355",
+      "special magic numbers for 9974506 is: 3899843.\nOne of the special magic numbers for 2888713 is: 10421",
+      "of the special magic numbers for 9926921 is: 4951214.\nOne of the special magic numbers for 6351982 is: 7631",
+      "03.\nOne of the special magic numbers for 9986269 is: 9144021.\nOne of the special magic numbers for 796907"
+    ]
+  },
+  {
+    "sample_idx": 39,
+    "query": "What is the special magic numbers for 8658652 mentioned in the provided text? The special magic numbers for 8658652 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.43749,
+    "indexing_time": 0.06923,
+    "query_embed_time": 0.00321,
+    "search_time": 9e-05,
+    "retrieved": [
+      "2.\nOne of the special magic numbers for 9636988 is: 8820497.\nOne of the special magic numbers for 626986",
+      "is: 6878580.\nOne of the special magic numbers for 8295662 is: 8121182.\nOne of the special magic numbers",
+      "One of the special magic numbers for 8669818 is: 6066999.\nOne of the special magic numbers for 8628356 is",
+      "of the special magic numbers for 8652262 is: 4541276.\nOne of the special magic numbers for 7602358 is: 725217"
+    ]
+  },
+  {
+    "sample_idx": "average",
+    "accuracy": 0.5,
+    "embedding_time": 2.4038,
+    "indexing_time": 0.06817,
+    "query_embed_time": 0.00307,
+    "search_time": 0.0001
+  }
+]

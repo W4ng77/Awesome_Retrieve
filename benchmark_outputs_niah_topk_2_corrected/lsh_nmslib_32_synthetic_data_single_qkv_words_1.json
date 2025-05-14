@@ -1,0 +1,490 @@
+[
+  {
+    "sample_idx": 0,
+    "query": "What is the special magic words for hurried-thrust mentioned in the provided text? The special magic words for hurried-thrust mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.15506,
+    "indexing_time": 0.23106,
+    "query_embed_time": 0.00282,
+    "search_time": 6e-05,
+    "retrieved": [
+      "wide-simplification.\nOne of the special magic words for hurried-thrust is: frail-gesture.\nOne of the special magic words for oceanic-blackberry"
+    ]
+  },
+  {
+    "sample_idx": 1,
+    "query": "What is the special magic words for redundant-anarchy mentioned in the provided text? The special magic words for redundant-anarchy mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.02834,
+    "indexing_time": 0.23437,
+    "query_embed_time": 0.00277,
+    "search_time": 6e-05,
+    "retrieved": [
+      "for redundant-anarchy is: direful-thyme.\nOne of the special magic words for marked-carter is: jittery-manifestation.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": 2,
+    "query": "What is the special magic words for malicious-contributor mentioned in the provided text? The special magic words for malicious-contributor mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.0116,
+    "indexing_time": 0.23062,
+    "query_embed_time": 0.00288,
+    "search_time": 5e-05,
+    "retrieved": [
+      "the special magic words for malicious-contributor is: futuristic-runaway.\nOne of the special magic words for screeching-node is: piquant-"
+    ]
+  },
+  {
+    "sample_idx": 3,
+    "query": "What is the special magic words for aspiring-wriggler mentioned in the provided text? The special magic words for aspiring-wriggler mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.05261,
+    "indexing_time": 0.23335,
+    "query_embed_time": 0.00289,
+    "search_time": 7e-05,
+    "retrieved": [
+      "evil-leeway.\nOne of the special magic words for aspiring-wriggler is: aquatic-min.\nOne of the special magic words for inexpensive-"
+    ]
+  },
+  {
+    "sample_idx": 4,
+    "query": "What is the special magic words for cold-preference mentioned in the provided text? The special magic words for cold-preference mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.00687,
+    "indexing_time": 0.23393,
+    "query_embed_time": 0.0028,
+    "search_time": 5e-05,
+    "retrieved": [
+      "magic words for cold-preference is: dangerous-mallard.\nOne of the special magic words for fat-sickness is: direful-seeker.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": 5,
+    "query": "What is the special magic words for discreet-rock mentioned in the provided text? The special magic words for discreet-rock mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.23167,
+    "indexing_time": 0.23319,
+    "query_embed_time": 0.00279,
+    "search_time": 5e-05,
+    "retrieved": [
+      "One of the special magic words for level-usage is: cuddly-chastity.\nOne of the special magic words for discreet-rock is:"
+    ]
+  },
+  {
+    "sample_idx": 6,
+    "query": "What is the special magic words for average-coin mentioned in the provided text? The special magic words for average-coin mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.14904,
+    "indexing_time": 0.23514,
+    "query_embed_time": 0.00272,
+    "search_time": 6e-05,
+    "retrieved": [
+      "coin is: cagey-lookout.\nOne of the special magic words for vulgar-rank is: ruthless-fee.\nOne of the special magic words for ambiguous"
+    ]
+  },
+  {
+    "sample_idx": 7,
+    "query": "What is the special magic words for questionable-muscat mentioned in the provided text? The special magic words for questionable-muscat mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.25507,
+    "indexing_time": 0.23525,
+    "query_embed_time": 0.00286,
+    "search_time": 6e-05,
+    "retrieved": [
+      ".\nOne of the special magic words for dangerous-tone is: sneaky-journal.\nOne of the special magic words for questionable-muscat is:"
+    ]
+  },
+  {
+    "sample_idx": 8,
+    "query": "What is the special magic words for craven-canal mentioned in the provided text? The special magic words for craven-canal mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.08545,
+    "indexing_time": 0.2354,
+    "query_embed_time": 0.00286,
+    "search_time": 7e-05,
+    "retrieved": [
+      "of the special magic words for craven-canal is: spooky-peacock.\nOne of the special magic words for standing-achievement is: wonderful-influence"
+    ]
+  },
+  {
+    "sample_idx": 9,
+    "query": "What is the special magic words for heady-prayer mentioned in the provided text? The special magic words for heady-prayer mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.20786,
+    "indexing_time": 0.23723,
+    "query_embed_time": 0.00278,
+    "search_time": 5e-05,
+    "retrieved": [
+      "words for heady-prayer is: lopsided-scheduling.\nOne of the special magic words for minor-anterior is: uneven-pressure.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": 10,
+    "query": "What is the special magic words for jealous-turnover mentioned in the provided text? The special magic words for jealous-turnover mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.0637,
+    "indexing_time": 0.23867,
+    "query_embed_time": 0.00286,
+    "search_time": 6e-05,
+    "retrieved": [
+      "words for jealous-turnover is: snotty-lady.\nOne of the special magic words for dry-hello is: dangerous-cabin.\nOne of the"
+    ]
+  },
+  {
+    "sample_idx": 11,
+    "query": "What is the special magic words for repulsive-swivel mentioned in the provided text? The special magic words for repulsive-swivel mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.26347,
+    "indexing_time": 0.23183,
+    "query_embed_time": 0.00283,
+    "search_time": 6e-05,
+    "retrieved": [
+      "of the special magic words for repulsive-swivel is: green-fruit.\nOne of the special magic words for racial-congressperson is: perpetual"
+    ]
+  },
+  {
+    "sample_idx": 12,
+    "query": "What is the special magic words for wide-bugle mentioned in the provided text? The special magic words for wide-bugle mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 1.92922,
+    "indexing_time": 0.23995,
+    "query_embed_time": 0.00279,
+    "search_time": 6e-05,
+    "retrieved": [
+      "message.\nOne of the special magic words for wide-bugle is: rightful-alpha.\nOne of the special magic words for charming-puppy is: stale"
+    ]
+  },
+  {
+    "sample_idx": 13,
+    "query": "What is the special magic words for broad-waist mentioned in the provided text? The special magic words for broad-waist mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.32539,
+    "indexing_time": 0.23401,
+    "query_embed_time": 0.00281,
+    "search_time": 6e-05,
+    "retrieved": [
+      "trousers.\nOne of the special magic words for madly-dreamer is: idiotic-label.\nOne of the special magic words for tightfisted-carpenter is"
+    ]
+  },
+  {
+    "sample_idx": 14,
+    "query": "What is the special magic words for magnificent-antecedent mentioned in the provided text? The special magic words for magnificent-antecedent mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.21127,
+    "indexing_time": 0.23733,
+    "query_embed_time": 0.00289,
+    "search_time": 6e-05,
+    "retrieved": [
+      "of the special magic words for magnificent-antecedent is: foregoing-banquette.\nOne of the special magic words for devilish-hygie"
+    ]
+  },
+  {
+    "sample_idx": 15,
+    "query": "What is the special magic words for voracious-turnstile mentioned in the provided text? The special magic words for voracious-turnstile mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 1.94086,
+    "indexing_time": 0.23734,
+    "query_embed_time": 0.00289,
+    "search_time": 5e-05,
+    "retrieved": [
+      "voracious-turnstile is: sincere-thrust.\nOne of the special magic words for smiling-nestling is: scattered-hint.\nOne of the"
+    ]
+  },
+  {
+    "sample_idx": 16,
+    "query": "What is the special magic words for square-timing mentioned in the provided text? The special magic words for square-timing mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.18734,
+    "indexing_time": 0.24078,
+    "query_embed_time": 0.00287,
+    "search_time": 6e-05,
+    "retrieved": [
+      "the special magic words for square-timing is: shivering-motion.\nOne of the special magic words for capricious-fold is: naughty-participation."
+    ]
+  },
+  {
+    "sample_idx": 17,
+    "query": "What is the special magic words for vast-thermals mentioned in the provided text? The special magic words for vast-thermals mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 1.81116,
+    "indexing_time": 0.23601,
+    "query_embed_time": 0.00292,
+    "search_time": 5e-05,
+    "retrieved": [
+      "the special magic words for vast-thermals is: wise-configuration.\nOne of the special magic words for acceptable-race is: sticky-spelling.\nOne"
+    ]
+  },
+  {
+    "sample_idx": 18,
+    "query": "What is the special magic words for kind-monument mentioned in the provided text? The special magic words for kind-monument mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.17846,
+    "indexing_time": 0.23576,
+    "query_embed_time": 0.00281,
+    "search_time": 5e-05,
+    "retrieved": [
+      "ful-guard.\nOne of the special magic words for kind-monument is: incandescent-profile.\nOne of the special magic words for helpful-treasury"
+    ]
+  },
+  {
+    "sample_idx": 19,
+    "query": "What is the special magic words for orange-dragon mentioned in the provided text? The special magic words for orange-dragon mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.16424,
+    "indexing_time": 0.23825,
+    "query_embed_time": 0.00289,
+    "search_time": 5e-05,
+    "retrieved": [
+      "words for orange-dragon is: kind-bomb.\nOne of the special magic words for difficult-azimuth is: annoying-fisherman.\nOne of the"
+    ]
+  },
+  {
+    "sample_idx": 20,
+    "query": "What is the special magic words for teeny-tiny-nun mentioned in the provided text? The special magic words for teeny-tiny-nun mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.08924,
+    "indexing_time": 0.23641,
+    "query_embed_time": 0.0029,
+    "search_time": 5e-05,
+    "retrieved": [
+      "quack-sarong.\nOne of the special magic words for teeny-tiny-nun is: didactic-cliff.\nOne of the special magic words"
+    ]
+  },
+  {
+    "sample_idx": 21,
+    "query": "What is the special magic words for quaint-taco mentioned in the provided text? The special magic words for quaint-taco mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.10284,
+    "indexing_time": 0.23661,
+    "query_embed_time": 0.00276,
+    "search_time": 6e-05,
+    "retrieved": [
+      ": fortunate-relationship.\nOne of the special magic words for quaint-taco is: rainy-toot.\nOne of the special magic words for abandoned"
+    ]
+  },
+  {
+    "sample_idx": 22,
+    "query": "What is the special magic words for selective-cohesion mentioned in the provided text? The special magic words for selective-cohesion mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.14792,
+    "indexing_time": 0.23523,
+    "query_embed_time": 0.00288,
+    "search_time": 6e-05,
+    "retrieved": [
+      "neighborly-dedication.\nOne of the special magic words for clear-cohesion is: tame-phone.\nOne of the special magic words for wrong-commons"
+    ]
+  },
+  {
+    "sample_idx": 23,
+    "query": "What is the special magic words for ambiguous-brand mentioned in the provided text? The special magic words for ambiguous-brand mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.01873,
+    "indexing_time": 0.23535,
+    "query_embed_time": 0.00287,
+    "search_time": 8e-05,
+    "retrieved": [
+      ".\nOne of the special magic words for ambiguous-brand is: vivacious-watcher.\nOne of the special magic words for pastoral-decline is: ve"
+    ]
+  },
+  {
+    "sample_idx": 24,
+    "query": "What is the special magic words for blue-statistics mentioned in the provided text? The special magic words for blue-statistics mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.17351,
+    "indexing_time": 0.23519,
+    "query_embed_time": 0.00286,
+    "search_time": 5e-05,
+    "retrieved": [
+      "One of the special magic words for blue-statistics is: spectacular-jewel.\nOne of the special magic words for juvenile-windscreen is: helpless-commission"
+    ]
+  },
+  {
+    "sample_idx": 25,
+    "query": "What is the special magic words for trite-quilt mentioned in the provided text? The special magic words for trite-quilt mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.13712,
+    "indexing_time": 0.23473,
+    "query_embed_time": 0.00283,
+    "search_time": 5e-05,
+    "retrieved": [
+      "is: ad hoc-road.\nOne of the special magic words for trite-quilt is: makeshift-potty.\nOne of the special magic words for"
+    ]
+  },
+  {
+    "sample_idx": 26,
+    "query": "What is the special magic words for bumpy-timeline mentioned in the provided text? The special magic words for bumpy-timeline mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.157,
+    "indexing_time": 0.25142,
+    "query_embed_time": 0.00272,
+    "search_time": 6e-05,
+    "retrieved": [
+      "joyed-ticket.\nOne of the special magic words for bumpy-cofactor is: homely-climate.\nOne of the special magic words for"
+    ]
+  },
+  {
+    "sample_idx": 27,
+    "query": "What is the special magic words for stormy-crewmember mentioned in the provided text? The special magic words for stormy-crewmember mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.02936,
+    "indexing_time": 0.23462,
+    "query_embed_time": 0.00279,
+    "search_time": 7e-05,
+    "retrieved": [
+      ".\nOne of the special magic words for stormy-crewmember is: bad-quilt.\nOne of the special magic words for heavenly-nightclub is: handsome"
+    ]
+  },
+  {
+    "sample_idx": 28,
+    "query": "What is the special magic words for futuristic-battalion mentioned in the provided text? The special magic words for futuristic-battalion mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.09563,
+    "indexing_time": 0.23413,
+    "query_embed_time": 0.00288,
+    "search_time": 6e-05,
+    "retrieved": [
+      "battalion is: fat-sole.\nOne of the special magic words for tightfisted-mobile is: rural-matter.\nOne of the special magic words for"
+    ]
+  },
+  {
+    "sample_idx": 29,
+    "query": "What is the special magic words for learned-treaty mentioned in the provided text? The special magic words for learned-treaty mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.06216,
+    "indexing_time": 0.23285,
+    "query_embed_time": 0.00291,
+    "search_time": 6e-05,
+    "retrieved": [
+      "of the special magic words for round-treaty is: woebegone-skean.\nOne of the special magic words for fair-afoul is"
+    ]
+  },
+  {
+    "sample_idx": 30,
+    "query": "What is the special magic words for combative-harmonize mentioned in the provided text? The special magic words for combative-harmonize mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.21348,
+    "indexing_time": 0.23528,
+    "query_embed_time": 0.00281,
+    "search_time": 5e-05,
+    "retrieved": [
+      "-paintwork.\nOne of the special magic words for combative-harmonize is: squeamish-pound.\nOne of the special magic words for"
+    ]
+  },
+  {
+    "sample_idx": 31,
+    "query": "What is the special magic words for fertile-caboose mentioned in the provided text? The special magic words for fertile-caboose mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.13268,
+    "indexing_time": 0.23221,
+    "query_embed_time": 0.00278,
+    "search_time": 6e-05,
+    "retrieved": [
+      "special magic words for fertile-hamster is: gorgeous-gran.\nOne of the special magic words for swanky-adverb is: macho-"
+    ]
+  },
+  {
+    "sample_idx": 32,
+    "query": "What is the special magic words for moldy-farm mentioned in the provided text? The special magic words for moldy-farm mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.11579,
+    "indexing_time": 0.23133,
+    "query_embed_time": 0.00287,
+    "search_time": 6e-05,
+    "retrieved": [
+      "watery-ATM.\nOne of the special magic words for moldy-farm is: wacky-violation.\nOne of the special magic words for melted-benefit"
+    ]
+  },
+  {
+    "sample_idx": 33,
+    "query": "What is the special magic words for colorful-depression mentioned in the provided text? The special magic words for colorful-depression mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.04393,
+    "indexing_time": 0.24197,
+    "query_embed_time": 0.00301,
+    "search_time": 6e-05,
+    "retrieved": [
+      "the special magic words for jumbled-depressive is: aloof-moat.\nOne of the special magic words for dark-concept is: sour-phase"
+    ]
+  },
+  {
+    "sample_idx": 34,
+    "query": "What is the special magic words for fluttering-counseling mentioned in the provided text? The special magic words for fluttering-counseling mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 1.8771,
+    "indexing_time": 0.28056,
+    "query_embed_time": 0.00278,
+    "search_time": 6e-05,
+    "retrieved": [
+      "print.\nOne of the special magic words for fluttering-counseling is: flagrant-tobacco.\nOne of the special magic words for enthusiastic-preoccupation"
+    ]
+  },
+  {
+    "sample_idx": 35,
+    "query": "What is the special magic words for adjoining-squatter mentioned in the provided text? The special magic words for adjoining-squatter mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.01676,
+    "indexing_time": 0.23666,
+    "query_embed_time": 0.00282,
+    "search_time": 6e-05,
+    "retrieved": [
+      "One of the special magic words for adjoining-squatter is: onerous-supermarket.\nOne of the special magic words for aberrant-rocket is:"
+    ]
+  },
+  {
+    "sample_idx": 36,
+    "query": "What is the special magic words for legal-eurocentrism mentioned in the provided text? The special magic words for legal-eurocentrism mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.1454,
+    "indexing_time": 0.23275,
+    "query_embed_time": 0.0027,
+    "search_time": 6e-05,
+    "retrieved": [
+      "One of the special magic words for legal-eurocentrism is: hot-exception.\nOne of the special magic words for strange-generation is: reflective"
+    ]
+  },
+  {
+    "sample_idx": 37,
+    "query": "What is the special magic words for hollow-eraser mentioned in the provided text? The special magic words for hollow-eraser mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.08645,
+    "indexing_time": 0.23265,
+    "query_embed_time": 0.00292,
+    "search_time": 7e-05,
+    "retrieved": [
+      "for hollow-eraser is: skillful-conception.\nOne of the special magic words for young-assignment is: ripe-shoulder.\nOne of the special"
+    ]
+  },
+  {
+    "sample_idx": 38,
+    "query": "What is the special magic words for synonymous-distribution mentioned in the provided text? The special magic words for synonymous-distribution mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.03398,
+    "indexing_time": 0.2362,
+    "query_embed_time": 0.00279,
+    "search_time": 6e-05,
+    "retrieved": [
+      "textual is: erratic-location.\nOne of the special magic words for quarrelsome-attendant is: vulgar-cashier.\nOne of the special magic words for"
+    ]
+  },
+  {
+    "sample_idx": 39,
+    "query": "What is the special magic words for versed-league mentioned in the provided text? The special magic words for versed-league mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.1908,
+    "indexing_time": 0.23268,
+    "query_embed_time": 0.00279,
+    "search_time": 6e-05,
+    "retrieved": [
+      "magic words for versed-league is: successful-perspective.\nOne of the special magic words for freezing-pita is: numerous-bell.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": "average",
+    "accuracy": 0.775,
+    "embedding_time": 2.10321,
+    "indexing_time": 0.23671,
+    "query_embed_time": 0.00284,
+    "search_time": 6e-05
+  }
+]

@@ -16,20 +16,20 @@ class DotProductRetriever(BaseRetriever):
         self.encoder = HFTransformerEmbedding(model_name=model_name, device=self.device)
 
     def build_index(self, context_chunks):
-        t0 = time.time()
+        t0 = time.perf_counter()
         self.embeddings = self.encoder.encode(context_chunks, convert_to_numpy=True, normalize=True)
-        self._embed_time = time.time() - t0
+        self._embed_time = time.perf_counter() - t0
         self.context_chunks = context_chunks
         self._index_time = 0
 
     def retrieve(self, query, top_k=10):
-        t0 = time.time()
+        t0 = time.perf_counter()
         query_embedding = self.encoder.encode([query], convert_to_numpy=True, normalize=True)
-        self._query_embed_time = time.time() - t0
+        self._query_embed_time = time.perf_counter() - t0
 
-        t1 = time.time()
+        t1 = time.perf_counter()
         scores = np.dot(self.embeddings, query_embedding.T).squeeze()
         top_indices = np.argsort(-scores)[:top_k]
-        self._search_time = time.time() - t1
+        self._search_time = time.perf_counter() - t1
 
         return [self.context_chunks[i] for i in top_indices]

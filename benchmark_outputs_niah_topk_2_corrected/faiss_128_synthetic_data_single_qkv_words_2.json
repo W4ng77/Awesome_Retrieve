@@ -1,0 +1,530 @@
+[
+  {
+    "sample_idx": 0,
+    "query": "What is the special magic words for hurried-thrust mentioned in the provided text? The special magic words for hurried-thrust mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.93569,
+    "indexing_time": 0.05521,
+    "query_embed_time": 0.00296,
+    "search_time": 9e-05,
+    "retrieved": [
+      "wide-simplification.\nOne of the special magic words for hurried-thrust is: frail-gesture.\nOne of the special magic words for oceanic-blackberry is: toothsome-boon.\nOne of the special magic words for penitent-policeman is: pretty-drug.\nOne of the special magic words for uttermost-retrospect is: flippant-deposition.\nOne of the special magic words for sordid-negotiation is: knowledgeable-risk.\nOne of the special magic words for spicy-astrologer is: futuristic-parcel.\nOne of the special magic words for encouraging-afternoon is: ab",
+      "momentous-flight is: arrogant-antiquity.\nOne of the special magic words for berserk-pouch is: curious-plow.\nOne of the special magic words for lazy-passenger is: shallow-doc.\nOne of the special magic words for ruddy-archeology is: alert-return.\nOne of the special magic words for wasteful-advocacy is: tame-roar.\nOne of the special magic words for guttural-scheduling is: tiresome-puzzle.\nOne of the special magic words for high-bourgeoisie is: womanly-cheddar.\nOne of the special magic words for immense"
+    ]
+  },
+  {
+    "sample_idx": 1,
+    "query": "What is the special magic words for redundant-anarchy mentioned in the provided text? The special magic words for redundant-anarchy mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.89668,
+    "indexing_time": 0.07458,
+    "query_embed_time": 0.00304,
+    "search_time": 0.0001,
+    "retrieved": [
+      "for redundant-anarchy is: direful-thyme.\nOne of the special magic words for marked-carter is: jittery-manifestation.\nOne of the special magic words for decisive-rake is: subdued-mutation.\nOne of the special magic words for thirsty-headrest is: chubby-needle.\nOne of the special magic words for chubby-department is: heavy-blade.\nOne of the special magic words for clammy-glimpse is: scientific-shirtdress.\nOne of the special magic words for clear-godparent is: nosy-transparency.\nOne of the special magic words for grand",
+      "magic words for erratic-signup is: elated-year.\nOne of the special magic words for momentous-clip is: loose-orientation.\nOne of the special magic words for absurd-extremist is: crazy-practitioner.\nOne of the special magic words for wiry-repeat is: woebegone-catcher.\nOne of the special magic words for damaged-battleship is: salty-eternity.\nOne of the special magic words for numberless-colony is: adjoining-lawn.\nOne of the special magic words for rich-order is: political-parallelogram.\nOne of the special magic words for culture"
+    ]
+  },
+  {
+    "sample_idx": 2,
+    "query": "What is the special magic words for malicious-contributor mentioned in the provided text? The special magic words for malicious-contributor mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.86883,
+    "indexing_time": 0.0782,
+    "query_embed_time": 0.00319,
+    "search_time": 0.0001,
+    "retrieved": [
+      "the special magic words for malicious-contributor is: futuristic-runaway.\nOne of the special magic words for screeching-node is: piquant-marble.\nOne of the special magic words for uppity-confusion is: jagged-thunderbolt.\nOne of the special magic words for small-otter is: imported-mainstream.\nOne of the special magic words for lopsided-catastrophe is: hellish-kidney.\nOne of the special magic words for fine-wholesale is: protective-journalist.\nOne of the special magic words for homeless-midline is: tenuous-wear.\nOne of the special magic words",
+      "attacker is: plausible-being.\nOne of the special magic words for witty-excess is: clean-lunchmeat.\nOne of the special magic words for tiresome-politician is: maniacal-radar.\nOne of the special magic words for brawny-hook is: many-capacity.\nOne of the special magic words for rightful-caliber is: recondite-businessman.\nOne of the special magic words for muddy-eavesdropper is: chilly-harbour.\nOne of the special magic words for bad-tonality is: watery-passbook.\nOne of the special magic words for fascinated-landform is:"
+    ]
+  },
+  {
+    "sample_idx": 3,
+    "query": "What is the special magic words for aspiring-wriggler mentioned in the provided text? The special magic words for aspiring-wriggler mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.98148,
+    "indexing_time": 0.07568,
+    "query_embed_time": 0.00305,
+    "search_time": 9e-05,
+    "retrieved": [
+      "evil-leeway.\nOne of the special magic words for aspiring-wriggler is: aquatic-min.\nOne of the special magic words for inexpensive-miracle is: bashful-vane.\nOne of the special magic words for absent-dash is: sedate-sweets.\nOne of the special magic words for soft-karate is: lyrical-sensor.\nOne of the special magic words for lethal-customer is: weary-holiday.\nOne of the special magic words for statuesque-eavesdropper is: abusive-ticket.\nOne of the special magic words for capricious-poor is: quickest-slave.",
+      "words for skillful-assignment is: subdued-radish.\nOne of the special magic words for jealous-lumber is: wanting-chops.\nOne of the special magic words for homely-pleat is: tender-brushing.\nOne of the special magic words for parsimonious-draw is: subdued-builder.\nOne of the special magic words for bizarre-stand is: evil-leeway.\nOne of the special magic words for aspiring-wriggler is: aquatic-min.\nOne of the special magic words for inexpensive-miracle is: bashful-vane.\nOne of the special magic words for absent"
+    ]
+  },
+  {
+    "sample_idx": 4,
+    "query": "What is the special magic words for cold-preference mentioned in the provided text? The special magic words for cold-preference mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.71484,
+    "indexing_time": 0.0773,
+    "query_embed_time": 0.00328,
+    "search_time": 0.0001,
+    "retrieved": [
+      "magic words for cold-preference is: dangerous-mallard.\nOne of the special magic words for fat-sickness is: direful-seeker.\nOne of the special magic words for quick-buggy is: abject-toreador.\nOne of the special magic words for sparkling-footrest is: harsh-whirlwind.\nOne of the special magic words for melted-reference is: fancy-radish.\nOne of the special magic words for doubtful-flower is: highfalutin-escape.\nOne of the special magic words for righteous-hubcap is: horrible-language.\nOne of the special magic",
+      "the special magic words for freezing-porter is: sassy-violin.\nOne of the special magic words for subdued-dealing is: chunky-introduction.\nOne of the special magic words for scientific-skull is: delightful-orangutan.\nOne of the special magic words for pretty-hail is: undesirable-tote.\nOne of the special magic words for callous-rabbit is: colorful-samurai.\nOne of the special magic words for upbeat-heterosexual is: flippant-upgrade.\nOne of the special magic words for highfalutin-variability is: curved-breeze.\nOne of the"
+    ]
+  },
+  {
+    "sample_idx": 5,
+    "query": "What is the special magic words for discreet-rock mentioned in the provided text? The special magic words for discreet-rock mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.74191,
+    "indexing_time": 0.07452,
+    "query_embed_time": 0.00316,
+    "search_time": 0.0001,
+    "retrieved": [
+      "special magic words for faithful-minister is: wonderful-gaiters.\nOne of the special magic words for used-exchange is: abstracted-maggot.\nOne of the special magic words for busy-torso is: easy-property.\nOne of the special magic words for rambunctious-racism is: towering-dynamite.\nOne of the special magic words for stingy-dessert is: oval-acoustics.\nOne of the special magic words for vacuous-nothing is: soft-coal.\nOne of the special magic words for known-licence is: victorious-acknowledgment.\nOne of",
+      "special magic words for fascinated-evening is: wary-babushka.\nOne of the special magic words for legal-jury is: adamant-ecosystem.\nOne of the special magic words for deadpan-vertigo is: historical-cardboard.\nOne of the special magic words for mundane-submarine is: sour-notation.\nOne of the special magic words for taboo-stench is: protective-tog.\nOne of the special magic words for secretive-peer-to-peer is: squalid-afterlife.\nOne of the special magic words for rampant-edible is: amused-shin.\nOne of the special magic words for majestic-"
+    ]
+  },
+  {
+    "sample_idx": 6,
+    "query": "What is the special magic words for average-coin mentioned in the provided text? The special magic words for average-coin mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.64636,
+    "indexing_time": 0.07634,
+    "query_embed_time": 0.00328,
+    "search_time": 0.0001,
+    "retrieved": [
+      "the special magic words for average-quote is: selfish-appointment.\nOne of the special magic words for curly-lantern is: aware-nationality.\nOne of the special magic words for animated-part is: lacking-camel.\nOne of the special magic words for zonked-weasel is: garrulous-ginseng.\nOne of the special magic words for frightened-cape is: mushy-sage.\nOne of the special magic words for ratty-cart is: Early-clipper.\nOne of the special magic words for abundant-consequence is: imaginary-duffel.\nOne of the special magic words for",
+      "coin is: cagey-lookout.\nOne of the special magic words for vulgar-rank is: ruthless-fee.\nOne of the special magic words for ambiguous-document is: needless-goal.\nOne of the special magic words for obedient-fry is: abandoned-larva.\nOne of the special magic words for clumsy-fax is: entertaining-syndicate.\nOne of the special magic words for oafish-tow-truck is: lamentable-pince-nez.\nOne of the special magic words for eatable-embarrassment is: painful-toe.\nOne of the special magic words for abundant"
+    ]
+  },
+  {
+    "sample_idx": 7,
+    "query": "What is the special magic words for questionable-muscat mentioned in the provided text? The special magic words for questionable-muscat mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.82886,
+    "indexing_time": 0.07695,
+    "query_embed_time": 0.00329,
+    "search_time": 9e-05,
+    "retrieved": [
+      "journal.\nOne of the special magic words for questionable-muscat is: elderly-oleo.\nOne of the special magic words for jolly-south is: colorful-treatment.\nOne of the special magic words for zany-flint is: handsome-c-clamp.\nOne of the special magic words for ceaseless-threat is: resonant-gopher.\nOne of the special magic words for embarrassed-catsup is: axiomatic-print.\nOne of the special magic words for wise-fraudster is: muddy-surfboard.\nOne of the special magic words for bored-half-brother is:",
+      "-muscat is: flagrant-habitat.\nOne of the special magic words for entertaining-colonial is: hollow-cascade.\nOne of the special magic words for piquant-saffron is: watchful-piano.\nOne of the special magic words for loutish-retrospect is: cynical-stalk.\nOne of the special magic words for penitent-prosecutor is: magical-handlebar.\nOne of the special magic words for tightfisted-business is: sticky-bronze.\nOne of the special magic words for modern-nothing is: courageous-marxism.\nOne of the special magic words for alleged"
+    ]
+  },
+  {
+    "sample_idx": 8,
+    "query": "What is the special magic words for craven-canal mentioned in the provided text? The special magic words for craven-canal mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.9986,
+    "indexing_time": 0.07434,
+    "query_embed_time": 0.00353,
+    "search_time": 9e-05,
+    "retrieved": [
+      "of the special magic words for craven-canal is: spooky-peacock.\nOne of the special magic words for standing-achievement is: wonderful-influence.\nOne of the special magic words for wretched-syndrome is: known-coil.\nOne of the special magic words for tearful-pharmacist is: naive-yellowjacket.\nOne of the special magic words for bashful-dioxide is: modern-sail.\nOne of the special magic words for filthy-garb is: lucky-response.\nOne of the special magic words for calm-vintage is: cowardly-leaker.\nOne of the special",
+      "special magic words for craven-dearest is: jolly-mansion.\nOne of the special magic words for merciful-transport is: elite-excerpt.\nOne of the special magic words for rare-moon is: fast-ivory.\nOne of the special magic words for oval-stiletto is: omniscient-omega.\nOne of the special magic words for quizzical-plum is: ambiguous-linguistics.\nOne of the special magic words for wanting-delay is: sincere-ladle.\nOne of the special magic words for boiling-decoration is: shivering-prose.\nOne of the special magic words for berserk"
+    ]
+  },
+  {
+    "sample_idx": 9,
+    "query": "What is the special magic words for heady-prayer mentioned in the provided text? The special magic words for heady-prayer mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.86844,
+    "indexing_time": 0.07516,
+    "query_embed_time": 0.00336,
+    "search_time": 0.0001,
+    "retrieved": [
+      "words for heady-prayer is: lopsided-scheduling.\nOne of the special magic words for minor-anterior is: uneven-pressure.\nOne of the special magic words for hilarious-employ is: wild-aquifer.\nOne of the special magic words for quickest-kamikaze is: fretful-drizzle.\nOne of the special magic words for big-quantity is: wrathful-unemployment.\nOne of the special magic words for rural-intervenor is: sweet-tale.\nOne of the special magic words for bored-gander is: flashy-wife.\nOne of the special magic",
+      "the special magic words for heady-violin is: enthusiastic-hiking.\nOne of the special magic words for utopian-pancreas is: friendly-lute.\nOne of the special magic words for oceanic-liberty is: young-greens.\nOne of the special magic words for callous-currency is: venomous-thunderstorm.\nOne of the special magic words for endurable-tuxedo is: stereotyped-annual.\nOne of the special magic words for psychedelic-rebellion is: foregoing-wafer.\nOne of the special magic words for taboo-porcelain is: abhorrent-victory.\nOne"
+    ]
+  },
+  {
+    "sample_idx": 10,
+    "query": "What is the special magic words for jealous-turnover mentioned in the provided text? The special magic words for jealous-turnover mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.81921,
+    "indexing_time": 0.07236,
+    "query_embed_time": 0.00347,
+    "search_time": 9e-05,
+    "retrieved": [
+      "words for jealous-turnover is: snotty-lady.\nOne of the special magic words for dry-hello is: dangerous-cabin.\nOne of the special magic words for proud-shoemaker is: damaged-rape.\nOne of the special magic words for needless-visit is: creepy-consumption.\nOne of the special magic words for capable-walk is: huge-derivation.\nOne of the special magic words for belligerent-login is: longing-coaster.\nOne of the special magic words for ablaze-drain is: devilish-crawdad.\nOne of the special magic words for numerous-crest",
+      "jealous-impudence is: various-timing.\nOne of the special magic words for disagreeable-detour is: muddled-design.\nOne of the special magic words for immense-frosting is: fanatical-layer.\nOne of the special magic words for melodic-marriage is: assorted-gunpowder.\nOne of the special magic words for heartbreaking-continuity is: teeny-washcloth.\nOne of the special magic words for cultured-lane is: optimal-philosophy.\nOne of the special magic words for nonstop-malnutrition is: gainful-havoc.\nOne of the special magic words for"
+    ]
+  },
+  {
+    "sample_idx": 11,
+    "query": "What is the special magic words for repulsive-swivel mentioned in the provided text? The special magic words for repulsive-swivel mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.62986,
+    "indexing_time": 0.07387,
+    "query_embed_time": 0.00311,
+    "search_time": 0.0001,
+    "retrieved": [
+      "of the special magic words for repulsive-swivel is: green-fruit.\nOne of the special magic words for racial-congressperson is: perpetual-digestive.\nOne of the special magic words for endurable-panpipe is: lean-cent.\nOne of the special magic words for subsequent-hedge is: abusive-violin.\nOne of the special magic words for misty-holiday is: quizzical-resident.\nOne of the special magic words for helpless-bus is: peaceful-lout.\nOne of the special magic words for peaceful-undertaker is: aromatic-remnant.\nOne of the special magic words for",
+      "repulsive-photo is: delightful-financing.\nOne of the special magic words for dry-encouragement is: aquatic-metro.\nOne of the special magic words for peaceful-buying is: purring-rug.\nOne of the special magic words for stormy-atheist is: vivacious-paper.\nOne of the special magic words for small-genocide is: protective-abbey.\nOne of the special magic words for lively-lute is: acrid-chromolithograph.\nOne of the special magic words for plain-saffron is: sincere-sister-in-law.\nOne of the special magic words for"
+    ]
+  },
+  {
+    "sample_idx": 12,
+    "query": "What is the special magic words for wide-bugle mentioned in the provided text? The special magic words for wide-bugle mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.99138,
+    "indexing_time": 0.07973,
+    "query_embed_time": 0.00324,
+    "search_time": 9e-05,
+    "retrieved": [
+      "message.\nOne of the special magic words for wide-bugle is: rightful-alpha.\nOne of the special magic words for charming-puppy is: stale-vanadyl.\nOne of the special magic words for bawdy-vessel is: stimulating-sac.\nOne of the special magic words for fortunate-drama is: historical-lotion.\nOne of the special magic words for slippery-peak is: straight-hunter.\nOne of the special magic words for alike-leg is: lyrical-twister.\nOne of the special magic words for abusive-scaffold is: astonishing-causal.\nOne of the special magic",
+      "One of the special magic words for wide-statue is: accidental-checkout.\nOne of the special magic words for chunky-venom is: heavy-midline.\nOne of the special magic words for tawdry-mix is: wide-bid.\nOne of the special magic words for excited-fashion is: nauseating-wiseguy.\nOne of the special magic words for spooky-hackwork is: faithful-hay.\nOne of the special magic words for quizzical-turning is: ethereal-agony.\nOne of the special magic words for uttermost-spleen is: juicy-realization."
+    ]
+  },
+  {
+    "sample_idx": 13,
+    "query": "What is the special magic words for broad-waist mentioned in the provided text? The special magic words for broad-waist mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.82597,
+    "indexing_time": 0.07218,
+    "query_embed_time": 0.00341,
+    "search_time": 0.0001,
+    "retrieved": [
+      "pasture.\nOne of the special magic words for sedate-percentage is: jumbled-breadcrumb.\nOne of the special magic words for broad-wingman is: plucky-tolerant.\nOne of the special magic words for vague-trinket is: magical-semester.\nOne of the special magic words for unequaled-ad is: anxious-inventory.\nOne of the special magic words for slimy-cold is: towering-parole.\nOne of the special magic words for bloody-bay is: ruthless-jade.\nOne of the special magic words for muddled-puritan is: obsolete-babo",
+      "mbled-breadcrumb.\nOne of the special magic words for broad-wingman is: plucky-tolerant.\nOne of the special magic words for vague-trinket is: magical-semester.\nOne of the special magic words for unequaled-ad is: anxious-inventory.\nOne of the special magic words for slimy-cold is: towering-parole.\nOne of the special magic words for bloody-bay is: ruthless-jade.\nOne of the special magic words for muddled-puritan is: obsolete-baboon.\nOne of the special magic words for acceptable-heating is: fair-"
+    ]
+  },
+  {
+    "sample_idx": 14,
+    "query": "What is the special magic words for magnificent-antecedent mentioned in the provided text? The special magic words for magnificent-antecedent mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.73895,
+    "indexing_time": 0.0771,
+    "query_embed_time": 0.00346,
+    "search_time": 0.00011,
+    "retrieved": [
+      "ad hoc-melody.\nOne of the special magic words for mighty-grandchild is: terrible-comestible.\nOne of the special magic words for selfish-butler is: spiffy-spaghetti.\nOne of the special magic words for quick-allocation is: condemned-citizenship.\nOne of the special magic words for piquant-enclave is: aboriginal-quit.\nOne of the special magic words for alluring-glass is: hot-admire.\nOne of the special magic words for magnificent-belt is: protective-monster.\nOne of the special magic words for furtive-campus is: mushy-rabbit.",
+      "of the special magic words for magnificent-antecedent is: foregoing-banquette.\nOne of the special magic words for devilish-hygienic is: labored-formation.\nOne of the special magic words for garrulous-rifle is: giant-shelf.\nOne of the special magic words for toothsome-cough is: illegal-primary.\nOne of the special magic words for crooked-grandfather is: halting-opening.\nOne of the special magic words for gifted-theft is: moldy-sigh.\nOne of the special magic words for earsplitting-carving is: callous-pond"
+    ]
+  },
+  {
+    "sample_idx": 15,
+    "query": "What is the special magic words for voracious-turnstile mentioned in the provided text? The special magic words for voracious-turnstile mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.92628,
+    "indexing_time": 0.06968,
+    "query_embed_time": 0.00313,
+    "search_time": 9e-05,
+    "retrieved": [
+      "voracious-turnstile is: sincere-thrust.\nOne of the special magic words for smiling-nestling is: scattered-hint.\nOne of the special magic words for different-cream is: elderly-individual.\nOne of the special magic words for idiotic-rehospitalisation is: hurried-dust storm.\nOne of the special magic words for impossible-credential is: exuberant-promenade.\nOne of the special magic words for overt-guacamole is: fallacious-vicinity.\nOne of the special magic words for ragged-noise is: helpful-epithelium.\nOne",
+      "the special magic words for unaccountable-net is: shiny-darkness.\nOne of the special magic words for juvenile-dagger is: righteous-affair.\nOne of the special magic words for hysterical-zebra is: unaccountable-plastic.\nOne of the special magic words for observant-wax is: envious-reorganisation.\nOne of the special magic words for thundering-family is: gabby-heel.\nOne of the special magic words for tough-craft is: obscene-cookbook.\nOne of the special magic words for voracious-turnstile is: sincere-thrust.\nOne of the special"
+    ]
+  },
+  {
+    "sample_idx": 16,
+    "query": "What is the special magic words for square-timing mentioned in the provided text? The special magic words for square-timing mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.841,
+    "indexing_time": 0.06645,
+    "query_embed_time": 0.00327,
+    "search_time": 9e-05,
+    "retrieved": [
+      "the special magic words for square-timing is: shivering-motion.\nOne of the special magic words for capricious-fold is: naughty-participation.\nOne of the special magic words for lewd-load is: funny-insurrection.\nOne of the special magic words for dizzy-sequel is: magical-necklace.\nOne of the special magic words for premium-willow is: adorable-expectancy.\nOne of the special magic words for rough-omission is: picayune-factor.\nOne of the special magic words for ruddy-goose is: elderly-pitcher.\nOne of the special magic words for horrible-",
+      "-retrospectivity.\nOne of the special magic words for square-layout is: ritzy-follower.\nOne of the special magic words for kind-hunchback is: icy-deficit.\nOne of the special magic words for watchful-colonisation is: overwrought-blood.\nOne of the special magic words for internal-fisherman is: quickest-shoulder.\nOne of the special magic words for ad hoc-synthesis is: cultured-havoc.\nOne of the special magic words for arrogant-wisdom is: rich-sidestream.\nOne of the special magic words for lying-north is: indus"
+    ]
+  },
+  {
+    "sample_idx": 17,
+    "query": "What is the special magic words for vast-thermals mentioned in the provided text? The special magic words for vast-thermals mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.86169,
+    "indexing_time": 0.06995,
+    "query_embed_time": 0.00307,
+    "search_time": 8e-05,
+    "retrieved": [
+      "the special magic words for vast-thermals is: wise-configuration.\nOne of the special magic words for acceptable-race is: sticky-spelling.\nOne of the special magic words for erratic-brand is: loutish-med.\nOne of the special magic words for political-sanction is: sweet-newsletter.\nOne of the special magic words for jealous-guilder is: selective-arithmetic.\nOne of the special magic words for gaping-strike is: broken-humidity.\nOne of the special magic words for mundane-businessman is: hungry-toilet.\nOne of the special magic words for adorable-airbus is: adhesive",
+      "for squealing-warm-up is: narrow-cupboard.\nOne of the special magic words for shivering-opposite is: good-adaptation.\nOne of the special magic words for unbiased-director is: damaging-necktie.\nOne of the special magic words for handsome-plenty is: evil-prow.\nOne of the special magic words for petite-constitution is: aboriginal-configuration.\nOne of the special magic words for melted-sky is: long-fortune.\nOne of the special magic words for silky-boot is: dry-melody.\nOne of the special magic words for oceanic-notepad is: fuzzy"
+    ]
+  },
+  {
+    "sample_idx": 18,
+    "query": "What is the special magic words for kind-monument mentioned in the provided text? The special magic words for kind-monument mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.93834,
+    "indexing_time": 0.07431,
+    "query_embed_time": 0.00335,
+    "search_time": 0.0001,
+    "retrieved": [
+      "special magic words for average-monument is: sulky-crack.\nOne of the special magic words for dizzy-scout is: uttermost-waist.\nOne of the special magic words for worthless-ceramic is: crazy-inability.\nOne of the special magic words for strange-stake is: internal-testament.\nOne of the special magic words for icy-favorite is: successful-strobe.\nOne of the special magic words for green-outlay is: petite-shallot.\nOne of the special magic words for hollow-great-grandmother is: available-explorer.\nOne of the special magic words for elegant-celebration is",
+      "One of the special magic words for impossible-furry is: splendid-palate.\nOne of the special magic words for vigorous-tandem is: better-epee.\nOne of the special magic words for minor-transformation is: racial-memorial.\nOne of the special magic words for fortunate-recorder is: oafish-hydrolysis.\nOne of the special magic words for sincere-monument is: illustrious-sustenance.\nOne of the special magic words for yellow-bottling is: shiny-kneejerk.\nOne of the special magic words for gifted-monastery is: makeshift-forebear.\nOne of the special"
+    ]
+  },
+  {
+    "sample_idx": 19,
+    "query": "What is the special magic words for orange-dragon mentioned in the provided text? The special magic words for orange-dragon mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.95496,
+    "indexing_time": 0.07758,
+    "query_embed_time": 0.00324,
+    "search_time": 9e-05,
+    "retrieved": [
+      "words for orange-dragon is: kind-bomb.\nOne of the special magic words for difficult-azimuth is: annoying-fisherman.\nOne of the special magic words for unsightly-resume is: venomous-thorn.\nOne of the special magic words for gifted-airbag is: spiffy-modeling.\nOne of the special magic words for credible-treasury is: misty-ptarmigan.\nOne of the special magic words for small-dividend is: grouchy-plumber.\nOne of the special magic words for inquisitive-pension is: gabby-tuition.\nOne of the special",
+      "for straight-outlet is: cultured-wear.\nOne of the special magic words for orange-dragon is: kind-bomb.\nOne of the special magic words for difficult-azimuth is: annoying-fisherman.\nOne of the special magic words for unsightly-resume is: venomous-thorn.\nOne of the special magic words for gifted-airbag is: spiffy-modeling.\nOne of the special magic words for credible-treasury is: misty-ptarmigan.\nOne of the special magic words for small-dividend is: grouchy-plumber.\nOne of the special magic words for"
+    ]
+  },
+  {
+    "sample_idx": 20,
+    "query": "What is the special magic words for teeny-tiny-nun mentioned in the provided text? The special magic words for teeny-tiny-nun mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.8291,
+    "indexing_time": 0.07066,
+    "query_embed_time": 0.0037,
+    "search_time": 0.00012,
+    "retrieved": [
+      "tiny-nun is: didactic-cliff.\nOne of the special magic words for open-leather is: calm-nitrogen.\nOne of the special magic words for ethereal-kebab is: adaptable-cowboy.\nOne of the special magic words for wonderful-aluminium is: rebellious-ladybug.\nOne of the special magic words for odd-kiosk is: feigned-outrage.\nOne of the special magic words for abhorrent-den is: used-threat.\nOne of the special magic words for green-fiddle is: puny-efficiency.\nOne of the special magic words for old-fashioned",
+      "quack-sarong.\nOne of the special magic words for teeny-tiny-nun is: didactic-cliff.\nOne of the special magic words for open-leather is: calm-nitrogen.\nOne of the special magic words for ethereal-kebab is: adaptable-cowboy.\nOne of the special magic words for wonderful-aluminium is: rebellious-ladybug.\nOne of the special magic words for odd-kiosk is: feigned-outrage.\nOne of the special magic words for abhorrent-den is: used-threat.\nOne of the special magic words for green-fiddle is"
+    ]
+  },
+  {
+    "sample_idx": 21,
+    "query": "What is the special magic words for quaint-taco mentioned in the provided text? The special magic words for quaint-taco mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.75886,
+    "indexing_time": 0.06697,
+    "query_embed_time": 0.00315,
+    "search_time": 9e-05,
+    "retrieved": [
+      "taco is: open-canal.\nOne of the special magic words for brawny-grandpa is: shy-battleship.\nOne of the special magic words for distinct-election is: brash-tissue.\nOne of the special magic words for abundant-cartridge is: gaudy-neighbourhood.\nOne of the special magic words for ambitious-philosophy is: sincere-homosexual.\nOne of the special magic words for plucky-paradise is: typical-hesitation.\nOne of the special magic words for discreet-obesity is: sour-polliwog.\nOne of the special magic words for literate-hare is: macabre",
+      ": fortunate-relationship.\nOne of the special magic words for quaint-taco is: rainy-toot.\nOne of the special magic words for abandoned-gaiters is: weak-wingman.\nOne of the special magic words for changeable-markup is: steep-embassy.\nOne of the special magic words for ubiquitous-larva is: fascinated-dial.\nOne of the special magic words for forgetful-movement is: muddy-trash.\nOne of the special magic words for aberrant-corporation is: dull-tonality.\nOne of the special magic words for late-modeling is: laughable"
+    ]
+  },
+  {
+    "sample_idx": 22,
+    "query": "What is the special magic words for selective-cohesion mentioned in the provided text? The special magic words for selective-cohesion mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.75683,
+    "indexing_time": 0.06505,
+    "query_embed_time": 0.00342,
+    "search_time": 0.0001,
+    "retrieved": [
+      "is: royal-hybridization.\nOne of the special magic words for stimulating-stick is: functional-descent.\nOne of the special magic words for tiny-truth is: cultured-insect.\nOne of the special magic words for perpetual-outline is: rich-buggy.\nOne of the special magic words for abiding-loophole is: materialistic-brace.\nOne of the special magic words for chilly-aglet is: sticky-synergy.\nOne of the special magic words for amuck-dividend is: handsome-manufacturing.\nOne of the special magic words for evasive-pupil is: handsomely",
+      "for fretful-nasal is: panoramic-condor.\nOne of the special magic words for abrupt-synthesis is: plastic-territory.\nOne of the special magic words for available-molar is: helpful-preparation.\nOne of the special magic words for adhesive-level is: colorful-okra.\nOne of the special magic words for immense-delivery is: peaceful-heartwood.\nOne of the special magic words for diligent-atmosphere is: nifty-disruption.\nOne of the special magic words for tacky-pendant is: mighty-advance.\nOne of the special magic words for narrow-"
+    ]
+  },
+  {
+    "sample_idx": 23,
+    "query": "What is the special magic words for ambiguous-brand mentioned in the provided text? The special magic words for ambiguous-brand mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.76506,
+    "indexing_time": 0.06553,
+    "query_embed_time": 0.00312,
+    "search_time": 9e-05,
+    "retrieved": [
+      "special magic words for venomous-businessman is: mute-bidet.\nOne of the special magic words for tasteless-icon is: decisive-radio.\nOne of the special magic words for steadfast-skyline is: harsh-utilization.\nOne of the special magic words for reminiscent-larch is: tacit-irony.\nOne of the special magic words for grouchy-library is: economic-cub.\nOne of the special magic words for womanly-catalogue is: frantic-caramel.\nOne of the special magic words for abashed-pantry is: receptive-thirst.\nOne of the special magic words",
+      "marketer is: gainful-blog.\nOne of the special magic words for shy-mile is: plausible-glasses.\nOne of the special magic words for tested-boss is: tasty-equivalent.\nOne of the special magic words for calm-friend is: tasteful-ziggurat.\nOne of the special magic words for orange-resemblance is: onerous-genocide.\nOne of the special magic words for lewd-bitter is: adaptable-latitude.\nOne of the special magic words for onerous-bead is: fertile-motion.\nOne of the special magic words for arrogant-recess is: like"
+    ]
+  },
+  {
+    "sample_idx": 24,
+    "query": "What is the special magic words for blue-statistics mentioned in the provided text? The special magic words for blue-statistics mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.85287,
+    "indexing_time": 0.0679,
+    "query_embed_time": 0.00343,
+    "search_time": 9e-05,
+    "retrieved": [
+      "the special magic words for blue-eyed-happening is: clear-coincidence.\nOne of the special magic words for lewd-retrospect is: pointless-habitat.\nOne of the special magic words for alike-sampan is: fluttering-noir.\nOne of the special magic words for magnificent-batting is: habitual-jaw.\nOne of the special magic words for dramatic-grapefruit is: fancy-mercury.\nOne of the special magic words for redundant-stretch is: nutty-access.\nOne of the special magic words for incandescent-gasket is: fancy-input.\nOne of the special",
+      "weird is: lazy-kindness.\nOne of the special magic words for blue-owl is: blue-eyed-dagger.\nOne of the special magic words for humdrum-anything is: light-chafe.\nOne of the special magic words for hard-quantity is: busy-washtub.\nOne of the special magic words for wandering-iridescence is: lyrical-jazz.\nOne of the special magic words for annoyed-colorlessness is: unsightly-bacterium.\nOne of the special magic words for sordid-participation is: subdued-mariachi.\nOne of the special magic words for flippant-marks"
+    ]
+  },
+  {
+    "sample_idx": 25,
+    "query": "What is the special magic words for trite-quilt mentioned in the provided text? The special magic words for trite-quilt mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.93098,
+    "indexing_time": 0.06745,
+    "query_embed_time": 0.00322,
+    "search_time": 9e-05,
+    "retrieved": [
+      "is: ad hoc-road.\nOne of the special magic words for trite-quilt is: makeshift-potty.\nOne of the special magic words for amuck-manifestation is: lazy-conversion.\nOne of the special magic words for alive-photographer is: gabby-professor.\nOne of the special magic words for clear-reflection is: thankful-statue.\nOne of the special magic words for labored-tofu is: filthy-granny.\nOne of the special magic words for tense-thread is: condemned-herbs.\nOne of the special magic words for subsequent-ability is: combative-cough.\nOne of the",
+      "-thickness.\nOne of the special magic words for rapid-vogue is: piquant-anarchy.\nOne of the special magic words for jumpy-hearth is: rare-marker.\nOne of the special magic words for various-candidacy is: trite-disembodiment.\nOne of the special magic words for round-menopause is: accessible-meal.\nOne of the special magic words for wacky-chassis is: uppity-compress.\nOne of the special magic words for rightful-hermit is: taboo-listening.\nOne of the special magic words for mindless-toga is: telling-"
+    ]
+  },
+  {
+    "sample_idx": 26,
+    "query": "What is the special magic words for bumpy-timeline mentioned in the provided text? The special magic words for bumpy-timeline mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.90241,
+    "indexing_time": 0.06905,
+    "query_embed_time": 0.00338,
+    "search_time": 9e-05,
+    "retrieved": [
+      "gender.\nOne of the special magic words for bumpy-timeline is: numerous-clarinet.\nOne of the special magic words for political-kayak is: dysfunctional-arm-rest.\nOne of the special magic words for faded-addition is: fascinated-cob.\nOne of the special magic words for cold-craw is: obsequious-fortune.\nOne of the special magic words for wise-living is: dark-provision.\nOne of the special magic words for smoggy-sow is: gruesome-notice.\nOne of the special magic words for grubby-intelligence is: dusty",
+      "of the special magic words for bumpy-gang is: assorted-supervision.\nOne of the special magic words for imperfect-speaking is: lackadaisical-marker.\nOne of the special magic words for huge-cousin is: wet-reach.\nOne of the special magic words for heartbreaking-helium is: tightfisted-doorbell.\nOne of the special magic words for draconian-design is: successful-variant.\nOne of the special magic words for exultant-assurance is: gaudy-colonisation.\nOne of the special magic words for macabre-repeat is: flat-bootie."
+    ]
+  },
+  {
+    "sample_idx": 27,
+    "query": "What is the special magic words for stormy-crewmember mentioned in the provided text? The special magic words for stormy-crewmember mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.80658,
+    "indexing_time": 0.06878,
+    "query_embed_time": 0.00313,
+    "search_time": 8e-05,
+    "retrieved": [
+      "is: frail-gradient.\nOne of the special magic words for modern-crewmember is: harsh-search.\nOne of the special magic words for imported-latitude is: nauseating-spokeswoman.\nOne of the special magic words for incompetent-hike is: ahead-mailbox.\nOne of the special magic words for anxious-grouper is: upset-interpreter.\nOne of the special magic words for strong-clergyman is: amused-mode.\nOne of the special magic words for boorish-catastrophe is: utopian-lake.\nOne of the special magic words for royal-feeding is: broken-",
+      ".\nOne of the special magic words for stormy-crewmember is: bad-quilt.\nOne of the special magic words for heavenly-nightclub is: handsomely-forecast.\nOne of the special magic words for silent-asymmetry is: noiseless-cliff.\nOne of the special magic words for knowledgeable-pickle is: yummy-volcano.\nOne of the special magic words for vacuous-shallot is: flaky-original.\nOne of the special magic words for abortive-walk is: bright-wombat.\nOne of the special magic words for thirsty-ticket is: fertile-"
+    ]
+  },
+  {
+    "sample_idx": 28,
+    "query": "What is the special magic words for futuristic-battalion mentioned in the provided text? The special magic words for futuristic-battalion mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.60088,
+    "indexing_time": 0.06856,
+    "query_embed_time": 0.00342,
+    "search_time": 9e-05,
+    "retrieved": [
+      "battalion is: fat-sole.\nOne of the special magic words for tightfisted-mobile is: rural-matter.\nOne of the special magic words for lying-businessman is: modern-duck.\nOne of the special magic words for languid-principle is: ethereal-cayenne.\nOne of the special magic words for flaky-pilgrimage is: bawdy-total.\nOne of the special magic words for careful-coach is: hissing-notoriety.\nOne of the special magic words for evasive-hamster is: fearless-middle.\nOne of the special magic words for wacky-placement is:",
+      "special magic words for longing-battalion is: fluffy-bias.\nOne of the special magic words for mindless-analogy is: observant-complicity.\nOne of the special magic words for majestic-reminder is: homely-dune.\nOne of the special magic words for motionless-conspiracy is: bashful-lending.\nOne of the special magic words for outstanding-numeracy is: fat-architecture.\nOne of the special magic words for efficient-rye is: faded-magazine.\nOne of the special magic words for impartial-revitalization is: salty-celeriac.\nOne of the special magic"
+    ]
+  },
+  {
+    "sample_idx": 29,
+    "query": "What is the special magic words for learned-treaty mentioned in the provided text? The special magic words for learned-treaty mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.77385,
+    "indexing_time": 0.07225,
+    "query_embed_time": 0.00333,
+    "search_time": 0.0001,
+    "retrieved": [
+      "of the special magic words for round-treaty is: woebegone-skean.\nOne of the special magic words for fair-afoul is: gaudy-impulse.\nOne of the special magic words for square-carving is: longing-teaching.\nOne of the special magic words for fresh-skyline is: irate-placode.\nOne of the special magic words for overrated-illustration is: powerful-ptarmigan.\nOne of the special magic words for scarce-uncle is: productive-tooth.\nOne of the special magic words for orange-surge is: evil-publishing.\nOne of the special",
+      "the special magic words for trite-thanks is: spooky-centre.\nOne of the special magic words for rural-border is: selective-footstep.\nOne of the special magic words for halting-physical is: fragile-gum.\nOne of the special magic words for tan-interconnection is: labored-oversight.\nOne of the special magic words for swift-know-how is: embarrassed-thermostat.\nOne of the special magic words for acoustic-craft is: dark-publisher.\nOne of the special magic words for scandalous-doorknob is: forgetful-boxer"
+    ]
+  },
+  {
+    "sample_idx": 30,
+    "query": "What is the special magic words for combative-harmonize mentioned in the provided text? The special magic words for combative-harmonize mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.63237,
+    "indexing_time": 0.07497,
+    "query_embed_time": 0.00345,
+    "search_time": 0.0001,
+    "retrieved": [
+      ": honorable-cartridge.\nOne of the special magic words for righteous-cheesecake is: threatening-twine.\nOne of the special magic words for selective-fur is: average-complicity.\nOne of the special magic words for helpless-page is: low-burn.\nOne of the special magic words for resolute-marimba is: rotten-niche.\nOne of the special magic words for concerned-yin is: smiling-basketball.\nOne of the special magic words for romantic-leverage is: abrasive-stage.\nOne of the special magic words for towering-corridor is: ignorant-laryngitis.",
+      "praise is: long-grill.\nOne of the special magic words for knowing-pitching is: upbeat-convertible.\nOne of the special magic words for cheerful-stinger is: voiceless-herb.\nOne of the special magic words for endurable-identification is: helpful-site.\nOne of the special magic words for flawless-fight is: painful-chromolithograph.\nOne of the special magic words for absurd-helicopter is: melted-louse.\nOne of the special magic words for questionable-garage is: clear-semicolon.\nOne of the special magic words for willing-brownie is: knowing"
+    ]
+  },
+  {
+    "sample_idx": 31,
+    "query": "What is the special magic words for fertile-caboose mentioned in the provided text? The special magic words for fertile-caboose mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.84445,
+    "indexing_time": 0.0698,
+    "query_embed_time": 0.00319,
+    "search_time": 9e-05,
+    "retrieved": [
+      "special magic words for fertile-hamster is: gorgeous-gran.\nOne of the special magic words for swanky-adverb is: macho-guilty.\nOne of the special magic words for bashful-priest is: tiresome-graft.\nOne of the special magic words for possessive-feeling is: gullible-seaside.\nOne of the special magic words for quaint-pasta is: spotless-spade.\nOne of the special magic words for selfish-stall is: divergent-mukluk.\nOne of the special magic words for funny-tulip is: sedate-sightseeing",
+      "magic words for prickly-vein is: rampant-choice.\nOne of the special magic words for sordid-kitchen is: holistic-cattle.\nOne of the special magic words for rapid-basket is: brash-arcade.\nOne of the special magic words for juicy-infant is: halting-clove.\nOne of the special magic words for tense-glue is: damaging-tolerant.\nOne of the special magic words for substantial-pressurization is: plucky-interaction.\nOne of the special magic words for beautiful-reindeer is: macabre-truck.\nOne of the special magic words for"
+    ]
+  },
+  {
+    "sample_idx": 32,
+    "query": "What is the special magic words for moldy-farm mentioned in the provided text? The special magic words for moldy-farm mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.93461,
+    "indexing_time": 0.07266,
+    "query_embed_time": 0.00344,
+    "search_time": 0.0001,
+    "retrieved": [
+      "words for moldy-top-hat is: good-guideline.\nOne of the special magic words for murky-threat is: abashed-winery.\nOne of the special magic words for perpetual-study is: functional-vitality.\nOne of the special magic words for redundant-home is: invincible-turn.\nOne of the special magic words for dysfunctional-primary is: futuristic-bunkhouse.\nOne of the special magic words for alleged-pawnshop is: credible-step-mother.\nOne of the special magic words for abashed-detention is: typical-sponsorship.\nOne of the special magic words for",
+      "-somersault.\nOne of the special magic words for moldy-drake is: early-needle.\nOne of the special magic words for wide-eardrum is: splendid-beck.\nOne of the special magic words for glib-spread is: ambiguous-pajamas.\nOne of the special magic words for brief-statute is: faded-fragrance.\nOne of the special magic words for jaded-notice is: squalid-orient.\nOne of the special magic words for luxuriant-pantology is: overconfident-house.\nOne of the special magic words for squeamish-catcher is:"
+    ]
+  },
+  {
+    "sample_idx": 33,
+    "query": "What is the special magic words for colorful-depression mentioned in the provided text? The special magic words for colorful-depression mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.74657,
+    "indexing_time": 0.06902,
+    "query_embed_time": 0.00318,
+    "search_time": 9e-05,
+    "retrieved": [
+      "-flicker is: satisfying-hemp.\nOne of the special magic words for thoughtful-shot is: mammoth-barrier.\nOne of the special magic words for old-socialism is: shocking-show.\nOne of the special magic words for homeless-dictionary is: exclusive-mathematics.\nOne of the special magic words for garrulous-handful is: deeply-coal.\nOne of the special magic words for salty-ficlet is: charming-cheddar.\nOne of the special magic words for handsomely-criticism is: dirty-wild.\nOne of the special magic words for depressed-due is: abrasive-",
+      "words for hypnotic-color is: spotless-controversy.\nOne of the special magic words for loving-hall is: earsplitting-bicycle.\nOne of the special magic words for uneven-pass is: clear-tile.\nOne of the special magic words for madly-mapping is: tricky-psychoanalyst.\nOne of the special magic words for aboriginal-helo is: snotty-apartment.\nOne of the special magic words for tacit-latitude is: massive-equivalent.\nOne of the special magic words for shivering-filter is: gruesome-hide.\nOne of the special magic words for political-"
+    ]
+  },
+  {
+    "sample_idx": 34,
+    "query": "What is the special magic words for fluttering-counseling mentioned in the provided text? The special magic words for fluttering-counseling mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.81488,
+    "indexing_time": 0.06708,
+    "query_embed_time": 0.00344,
+    "search_time": 9e-05,
+    "retrieved": [
+      "print.\nOne of the special magic words for fluttering-counseling is: flagrant-tobacco.\nOne of the special magic words for enthusiastic-preoccupation is: abhorrent-backup.\nOne of the special magic words for quack-lout is: ethereal-wreck.\nOne of the special magic words for panicky-sunlight is: permissible-gerbil.\nOne of the special magic words for condemned-commonsense is: purple-trait.\nOne of the special magic words for adventurous-loss is: giddy-ground.\nOne of the special magic words for torpid-spokeswoman is:",
+      "innovation.\nOne of the special magic words for excited-kite is: jittery-intestine.\nOne of the special magic words for abounding-cobbler is: busy-investor.\nOne of the special magic words for wild-wake is: frightened-combination.\nOne of the special magic words for vague-stab is: tenuous-confidentiality.\nOne of the special magic words for kaput-hug is: furtive-thrift.\nOne of the special magic words for defiant-tan is: thinkable-alert.\nOne of the special magic words for abaft-ligula is: didactic"
+    ]
+  },
+  {
+    "sample_idx": 35,
+    "query": "What is the special magic words for adjoining-squatter mentioned in the provided text? The special magic words for adjoining-squatter mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.88045,
+    "indexing_time": 0.0687,
+    "query_embed_time": 0.00312,
+    "search_time": 9e-05,
+    "retrieved": [
+      "One of the special magic words for adjoining-squatter is: onerous-supermarket.\nOne of the special magic words for aberrant-rocket is: rabid-blackfish.\nOne of the special magic words for volatile-pulley is: lovely-miss.\nOne of the special magic words for observant-hawk is: defiant-drizzle.\nOne of the special magic words for acceptable-snail is: kindhearted-orchard.\nOne of the special magic words for delicious-minority is: real-vanity.\nOne of the special magic words for cloistered-bonfire is: divergent-bagpipe.",
+      "is: ubiquitous-horse.\nOne of the special magic words for fat-daikon is: fantastic-riddle.\nOne of the special magic words for outstanding-tortoise is: ethereal-guava.\nOne of the special magic words for envious-outside is: roasted-libido.\nOne of the special magic words for plain-life is: stimulating-armoire.\nOne of the special magic words for famous-comment is: embarrassed-milepost.\nOne of the special magic words for cloudy-lake is: wooden-permission.\nOne of the special magic words for adjoining-squatter is: onerous-"
+    ]
+  },
+  {
+    "sample_idx": 36,
+    "query": "What is the special magic words for legal-eurocentrism mentioned in the provided text? The special magic words for legal-eurocentrism mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.7856,
+    "indexing_time": 0.07099,
+    "query_embed_time": 0.00346,
+    "search_time": 9e-05,
+    "retrieved": [
+      "words for legal-officer is: typical-responsibility.\nOne of the special magic words for miscreant-council is: absorbed-pirate.\nOne of the special magic words for smoggy-creation is: subsequent-microlending.\nOne of the special magic words for scarce-bandolier is: lean-spiderling.\nOne of the special magic words for righteous-horseradish is: squeamish-kebab.\nOne of the special magic words for malicious-complication is: ludicrous-bijou.\nOne of the special magic words for combative-tenant is: tense-thrust.",
+      "lovely-eurocentrism is: maniacal-homogenate.\nOne of the special magic words for seemly-finger is: lying-matrix.\nOne of the special magic words for labored-hatchling is: jealous-caviar.\nOne of the special magic words for exclusive-cope is: rough-development.\nOne of the special magic words for soggy-jeep is: hysterical-realm.\nOne of the special magic words for shrill-helicopter is: itchy-hour.\nOne of the special magic words for abrasive-adverb is: irate-somewhere.\nOne of the special magic"
+    ]
+  },
+  {
+    "sample_idx": 37,
+    "query": "What is the special magic words for hollow-eraser mentioned in the provided text? The special magic words for hollow-eraser mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.80622,
+    "indexing_time": 0.07116,
+    "query_embed_time": 0.00321,
+    "search_time": 9e-05,
+    "retrieved": [
+      "for hollow-eraser is: skillful-conception.\nOne of the special magic words for young-assignment is: ripe-shoulder.\nOne of the special magic words for fluttering-preface is: onerous-script.\nOne of the special magic words for flawless-form is: thinkable-probability.\nOne of the special magic words for alcoholic-buffet is: dry-lard.\nOne of the special magic words for cloistered-flow is: guiltless-operator.\nOne of the special magic words for warlike-distribution is: mushy-cesspool.\nOne of the special magic words for pretty-",
+      "hotel is: therapeutic-cormorant.\nOne of the special magic words for hollow-eraser is: skillful-conception.\nOne of the special magic words for young-assignment is: ripe-shoulder.\nOne of the special magic words for fluttering-preface is: onerous-script.\nOne of the special magic words for flawless-form is: thinkable-probability.\nOne of the special magic words for alcoholic-buffet is: dry-lard.\nOne of the special magic words for cloistered-flow is: guiltless-operator.\nOne of the special magic words for warlike-distribution is: mu"
+    ]
+  },
+  {
+    "sample_idx": 38,
+    "query": "What is the special magic words for synonymous-distribution mentioned in the provided text? The special magic words for synonymous-distribution mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 3.02667,
+    "indexing_time": 0.07009,
+    "query_embed_time": 0.00325,
+    "search_time": 8e-05,
+    "retrieved": [
+      "the special magic words for synonymous-distribution is: labored-eggnog.\nOne of the special magic words for scintillating-catcher is: lavish-clank.\nOne of the special magic words for dynamic-midden is: silky-windscreen.\nOne of the special magic words for innocent-telephone is: literate-dusk.\nOne of the special magic words for scientific-atrium is: industrious-half.\nOne of the special magic words for enchanting-waiver is: delightful-inglenook.\nOne of the special magic words for blue-eyed-turnip is: woeb",
+      "the special magic words for rhetorical-elongation is: uttermost-feng.\nOne of the special magic words for premium-eponym is: x-rated-insulation.\nOne of the special magic words for strange-triangle is: old-fashioned-warrant.\nOne of the special magic words for direful-metric is: known-custard.\nOne of the special magic words for lopsided-food is: yielding-equipment.\nOne of the special magic words for spiffy-car is: capable-magazine.\nOne of the special magic words for mighty-pants is: yielding-globe.\nOne"
+    ]
+  },
+  {
+    "sample_idx": 39,
+    "query": "What is the special magic words for versed-league mentioned in the provided text? The special magic words for versed-league mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.78202,
+    "indexing_time": 0.07459,
+    "query_embed_time": 0.00333,
+    "search_time": 9e-05,
+    "retrieved": [
+      "magic words for versed-league is: successful-perspective.\nOne of the special magic words for freezing-pita is: numerous-bell.\nOne of the special magic words for malicious-fault is: gabby-pajamas.\nOne of the special magic words for hurt-coordination is: expensive-frog.\nOne of the special magic words for evil-wink is: cloistered-herring.\nOne of the special magic words for pumped-dump truck is: lean-eyeglasses.\nOne of the special magic words for stale-wingtip is: lean-brain.\nOne of the special magic words for new-workout is:",
+      ".\nOne of the special magic words for mysterious-collectivisation is: average-severity.\nOne of the special magic words for exotic-parser is: juvenile-daughter.\nOne of the special magic words for encouraging-breakfast is: used-aquarium.\nOne of the special magic words for foregoing-semantics is: foregoing-league.\nOne of the special magic words for typical-senate is: nasty-glue.\nOne of the special magic words for available-steam is: versed-boundary.\nOne of the special magic words for sordid-motorcar is: juvenile-public.\nOne of the special magic words"
+    ]
+  },
+  {
+    "sample_idx": "average",
+    "accuracy": 0.7,
+    "embedding_time": 2.83101,
+    "indexing_time": 0.07157,
+    "query_embed_time": 0.00328,
+    "search_time": 0.0001
+  }
+]

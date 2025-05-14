@@ -14,11 +14,11 @@ class FaissRetriever(BaseRetriever):
         self.use_gpu = use_gpu
 
     def build_index(self, context_chunks):
-        t0 = time.time()
+        t0 = time.perf_counter()
         embeddings = self.model.encode(context_chunks, convert_to_numpy=True, device=self.device)
-        self._embed_time = time.time() - t0
+        self._embed_time = time.perf_counter() - t0
 
-        t1 = time.time()
+        t1 = time.perf_counter()
         faiss.normalize_L2(embeddings)
         dim = embeddings.shape[1]
         index = faiss.IndexFlatIP(dim)
@@ -28,16 +28,16 @@ class FaissRetriever(BaseRetriever):
         index.add(embeddings)
         self.index = index
         self.context_chunks = context_chunks
-        self._index_time = time.time() - t1
+        self._index_time = time.perf_counter() - t1
 
     def retrieve(self, query, top_k=10):
-        t0 = time.time()
+        t0 = time.perf_counter()
         query_vec = self.model.encode([query], convert_to_numpy=True, device=self.device)
         faiss.normalize_L2(query_vec)
-        self._query_embed_time = time.time() - t0
+        self._query_embed_time = time.perf_counter() - t0
 
-        t1 = time.time()
+        t1 = time.perf_counter()
         D, I = self.index.search(query_vec, top_k)
-        self._search_time = time.time() - t1
+        self._search_time = time.perf_counter() - t1
 
         return [self.context_chunks[i] for i in I[0]]

@@ -15,111 +15,112 @@ def load_dataset(name, file_path, num_samples=200, chunk_size=16, embedding_mode
     else:
         raise ValueError(f"Unsupported dataset: {name}")
 
-
 def compute_accuracy(retrieved_chunks, reference_answer):
     """
-    Compute accuracy by checking if any retrieved chunk contains the answer.
+    Compute accuracy. If any retrieved chunk contains the reference answer, it is considered a hit.
     """
     for chunk in retrieved_chunks:
         if reference_answer.lower() in chunk.lower():
             return 1.0
     return 0.0
 
-def benchmark_retriever(dataset_name, file_path, retriever_name, embedding_model, num_samples=1000, gpu=None, chunk_size=16):
-    """
-    Benchmark the retriever on the dataset.
-    
-    Args:
-        gpu (str or None): GPU ID (e.g., "0" or "1"). If None, uses CPU.
-    """
+def benchmark_retriever(dataset_name, file_path, retriever_name, embedding_model, num_samples, gpu, chunk_size, output_path, top_k):
     os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
+    device = f"cuda:{gpu}" if gpu is not None and torch.cuda.is_available() else "cpu"
 
-    # Determine device
-    if gpu is not None:
-        available_gpus = torch.cuda.device_count()
-        try:
-            gpu = int(gpu)
-            if gpu >= available_gpus:
-                raise ValueError(f"Invalid GPU ID: {gpu}. Available GPUs: {list(range(available_gpus))}")
-            os.environ["CUDA_VISIBLE_DEVICES"] = str(gpu)
-            device = f"cuda:0"
-            print(f"[INFO] Using GPU {gpu}")
-        except ValueError as e:
-            print(f"[ERROR] {e}. Falling back to CPU.")
-            device = "cpu"
-    else:
-        device = "cpu"
-        print("[INFO] Using CPU")
+    # Dataset loading
+    data, _ = load_dataset(dataset_name, file_path, num_samples=num_samples, chunk_size=chunk_size, embedding_model=embedding_model)
 
-    os.environ["EMBEDDING_MODEL"] = embedding_model
-    data, chunking_info = load_dataset(dataset_name, file_path, num_samples=num_samples, chunk_size=chunk_size, embedding_model=embedding_model)
-
-    tokenizer = AutoTokenizer.from_pretrained(embedding_model)
-
-    retriever_args = {
-        "model_name": embedding_model,
-        "use_gpu": gpu is not None,
-        # "device": device
-    }
-
+    # Initialize retriever
+    retriever_args = {"model_name": embedding_model, "use_gpu": gpu is not None}
     retriever = RETRIEVER_CLASSES[retriever_name](**retriever_args)
 
     overall_results = []
-    accuracy_scores = []
+    
+    # Metrics accumulators for averaging
+    total_accuracy = 0.0
+    total_embed_time = 0.0
+    total_index_time = 0.0
+    total_query_embed_time = 0.0
+    total_search_time = 0.0
 
-    print(f"\n--- Running {retriever_name} on {device} with model {embedding_model} ---")
+    print(f"\n--- Running {retriever_name} on {dataset_name} with {embedding_model} | chunk_size={chunk_size} ---")
 
-    for sample_idx, sample in enumerate(tqdm(data)):
+    for sample_idx, sample in enumerate(tqdm(data, desc="Benchmarking Samples")):
         query = sample["query"]
         context_chunks = sample["context"]
         reference_answer = sample["answer"]
 
-        # Timing metrics
-        sample_embed_time = 0.0
-        sample_index_time = 0.0
-        sample_query_embed_time = 0.0
-        sample_search_time = 0.0
+        # Timing variables for each sample
+        embed_time = 0.0
+        index_time = 0.0
+        query_embed_time = 0.0
+        search_time = 0.0
 
-        # Build index (context_chunks is just one item in the list)
+        # Building index
         if hasattr(retriever, "build_index"):
+            # 执行 build_index 方法，该方法内部已将 embed_time 和 index_time 分离
             retriever.build_index(context_chunks)
-            sample_embed_time += getattr(retriever, "_embed_time", 0.0)
-            sample_index_time += getattr(retriever, "_index_time", 0.0)
 
-        # Retrieve
-        retrieved = retriever.retrieve(query=query, top_k=1)
-        sample_query_embed_time += getattr(retriever, "_query_embed_time", 0.0)
-        sample_search_time += getattr(retriever, "_search_time", 0.0)
+            # 直接提取嵌入时间和索引时间
+            embed_time = getattr(retriever, "_embed_time", 0.0)
+            index_time = getattr(retriever, "_index_time", 0.0)
 
-        # Calculate accuracy
+        # Single Retrieval Process
+        # retrieve 方法内部已将 query_embed_time 和 search_time 分离
+        retrieved = retriever.retrieve(query=query, top_k=top_k)
+
+        # 直接提取 query embedding 和 search 时间
+        query_embed_time = getattr(retriever, "_query_embed_time", 0.0)
+        search_time = getattr(retriever, "_search_time", 0.0)
+        # Compute accuracy
         accuracy = compute_accuracy(retrieved, reference_answer)
-        accuracy_scores.append(accuracy)
 
+        # Accumulate metrics
+        total_accuracy += accuracy
+        total_embed_time += embed_time
+        total_index_time += index_time
+        total_query_embed_time += query_embed_time
+        total_search_time += search_time
+
+        # Record per-sample results
         sample_result = {
             "sample_idx": sample_idx,
-            "accuracy": round(accuracy, 4),
-            "embedding_time": round(sample_embed_time, 5),
-            "indexing_time": round(sample_index_time, 5),
-            "query_embed_time": round(sample_query_embed_time, 5),
-            "search_time": round(sample_search_time, 5)
+            "query": query,
+            "accuracy": accuracy,
+            "embedding_time": round(embed_time, 5),
+            "indexing_time": round(index_time, 5),
+            "query_embed_time": round(query_embed_time, 5),
+            "search_time": round(search_time, 5),
+            "retrieved": retrieved[:top_k]  # Only keep top_k results
         }
-
         overall_results.append(sample_result)
 
-    # Average accuracy
-    avg_accuracy = sum(accuracy_scores) / len(accuracy_scores) if accuracy_scores else 0.0
+    # Calculate average metrics
+    num_samples = len(data)
+    avg_accuracy = total_accuracy / num_samples if num_samples > 0 else 0.0
+    avg_embed_time = total_embed_time / num_samples if num_samples > 0 else 0.0
+    avg_index_time = total_index_time / num_samples if num_samples > 0 else 0.0
+    avg_query_embed_time = total_query_embed_time / num_samples if num_samples > 0 else 0.0
+    avg_search_time = total_search_time / num_samples if num_samples > 0 else 0.0
+
+    # Add average metrics as a separate entry
+    average_result = {
+        "sample_idx": "average",
+        "accuracy": round(avg_accuracy, 5),
+        "embedding_time": round(avg_embed_time, 5),
+        "indexing_time": round(avg_index_time, 5),
+        "query_embed_time": round(avg_query_embed_time, 5),
+        "search_time": round(avg_search_time, 5),
+    }
+    overall_results.append(average_result)
 
     # Save results to JSON
-    output_dir = "benchmark_outputs"
-    os.makedirs(output_dir, exist_ok=True)
-
-    gpu_suffix = f"gpu{gpu}" if gpu is not None else "cpu"
-    output_path = os.path.join(output_dir, f"{retriever_name}_{dataset_name}_accuracy_{gpu_suffix}.json")
-
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w") as f:
         json.dump(overall_results, f, indent=2)
 
-    print(f"\nBenchmark completed. Results saved to {output_path}")
+    print(f"\nResults saved to {output_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -130,6 +131,8 @@ if __name__ == "__main__":
     parser.add_argument("--samples", type=int, default=1000)
     parser.add_argument("--gpu", type=str, default=None, help="GPU ID to use (e.g., 0, 1). Leave empty for CPU.")
     parser.add_argument("--chunk_size", type=int, default=16)
+    parser.add_argument("--top_k", type=int, default=8)
+    parser.add_argument("--output_path", type=str, default="benchmark_results.json")
     args = parser.parse_args()
 
     benchmark_retriever(
@@ -139,5 +142,7 @@ if __name__ == "__main__":
         embedding_model=args.embedding_model,
         num_samples=args.samples,
         gpu=args.gpu,
-        chunk_size=args.chunk_size
+        chunk_size=args.chunk_size,
+        top_k=args.top_k,
+        output_path=args.output_path
     )

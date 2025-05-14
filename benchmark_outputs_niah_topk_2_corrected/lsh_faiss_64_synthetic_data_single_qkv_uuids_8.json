@@ -1,0 +1,770 @@
+[
+  {
+    "sample_idx": 0,
+    "query": "What is the special magic uuids for 3ab80043-0455-4086-ba90-75e9186692c2 mentioned in the provided text? The special magic uuids for 3ab80043-0455-4086-ba90-75e9186692c2 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.54069,
+    "indexing_time": 0.02227,
+    "query_embed_time": 0.00266,
+    "search_time": 0.00027,
+    "retrieved": [
+      "magic uuids for 2a555cf0-4646-48a1-bccc-aa0bba080b1d is: 3297f977-4d69-49e6-a5f6-903966423790.\nOne of the special magic",
+      "of the special magic uuids for a0ea2cbc-5866-4401-9a6d-0830122af57c is: 1c7b36e0-6718-4ebb-8a65-54f5db5ad61f.",
+      "df-ea65-4246-bd76-fa63fdc8fe00.\nOne of the special magic uuids for 604e3433-ca71-491b-a1f0-d7642ba473e0 is: e7534d",
+      "of the special magic uuids for 5522c187-7032-4f7d-ab4b-8b7ab1ec4118 is: b5a7eaf6-ea29-4d07-b3f2-aa5d9f9d",
+      "the special magic uuids for b0e5544f-1acd-486e-a301-b3a4636f42fc is: cdffdb8e-0954-4076-b775-0f58bfbdf1e8.\nOne of the",
+      "magic uuids for 528474ef-3afc-4fda-ab3c-028cbc2033cf is: 0b83d26f-aa01-441b-bf2c-d8c3599b96ec.\nOne of the special",
+      "the special magic uuids for 11842679-85d9-4766-8cb3-7f4983522352 is: f2acac64-8ea4-48dc-a659-31b2fb466888.\nOne of the",
+      "81451-6dbe-42df-9f40-e8d7465b6536 is: e1ec950d-c75c-4793-80e2-5a11efa2499a.\nOne of the special magic uuids for"
+    ]
+  },
+  {
+    "sample_idx": 1,
+    "query": "What is the special magic uuids for c1959ffc-6650-4093-89fd-ab4d54e622fb mentioned in the provided text? The special magic uuids for c1959ffc-6650-4093-89fd-ab4d54e622fb mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.73451,
+    "indexing_time": 0.01992,
+    "query_embed_time": 0.0027,
+    "search_time": 0.00026,
+    "retrieved": [
+      "-05c8-48ed-a10c-5dc2b31bd57f.\nOne of the special magic uuids for 01a9d5dc-9ef1-49b6-acd6-517cafbf94dd is: 7218bf18",
+      "-cae8-405b-b8a3-adcf9c3516ac.\nOne of the special magic uuids for 2c0df638-b960-4b48-8010-71c96d7a7027 is: b15809",
+      "the special magic uuids for c0a0a199-ba7b-4482-bd6b-7f73c9c8a0b9 is: 75767286-4676-4a30-b02f-b4e",
+      "30757-591e-4a6f-9ac6-fcee07d993ce.\nOne of the special magic uuids for cbcdbf05-a7d3-4b3e-baf2-f5444c46e702 is",
+      "-b918-47ac9cd300e5.\nOne of the special magic uuids for 000d5957-1e74-4c34-bd5b-919bda555076 is: 186d13b8-c0df-484",
+      "d054b6744.\nOne of the special magic uuids for 0c16dafc-b4b3-4133-ba34-754affc2e264 is: 5e8fd211-20c7-4525-ad6a-95",
+      "031-0359-4115-ae60-988877043458.\nOne of the special magic uuids for 8509fbc5-d7ad-4c80-ad1b-2d7b85a88783 is: 33bf9b",
+      "One of the special magic uuids for 0f82c622-356b-4671-ba58-bc8568206011 is: 4a35c261-a95f-4d6c-9461-9a1bd0dbb48"
+    ]
+  },
+  {
+    "sample_idx": 2,
+    "query": "What is the special magic uuids for e5de82a9-7da7-48d5-b820-57951ea306a7 mentioned in the provided text? The special magic uuids for e5de82a9-7da7-48d5-b820-57951ea306a7 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.59524,
+    "indexing_time": 0.01888,
+    "query_embed_time": 0.00273,
+    "search_time": 0.00023,
+    "retrieved": [
+      "magic uuids for ece5d1e8-2908-4036-a9e5-06c5edfe338d is: 9d4750f1-dee7-4f0f-a211-599f33d1d7ca.\nOne of",
+      "7.\nOne of the special magic uuids for 566dc924-99ef-490c-9ea7-e232532bd6f8 is: fd15fe54-dfd0-4f0e-80df-d66fd1533d",
+      "the special magic uuids for 5ede700e-86fb-4226-9912-8e1862e1ded4 is: f7dd5f0f-e236-4f3a-97b9-1499b1580c8f.\nOne",
+      "of the special magic uuids for f68caece-e84a-43b0-a129-e01ed4e07db5 is: d79f423f-6be7-4aa3-9423-5bd39540c7",
+      "ae0a933c-1b99-4b07-a6c6-eb61a9996b6e.\nOne of the special magic uuids for 8687df2f-7b6f-4297-b9a9-",
+      "of the special magic uuids for 4e5e3301-582e-488e-b5e4-5e97caa0962f is: a8a201f2-ba5d-4413-9b32-f8df5",
+      "magic uuids for 4f9c8cf5-8726-4bea-97aa-5566ad0adc4d is: 48dba09d-3c6e-4d25-87b9-21efb8533882.\nOne",
+      "special magic uuids for 3fa8d6a1-8f76-4820-b9ee-b0f68d8a2c84 is: 5cc4b6f6-85ff-43be-b4c9-e15091843"
+    ]
+  },
+  {
+    "sample_idx": 3,
+    "query": "What is the special magic uuids for 7fa9e65d-38bb-415a-a27e-9a4087edc5dd mentioned in the provided text? The special magic uuids for 7fa9e65d-38bb-415a-a27e-9a4087edc5dd mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.70886,
+    "indexing_time": 0.0185,
+    "query_embed_time": 0.00266,
+    "search_time": 0.00023,
+    "retrieved": [
+      "uuids for b9066454-83f2-447c-a142-b21714fc6977 is: 15eabf69-441b-441e-ac7c-926570c41b5a.\nOne of the special magic uuid",
+      "d-82c7-48b0-a77a-55360e8a6472.\nOne of the special magic uuids for e1748ef8-8685-4418-a4e0-e650029c9b89 is: 45f",
+      "the special magic uuids for 7123420c-ca23-4746-914d-c31e56d778bf is: 17ae7ccc-d59d-41f9-89f2-8ff770fda01d.\nOne of the",
+      "the special magic uuids for a87a1dc8-b2a1-4dab-ba19-029d8ae13fde is: 3214a9d6-f23d-47bd-a765-a9065b1cb53a.\nOne",
+      "dc0776ea2.\nOne of the special magic uuids for 4c98b1d0-832f-4fbf-8794-2c696be4b6c1 is: 57c33175-cc8e-462a",
+      "of the special magic uuids for 6341496d-60c6-4712-acb2-4dccf846872a is: 324b52b0-b9e6-4b96-9670-0114ca18e4e4",
+      "of the special magic uuids for 2eef3a41-728f-465f-a556-9e3d27d73ea6 is: 1b364f6c-0023-432c-9f07-e1559d01b0",
+      "special magic uuids for 3ab67c8d-a03c-4027-97c6-137da5ad7c40 is: 109372c2-d77d-47c9-98c2-94b754695afb.\nOne"
+    ]
+  },
+  {
+    "sample_idx": 4,
+    "query": "What is the special magic uuids for e4dba8e1-b1eb-4c6f-8744-88fd445008d2 mentioned in the provided text? The special magic uuids for e4dba8e1-b1eb-4c6f-8744-88fd445008d2 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.57369,
+    "indexing_time": 0.02106,
+    "query_embed_time": 0.00272,
+    "search_time": 0.00027,
+    "retrieved": [
+      "magic uuids for 980c21dc-1dc1-434b-8b3c-87a819c982c5 is: 5b65e5af-4ace-4a20-ab4c-6cea3ba4017b.\nOne of the special",
+      "uuids for 26869116-6d43-4b63-ac4f-b4f14ccd8990 is: ee59fef3-2892-41fe-bf10-90a0b538c99a.\nOne of the special",
+      "5de-1cb1-4592-8cd6-9fda5a12dcdf.\nOne of the special magic uuids for e143161f-1147-475a-8991-b9d1e4e86e9f is: ec",
+      "One of the special magic uuids for 6af1f2b8-6788-48af-8bf7-a4ad111096d5 is: 544db219-afeb-455f-a547-1ebef4c84490",
+      "2ddd4c-ab42-4ecc-8ad7-b310289be48a.\nOne of the special magic uuids for 17251b1b-0099-4bd5-b460-6809bd015e7f is",
+      "magic uuids for 4cf28f4f-3ead-46dc-a37f-fe113d8deaae is: 729fa664-7933-42e2-a743-0a0fa1f4aa0a.\nOne of the special",
+      "the special magic uuids for 80184487-c140-42db-afe0-8ee991dd9531 is: 8de7fab8-9055-4e4f-8942-242182db8150.\nOne of the special",
+      "magic uuids for 303862ac-49fe-4536-a9a7-c967efbe55ad is: 44d748e4-a8ba-4bc2-b85d-e654701f8e43.\nOne of the special magic"
+    ]
+  },
+  {
+    "sample_idx": 5,
+    "query": "What is the special magic uuids for f6e65314-f6e4-404b-b6d6-6f81e7aaa8aa mentioned in the provided text? The special magic uuids for f6e65314-f6e4-404b-b6d6-6f81e7aaa8aa mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.65867,
+    "indexing_time": 0.01876,
+    "query_embed_time": 0.00266,
+    "search_time": 0.00026,
+    "retrieved": [
+      "of the special magic uuids for f6e65314-f6e4-404b-b6d6-6f81e7aaa8aa is: 88fec4fe-88f9-4a12-a25b-b147c6a8500",
+      "the special magic uuids for 6d746d6f-a1ba-4e78-9af0-d41f1a679266 is: 2e414d1e-177c-431a-92af-6b902fc55ea",
+      "-28f2-4536-b8cf-80e49d94df5c.\nOne of the special magic uuids for 6cfad174-6bae-412e-8650-7306ed14320e is: ff06e574",
+      "0-bdc1-66aacfbfd587.\nOne of the special magic uuids for 888f8158-f670-49d6-ad59-4c851b426835 is: 91cfe84e-73e8-",
+      "special magic uuids for b6d62a3a-6cb8-4e54-9e6c-1a98abf4c7af is: 967c43f2-6576-490c-97d7-2ede743412e",
+      "d-9fca8df2600f.\nOne of the special magic uuids for 60ef5624-61da-4850-873c-7e7fd76d6d34 is: fd58962f-656b-42ff-9",
+      "7.\nOne of the special magic uuids for 6a5fa80f-6523-47e8-81b5-c7387737bb20 is: 822b421e-ec9c-4275-b723-43be650a4a",
+      "-b00a-22006d666950.\nOne of the special magic uuids for 6a23893d-84ea-453e-9eef-1641725a1c9f is: 7f3edf47-d2d4-4731"
+    ]
+  },
+  {
+    "sample_idx": 6,
+    "query": "What is the special magic uuids for 2545c4b4-33a1-42cd-8e88-e4e748f21b47 mentioned in the provided text? The special magic uuids for 2545c4b4-33a1-42cd-8e88-e4e748f21b47 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.81553,
+    "indexing_time": 0.01926,
+    "query_embed_time": 0.00267,
+    "search_time": 0.00027,
+    "retrieved": [
+      "of the special magic uuids for 266a58f4-4ca5-45fc-abab-28ef396188b4 is: 7482f5fe-d67d-4b65-85d3-a5163365814d.\nOne",
+      "the special magic uuids for e0024e42-8474-49f9-bd16-2db536eb5afa is: a5a4aac1-1adc-4a92-b574-fad895ef61bd",
+      "magic uuids for 70391af1-22e5-422b-b36f-a424761b1f17 is: eaaa4997-2a0c-413d-bafd-4a4a2124266b.\nOne of the special magic",
+      "the special magic uuids for 657879f2-0a8a-4012-92a8-86c3575c5843 is: b53ce4af-497a-4d2f-bc9e-adff049dcbb0.\nOne",
+      "3e4ea-749b-441c-ae1d-53631a7921ff.\nOne of the special magic uuids for b1f30c9c-26b7-4639-8039-ae6262bf6157 is: 9e24",
+      "special magic uuids for ab232b53-59d0-4126-a75e-75682a1c526e is: 1129dd40-e9c7-49f2-9408-d787a781b5d2",
+      "of the special magic uuids for 1f4a1bc1-bcd2-4e87-a864-d82e631be8d3 is: e09a264e-817c-4b46-a1b1-e629ac",
+      "the special magic uuids for 26ab8894-f202-4a1a-8423-e8c7de025ff4 is: 47becf80-e9d9-427c-abb2-96e15c81e128"
+    ]
+  },
+  {
+    "sample_idx": 7,
+    "query": "What is the special magic uuids for fb0694cb-79b3-4d21-9bd9-d3144fbed8c4 mentioned in the provided text? The special magic uuids for fb0694cb-79b3-4d21-9bd9-d3144fbed8c4 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.85148,
+    "indexing_time": 0.01904,
+    "query_embed_time": 0.00266,
+    "search_time": 0.00022,
+    "retrieved": [
+      "the special magic uuids for fc0b6fbb-b741-4110-8afc-9ba8018d598a is: be146738-f0ab-41e1-8b20-408d29641bf7.\nOne of",
+      "the special magic uuids for 7cdc6a4b-0c3e-4abc-b36c-50683ab7dc2b is: 41193c4e-aec4-497f-bf16-5d4c962b",
+      "of the special magic uuids for 36852b4c-ab09-42f2-b844-010042dd2a47 is: d7787b46-ec0b-4930-b163-5b8af789f10",
+      "-fb01-4153-9d04-9f3c24c9f1bf.\nOne of the special magic uuids for 4e1ce1f8-feef-439b-850d-5ddaac5da899 is: 52b8",
+      "special magic uuids for fc43b9f2-0ce5-4ce6-bd47-884864da3c4b is: 952a0c5b-53bb-47eb-8561-8a073bfd4d2c",
+      ".\nOne of the special magic uuids for bf0e8411-ff7a-4357-b0a7-adb5ff62481d is: b394410b-62f2-4bf7-8956-95bd84833be",
+      "the special magic uuids for f0902a23-cb27-4579-b4ba-3bd63b7a9e91 is: c2ab57c8-fcfa-40a5-a89d-df909460d",
+      "magic uuids for bc5784fb-f9a4-4a04-be92-c8708970a751 is: ad59c457-9402-4467-aeef-5396ee4b61bd.\nOne"
+    ]
+  },
+  {
+    "sample_idx": 8,
+    "query": "What is the special magic uuids for c03b7119-6296-4c46-808f-f097dce5781b mentioned in the provided text? The special magic uuids for c03b7119-6296-4c46-808f-f097dce5781b mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.55252,
+    "indexing_time": 0.02041,
+    "query_embed_time": 0.00268,
+    "search_time": 0.00022,
+    "retrieved": [
+      "of the special magic uuids for 63f6ecaf-cb83-482f-af1f-db033f8183e1 is: ebe9b1eb-826b-47f2-9bcc-23e8e1538a54",
+      "of the special magic uuids for fd341f3b-a216-4467-a6dc-7cdfdc7e73d7 is: f6f7b509-c08c-4af8-bcc3-e959170",
+      "special magic uuids for fc1bd2b2-3ca6-43f7-91f5-8fcda3688534 is: 9345f0b3-686a-40f3-95a8-ecf745e2b71c",
+      "of the special magic uuids for df76c7d4-3e1b-494f-8924-20de99bfa632 is: 71ebf582-1448-40e7-87bf-d17bdc9d8211",
+      "the special magic uuids for cbb7f55a-0ba8-4b25-9f1b-5d259773b820 is: fc537671-7cbd-4fac-ae7a-5fea3d150",
+      "One of the special magic uuids for c7d156ad-78f8-40ec-b1cf-4312beb26ca5 is: 37d7af7f-c32c-46e0-912b-4a761031a30d.",
+      "of the special magic uuids for 03c14f7e-3b4f-495d-bd9d-0fe6cdb02a6c is: fdab2ac2-1dfe-4600-ac7b-7d1c926eb",
+      "the special magic uuids for dca3be3b-99e8-4b03-8a4b-ce24030763f8 is: 744f76ae-0777-4e94-b2c8-3577b3d"
+    ]
+  },
+  {
+    "sample_idx": 9,
+    "query": "What is the special magic uuids for de69c909-4286-4fbb-97c6-97365a55914e mentioned in the provided text? The special magic uuids for de69c909-4286-4fbb-97c6-97365a55914e mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.53288,
+    "indexing_time": 0.02309,
+    "query_embed_time": 0.00277,
+    "search_time": 0.00027,
+    "retrieved": [
+      "the special magic uuids for 196d591c-ee70-4b51-aadc-ba6648ba71f1 is: 90653599-726e-4412-9692-ba7d1c521c98.\nOne of the",
+      ".\nOne of the special magic uuids for 45c8d6cc-c969-4c46-91c6-ec0354c52869 is: df8c8517-6839-4e22-b3e4-1e84ee",
+      "special magic uuids for eeb86604-3b7e-421d-8c1c-f0855cc0b81e is: 38e93b01-7d05-41cd-b66b-9d70c02f3",
+      ".\nOne of the special magic uuids for 49804dc1-4f5c-4b6d-a7c1-d576c900ca02 is: 6640cab6-e73e-4eeb-b16e-319eec",
+      "-a0c0-bc5c22112074.\nOne of the special magic uuids for 80af80cb-2a6f-45ac-b22f-5ca5a6171438 is: 91ffedc5-dd97-463b-be",
+      "-bfc1-14a641d187a6.\nOne of the special magic uuids for 026617ac-7936-4c5f-a822-63f6f375f9d3 is: ec8858f7-ea6b-",
+      "special magic uuids for d0e767d0-5cd6-427c-bb8c-de9510fe84ab is: 3c44a484-427c-4b21-8b8e-0cc80c519e",
+      "-b1da-c50e2cc42b38.\nOne of the special magic uuids for a1957420-255c-43cc-960c-8674082f1967 is: 5bf95686-84e9-47a4-b9"
+    ]
+  },
+  {
+    "sample_idx": 10,
+    "query": "What is the special magic uuids for e186014b-de18-4ead-8659-81ccc126dacf mentioned in the provided text? The special magic uuids for e186014b-de18-4ead-8659-81ccc126dacf mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.50495,
+    "indexing_time": 0.01944,
+    "query_embed_time": 0.00278,
+    "search_time": 0.00022,
+    "retrieved": [
+      "the special magic uuids for f0889604-da62-46fc-891c-65bb2c2a0c61 is: 397a7e4c-221f-4c85-9a99-5b772d",
+      "of the special magic uuids for 88ab8c6d-9516-4a5c-b045-b65a6fac721e is: a3c62e8b-b8df-42c5-90f2-8edf9436",
+      "the special magic uuids for 80582f5f-e620-4187-9d80-adcf1df052d1 is: c9a85e7b-e29b-4a95-adc5-8b105e52a1",
+      "the special magic uuids for 85b6088b-5f28-4d2a-b86c-52a15f64531d is: bdfaeab3-725c-4e62-97ee-60e67112a517",
+      "the special magic uuids for 584553bc-7a61-4a80-af0e-62a9325c07f4 is: 8a3f4d23-860b-4e55-bf9f-b9c1a52a32",
+      "of the special magic uuids for ea86185f-bea2-4388-be18-059c3b85da36 is: c5393575-4b2f-476b-8f73-72f74188c3ac.",
+      "of the special magic uuids for 05d08aa3-81a3-40c0-8a91-7494dac1e62e is: 18412a9d-d001-45c4-bacb-7baf7151fb",
+      "One of the special magic uuids for e0e32211-d563-4839-bb37-b3686c2fdb01 is: 3992562f-8ffb-4cf4-9347-8a38c0bd78"
+    ]
+  },
+  {
+    "sample_idx": 11,
+    "query": "What is the special magic uuids for 852309dc-96be-46eb-a946-90836e63cf28 mentioned in the provided text? The special magic uuids for 852309dc-96be-46eb-a946-90836e63cf28 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.80924,
+    "indexing_time": 0.02352,
+    "query_embed_time": 0.00272,
+    "search_time": 0.00026,
+    "retrieved": [
+      "magic uuids for a799bbf3-3966-4678-8302-3116f4cc6543 is: edfd58a5-2519-4242-a4f0-93c74086f34d.\nOne of the special",
+      "of the special magic uuids for 068cc1dc-5643-4254-8113-eed921205536 is: 2f260c18-bee8-4002-8c91-115c923afd21.\nOne of the special magic u",
+      "magic uuids for 872223fc-daf5-4309-9d02-d041100f2cac is: 10889ed0-c02f-402e-8ce7-10dcd24eaa56.\nOne of the special magic u",
+      "of the special magic uuids for 82d41e86-69b6-401e-968c-57c7f39735d3 is: 557924c0-78c5-437b-a33a-824cc0e557dc.",
+      "the special magic uuids for 60365450-1c8c-486b-806a-fb07db189f84 is: ea896832-2e3f-45ff-8f6e-94a2784288",
+      "the special magic uuids for 843159f1-b5f1-4136-8579-a0b3a2d7fefd is: 67aa26b0-b8d3-470e-9bdd-71b0f0b410",
+      "-8497-4011-bd92-4b25b0d25ba4.\nOne of the special magic uuids for 852309dc-96be-46eb-a946-90836e63cf28 is: ef84f",
+      "magic uuids for 723afd29-eebf-4ce0-96be-4ccec0942caf is: a16641c6-aa75-486c-aa28-3c868573079c.\nOne of the special magic uuid"
+    ]
+  },
+  {
+    "sample_idx": 12,
+    "query": "What is the special magic uuids for 8eacc584-9141-496f-a72d-c3400fd7ec52 mentioned in the provided text? The special magic uuids for 8eacc584-9141-496f-a72d-c3400fd7ec52 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.58256,
+    "indexing_time": 0.01979,
+    "query_embed_time": 0.00269,
+    "search_time": 0.00025,
+    "retrieved": [
+      "-e034-44b3-ad6a-348e824fb9df.\nOne of the special magic uuids for feb0d9ce-a2ab-4e89-8b16-a63c2fcae5f3 is: 8129bf",
+      "-ec9f-4b1b-8130-e1df853a7018.\nOne of the special magic uuids for 27289eaf-b245-499b-b58c-eb762bf065df is: 90b4b",
+      "magic uuids for 91356d4e-436b-49e2-b23a-52b30af31879 is: 7d51419b-8a68-4de1-8185-d994a8a7dba6",
+      "of the special magic uuids for 62a6295f-7976-4a7a-81d7-f3600720b183 is: 43c9a8f4-ef16-4f00-821c-e1d01401601",
+      "of the special magic uuids for 714b726e-b47c-4111-b954-dec6490e48f0 is: a6caad73-63c1-4485-b7e3-a944a554c7b4",
+      "of the special magic uuids for 08592853-28d2-4a32-9ef5-26a3d79c9c4b is: 6cc78da2-5715-4b89-936a-e0f48a2e43b",
+      "special magic uuids for 4091a803-6a5a-4f28-b9e1-77a4e6fdb527 is: 891126fa-2968-4811-8898-bc03b88981f0",
+      "magic uuids for 87a9f061-b271-4f93-accd-efd56870582f is: 0353c511-082e-4d47-bd95-549e322aa9f5"
+    ]
+  },
+  {
+    "sample_idx": 13,
+    "query": "What is the special magic uuids for a9231b40-62e5-4028-b955-d9b470cbf75e mentioned in the provided text? The special magic uuids for a9231b40-62e5-4028-b955-d9b470cbf75e mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.79095,
+    "indexing_time": 0.01901,
+    "query_embed_time": 0.00267,
+    "search_time": 0.00023,
+    "retrieved": [
+      "the special magic uuids for 7ca0653b-818b-4a46-8395-7a92cd8946ff is: 4bdf766b-a16f-45bb-aac1-2bfdaf57a73f.",
+      "One of the special magic uuids for 19b7544a-d75c-4339-bc10-56e0464b4ab4 is: 871e0176-423c-4c29-8b1e-301188232c76",
+      "special magic uuids for 57ac1d9c-b5b7-4242-85ad-16ed0a33ab25 is: 1e7785db-22d9-454c-a40f-ddfdc530915c.\nOne of the",
+      "57cb8.\nOne of the special magic uuids for 9554416a-675a-4459-a034-031b30793f19 is: 52f5020f-cfb3-42ba-b9b2-91cef3158",
+      "09950aae28a9.\nOne of the special magic uuids for dc7e5988-99c9-48b1-9675-d27f8a423ca8 is: 8198236f-5a81-4f88-",
+      "of the special magic uuids for 0aa7409d-08e1-40f8-a207-aeeb7327a4e6 is: 23564438-c71c-4998-9bdf-098e8371d2",
+      "magic uuids for 586724a9-4b57-42ea-a729-b4d1175d315d is: a0f2bb5f-8ecc-4759-baba-549166512f17.\nOne of the special magic",
+      "of the special magic uuids for 41d56cc8-766a-4334-9a92-b0d49035eb13 is: 7fd017ba-984f-4a7d-bf8c-0d9abc5c838"
+    ]
+  },
+  {
+    "sample_idx": 14,
+    "query": "What is the special magic uuids for e866db01-122e-418c-9cac-ecf9ab366e7c mentioned in the provided text? The special magic uuids for e866db01-122e-418c-9cac-ecf9ab366e7c mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.63658,
+    "indexing_time": 0.02179,
+    "query_embed_time": 0.0027,
+    "search_time": 0.00023,
+    "retrieved": [
+      "of the special magic uuids for ea87be66-e80f-43d3-aef5-c91ea1824f60 is: c576c21d-b9df-4c9c-86fb-fdf1938e0e82",
+      "the special magic uuids for e61a1c64-b84b-4d0b-8951-82227379f8db is: f0195b61-e15b-48e7-9397-f7a98474",
+      "special magic uuids for e5c6f44d-737c-4d4c-8318-937d911c6ba7 is: 29128d2c-bb1c-46f0-b01d-18745a7891af.\nOne",
+      "ea-4931-b699-4f627d6367ad.\nOne of the special magic uuids for 8271ffc9-7bf2-4204-a425-cdfbd81f17ac is: 52757eb4-91",
+      "One of the special magic uuids for ee91656c-4c7c-4eda-ac1d-95295024ffa5 is: 09ee8fa1-43e2-497b-b46f-d784620a8aec.\nOne",
+      "magic uuids for 6692ae2c-e5de-4f21-ba4f-ba0dd723baca is: 40003371-853c-4325-a7df-c2a07317ce6a.\nOne of the special magic",
+      ".\nOne of the special magic uuids for e6b44604-4c94-4ca0-a3af-5066b590dd62 is: 7ccfdd4f-68a8-44df-9dbe-cc772587",
+      "the special magic uuids for b893af8c-3994-49fe-865c-ee00b957750c is: ef9466fb-1471-4f38-97b2-9781870e8df4.\nOne of"
+    ]
+  },
+  {
+    "sample_idx": 15,
+    "query": "What is the special magic uuids for a3cdb1c2-2af6-44c3-b07a-a8908de91f40 mentioned in the provided text? The special magic uuids for a3cdb1c2-2af6-44c3-b07a-a8908de91f40 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.51902,
+    "indexing_time": 0.02031,
+    "query_embed_time": 0.00265,
+    "search_time": 0.00024,
+    "retrieved": [
+      "dc0f3.\nOne of the special magic uuids for 7a075539-2934-4bce-9e61-fb73f9e9f6b6 is: 33f7d4eb-b62e-4425-a45",
+      "the special magic uuids for dce4c8ce-8461-4c58-9cb1-b788188c5441 is: abd006de-13a6-424b-9634-ee236b4f18ab.\nOne of",
+      "the special magic uuids for 3a3aa1f7-e494-4a8c-8584-a3d2a69cd887 is: cebbf42f-60c5-4f75-b035-3dda494c1e13",
+      "of the special magic uuids for 47d1fc04-d629-4183-bd22-3925ffafabd3 is: 0a3aeaa4-1b8e-47e0-a2cd-1e0d27d9e863",
+      "-b208-649b82fad009 is: b46e1e27-260c-43f1-819b-9d52d9bc4ad1.\nOne of the special magic uuids for b3daf15b-3113-47f",
+      "-c3cd91afaac2 is: 395d3216-5e4e-4beb-b92f-3c829155c9d5.\nOne of the special magic uuids for aad0a117-209f-4257-ae",
+      "the special magic uuids for c9c5dc33-14eb-440b-8b85-4b30925d951e is: 827952fc-9305-4bf4-bdab-3d06046097ce.\nOne of the",
+      "special magic uuids for 372c80d1-a81c-4a0e-bce7-4e89dd16fec1 is: 8bedeecf-b882-4cc1-b015-1f7f956899"
+    ]
+  },
+  {
+    "sample_idx": 16,
+    "query": "What is the special magic uuids for 4defed20-9f5f-4115-9cad-ad47434cd708 mentioned in the provided text? The special magic uuids for 4defed20-9f5f-4115-9cad-ad47434cd708 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.75146,
+    "indexing_time": 0.02047,
+    "query_embed_time": 0.0027,
+    "search_time": 0.00024,
+    "retrieved": [
+      "special magic uuids for 336db741-a7d7-4a3d-90f3-74a0c8ac5d50 is: 584da1ab-2584-4edd-bd33-265396e981df.\nOne of the special magic",
+      "magic uuids for 1e17ce32-381d-4624-8b5e-3dff8ec19ef4 is: 260262c9-166d-43a7-8d0d-f63296e37207.\nOne of the special magic",
+      "-45ee-9d41-3f0ee7d24942.\nOne of the special magic uuids for e7e8d81c-5451-4ff3-9236-bac97554f322 is: 843f23d6-b1",
+      "magic uuids for 53dd0033-673b-4f0d-9884-415452950fd5 is: 67b7d3f0-ffe6-4958-a405-4a38452554f3.\nOne of the special magic",
+      "the special magic uuids for b3d1f874-04a5-4e36-8ff2-f9db19fda3dd is: 70a24c9d-e087-4387-ac7d-161230fd70e1",
+      "special magic uuids for b543f794-d105-4a25-ae3c-2b744e1bcff4 is: 1f54e66b-2387-4fc9-856b-0d4c813d00cf",
+      "magic uuids for 340df23d-9dc6-40fd-8f51-a9dddf6e1635 is: ec9e3a33-461c-4b29-a73d-21d38cc35b3d.\nOne of the special magic",
+      "One of the special magic uuids for 5524482d-de42-4479-8421-ad6a3d583b62 is: 7d838098-34bc-4ffd-83e7-0092adcd23d6."
+    ]
+  },
+  {
+    "sample_idx": 17,
+    "query": "What is the special magic uuids for 454ad13a-d598-4bc9-8cd6-c0947a584aa9 mentioned in the provided text? The special magic uuids for 454ad13a-d598-4bc9-8cd6-c0947a584aa9 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.7776,
+    "indexing_time": 0.01942,
+    "query_embed_time": 0.00265,
+    "search_time": 0.00024,
+    "retrieved": [
+      "of the special magic uuids for ca428089-4cf5-45e0-ac91-e27fd2a90085 is: 1e8e6e71-c033-46fc-9298-8ea7cc41c",
+      "magic uuids for a4ad503a-863d-498d-ad06-0ca1763c6eed is: c1153824-3456-4021-8b7a-d0dd62da71d6.\nOne of the special",
+      "-2028aa23abec is: 38bf0412-8d49-41e2-9df6-84ae2445c6d7.\nOne of the special magic uuids for 0585c101-b72b-4d00-99d7-",
+      "60aa5-4558-431f-b0f4-37c4918cfd5a.\nOne of the special magic uuids for 2431f102-c966-4b56-8c09-88da0f502709 is:",
+      "One of the special magic uuids for 39a0ff04-4446-4c15-b9ca-c03ea3500f3f is: 24699cb3-3157-4c0f-8817-8e3ba3707107",
+      "of the special magic uuids for eac47821-ec4a-425e-8091-c06a8f28210f is: f69ca492-b38a-485b-a475-bd07e94950",
+      "special magic uuids for 45bd33d1-869f-4001-b8ea-951f56cb065f is: 25de8a7e-a91d-4823-ba89-f8d7d773ccfb.",
+      "4361-ad5e-765daa452e4c is: 3a2adbdf-f508-4d9b-9252-e7cc6378790f.\nOne of the special magic uuids for 19ae3a39-aa70"
+    ]
+  },
+  {
+    "sample_idx": 18,
+    "query": "What is the special magic uuids for 311fd3f0-232d-4c01-872b-395e358f4a2f mentioned in the provided text? The special magic uuids for 311fd3f0-232d-4c01-872b-395e358f4a2f mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.75025,
+    "indexing_time": 0.02241,
+    "query_embed_time": 0.00272,
+    "search_time": 0.00022,
+    "retrieved": [
+      "special magic uuids for 2a239735-00c1-40f3-8e67-acc02cc1dcf3 is: b6aa571b-48a5-4b4e-9daa-b21bb12a5c81",
+      "of the special magic uuids for 1d1cd377-8935-4976-a84c-8c4516dba2a8 is: 323b3ac7-9b4b-4fa7-b705-7bd95b9",
+      "magic uuids for 666ecb18-0e4d-41e5-b3b0-ecd747ddbeda is: 1cfdb8c3-257e-44c7-ab0c-97d65582e88e.\nOne",
+      "the special magic uuids for f3ace4f1-1dc2-4b9a-b845-25e6f868f863 is: bd10b16b-781c-48a0-b3a5-72a00545f",
+      "special magic uuids for a021aef9-4df1-4823-91bc-7400f91dd240 is: 85e26181-b786-4c6c-b0f9-69d2652e2e4e.\nOne",
+      "of the special magic uuids for 1de8efad-54a1-4550-b2a3-e4038f691058 is: 3b2c694f-01a4-4098-91f1-bfd8bca7d42",
+      "special magic uuids for 8881d1c2-4c61-4c75-8144-5b34ed23e95e is: 1aa3cf92-a25a-4175-ad25-f352215e2e90.",
+      "the special magic uuids for 42fff5ec-530f-4eab-89e5-e03f6f9845b2 is: 7bcaa0ca-e490-4d83-ac27-c60a294d452f"
+    ]
+  },
+  {
+    "sample_idx": 19,
+    "query": "What is the special magic uuids for a87bea7d-9db1-4ede-99aa-6433a8409a9b mentioned in the provided text? The special magic uuids for a87bea7d-9db1-4ede-99aa-6433a8409a9b mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.62137,
+    "indexing_time": 0.01903,
+    "query_embed_time": 0.00267,
+    "search_time": 0.00025,
+    "retrieved": [
+      "34.\nOne of the special magic uuids for a87bea7d-9db1-4ede-99aa-6433a8409a9b is: 94081aac-0d96-44bd-a8ce-797b8",
+      "a7ef-950f08880125.\nOne of the special magic uuids for 762dc588-8900-4ea0-99b4-3cd551535f5f is: 942d0407-ebab-4499-",
+      "special magic uuids for e124df7e-c3d2-4064-8137-719d943eb18f is: bc46123d-2ac8-4a78-a965-090199557b45.\nOne of the special magic",
+      "magic uuids for a78b969f-69e1-4dfe-9add-2c474f9103aa is: 1de8d515-1155-4ab8-a134-734e04c3f66d",
+      "e895abe-f339-47b7-b590-17da36c64965 is: 972c29f7-1a28-4128-9799-912168de5f4e.\nOne of the special magic uuids for 72",
+      "the special magic uuids for 51354526-d641-4099-a524-344a726d7ec1 is: eea91a2d-d603-477b-a42d-f4f469e64875.",
+      "24.\nOne of the special magic uuids for 1b77ab17-0579-4e10-87e1-ecb0d3745f32 is: a9acbb55-6767-4d14-a3d6-6dcb322c0",
+      "the special magic uuids for 1574df25-862b-4c6a-a5a5-ec7962fb854e is: 0e414b49-38b7-488b-9c73-2289eec4c9"
+    ]
+  },
+  {
+    "sample_idx": 20,
+    "query": "What is the special magic uuids for 6ae8625b-669b-4d8d-99ad-6ab421e33fe0 mentioned in the provided text? The special magic uuids for 6ae8625b-669b-4d8d-99ad-6ab421e33fe0 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.38505,
+    "indexing_time": 0.01879,
+    "query_embed_time": 0.00267,
+    "search_time": 0.00024,
+    "retrieved": [
+      "special magic uuids for b5ffe8dd-873c-49f1-af9b-1efbb8839298 is: 1a4735fc-c04d-4a4d-adce-9f3aa03b9a8d.\nOne",
+      "is: 3f6cfe1d-0092-47e6-a4e5-26d2cc281666.\nOne of the special magic uuids for e17a07b1-4e93-4e8a-85c0-3cd",
+      "13-453b-a486-618424f08e9c.\nOne of the special magic uuids for 9ecefa12-f2e8-467c-b5ce-65bd2232e206 is: eb2990c1",
+      "the special magic uuids for f64475b4-4f58-4f7d-9cd8-2402ef04f1c2 is: 95cdda8a-6e00-4d38-bc61-c4f2708fd",
+      "the special magic uuids for 6f88b948-9c8f-4343-9066-e2caaab602f1 is: b46391b6-dc8f-4b80-8eee-7013d1b17115",
+      "special magic uuids for 8a0efe66-e1aa-480e-ab4b-073c9a67ed81 is: 5704b032-7b97-49b9-8e06-fd2c876bd",
+      "the special magic uuids for 18b7241d-9ef9-40f9-8bed-7c67e8802e18 is: 4c4cf455-6488-4585-a3bb-02cfbdf22d29.",
+      "is: e5f79abe-1433-455a-8fc5-33845272cb16.\nOne of the special magic uuids for 2b9c37a2-e9bc-482c-b156-1e43a057c25a"
+    ]
+  },
+  {
+    "sample_idx": 21,
+    "query": "What is the special magic uuids for 207905d5-5973-4f02-81c0-af75b7b72f2b mentioned in the provided text? The special magic uuids for 207905d5-5973-4f02-81c0-af75b7b72f2b mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.65502,
+    "indexing_time": 0.01836,
+    "query_embed_time": 0.00268,
+    "search_time": 0.00025,
+    "retrieved": [
+      "e.\nOne of the special magic uuids for 207905d5-5973-4f02-81c0-af75b7b72f2b is: 3d8241c0-270e-4812-9ef6-b5f78",
+      "special magic uuids for d211909e-bd73-4bd3-8fe3-506c4365e523 is: 13a61bf7-0223-4c6e-ad7d-2df3348d4915.",
+      "the special magic uuids for 397599c7-b2cd-424c-b82b-df11b51f70e3 is: 63738af1-70f3-4efc-a2f2-a8d99b8018",
+      "-4f3b-a8b3-343ecdfcbb5e.\nOne of the special magic uuids for 2dda332e-7afb-426c-948e-76b6854ed4cd is: 3e1bfd56-5",
+      "magic uuids for d2137595-00a4-42f3-8789-0892add90570 is: 546059eb-7cc8-403a-a872-7cec1e447052.\nOne of the special magic",
+      "is: 95070dee-1d9f-48ff-b522-d9e6759f2ac3.\nOne of the special magic uuids for 15b1d77d-7953-458d-8295-dd0bbe3dff7a",
+      ".\nOne of the special magic uuids for 2a36c121-9f07-4e42-8fcf-eed92bcabf29 is: 922ddc7c-ee5c-41f3-8a7e-dad5ad0f",
+      "of the special magic uuids for 77529983-0f2c-4528-8fac-43c4dfc254ad is: 7b2dc163-5d6f-4851-8d72-acaea517c75f"
+    ]
+  },
+  {
+    "sample_idx": 22,
+    "query": "What is the special magic uuids for 7a726cdc-d422-4138-990a-d276853d86f2 mentioned in the provided text? The special magic uuids for 7a726cdc-d422-4138-990a-d276853d86f2 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.72753,
+    "indexing_time": 0.02356,
+    "query_embed_time": 0.00278,
+    "search_time": 0.00024,
+    "retrieved": [
+      "special magic uuids for 7a48c7ad-5555-499a-9dfc-3e9bac80d6a1 is: aae561c4-2ba7-4be3-b356-0c01f1faea5b.",
+      "of the special magic uuids for 7dfa27a8-a037-4f18-b6ec-cf8b4102310a is: 0a1a2985-fbe7-4c8b-b4c0-4034c4094865",
+      "the special magic uuids for 21528065-2f8e-46e0-a7d0-ab4293558422 is: 47b26517-73a4-496b-bbd3-e3ccdb0a1791.\nOne",
+      "of the special magic uuids for 4836d793-8b7f-4d7c-b553-d00650f298e3 is: 05635bcc-5072-4273-9833-754b0ace322",
+      "special magic uuids for 4347836d-3818-4cf2-8966-742e29732fb8 is: abef2068-f37e-490a-9575-eeaba4d169aa.\nOne of the special magic uuid",
+      "of the special magic uuids for d7178488-2ac0-47b2-a6f4-556983f2e1ee is: e141ab4c-c61e-4f84-8517-56b004",
+      "One of the special magic uuids for 13047401-716b-44c5-9823-102e407a483f is: 5dca36b6-8559-42bd-8bab-939125efc6a0.\nOne",
+      "special magic uuids for 37d3c776-6c9d-40e0-850f-5af63354600d is: 86406cb3-1f0d-493a-9c14-23b7903ae7f5"
+    ]
+  },
+  {
+    "sample_idx": 23,
+    "query": "What is the special magic uuids for 33a6615e-cbab-4737-a6bd-ac81789d8ac8 mentioned in the provided text? The special magic uuids for 33a6615e-cbab-4737-a6bd-ac81789d8ac8 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.66688,
+    "indexing_time": 0.01968,
+    "query_embed_time": 0.0027,
+    "search_time": 0.00023,
+    "retrieved": [
+      "magic uuids for fdad9d5d-2cfb-4124-81a4-dbaa6cada889 is: 9618dbe6-cc56-4cb2-a4de-f459906d1e44.\nOne of the special",
+      "uuids for 1ef1a532-2090-403c-aa5e-e1980fcf1cea is: bc67c077-3c6b-47fa-80ff-322c2fe1499d.\nOne of the special magic u",
+      "special magic uuids for 26745e8f-82af-464f-9a5d-cbf36a9e7700 is: 6d85eb29-4806-4282-aa27-9f4bbf679cf2.\nOne",
+      "bdf-4d48-82e4-0b1d61876ca5.\nOne of the special magic uuids for 23199424-5d0a-483c-aace-9252a72fcbe9 is: aac12fe9",
+      "020-2d3a-45c7-8428-4ebca4220b74.\nOne of the special magic uuids for effef812-65bf-4bbc-ab84-1e24c1ef9a5c is: e62",
+      "the special magic uuids for 37038731-813b-4bd9-b056-4aca413180a9 is: d259d842-acd2-425d-8fa7-216dd3d9c269.\nOne of the special",
+      "4544-a156-d3787feaa293.\nOne of the special magic uuids for 2665da6f-3957-4d18-9fb0-d70020984d23 is: 7d4b02fd-6bf0",
+      "e0d9bb7c-421e-408e-8430-7a6780c8f043.\nOne of the special magic uuids for 246dc2c8-ab5f-47ab-a47a-a666c132e2da"
+    ]
+  },
+  {
+    "sample_idx": 24,
+    "query": "What is the special magic uuids for 1dc6e45d-49cf-44b1-a276-bb032dcab656 mentioned in the provided text? The special magic uuids for 1dc6e45d-49cf-44b1-a276-bb032dcab656 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.69297,
+    "indexing_time": 0.019,
+    "query_embed_time": 0.00271,
+    "search_time": 0.00026,
+    "retrieved": [
+      "the special magic uuids for 1db01790-3f83-45c9-b6f5-af998d2b2c1c is: 98a425c1-5f8f-4941-bdd4-f2f867",
+      "magic uuids for 83264d8d-ad6d-4d5d-ab2c-98cc55eae443 is: 1fa1d48e-c539-4213-99ed-d38b7120573b.\nOne of the",
+      "magic uuids for 33a2b439-3213-4356-9990-b8c9073f18ec is: 4935f057-23a1-4b5a-9e3a-a166b4ba148b.\nOne of the special",
+      "ed.\nOne of the special magic uuids for 1dc6e45d-49cf-44b1-a276-bb032dcab656 is: 47059bf0-d891-468b-9524-b393490be87c",
+      "the special magic uuids for 810ad763-daf6-4bfd-9234-d36888a4ed61 is: d7ff52ef-bc71-423a-ba6b-e2dc1a72d3",
+      "of the special magic uuids for 2ff63e34-d876-49dc-a543-a6850c7c6c0e is: 79ebda76-3562-4a89-b0d9-b3ae84ff",
+      "uuids for 1a2caa5e-1850-47b8-b11f-ad994dc51bdd is: 3e352165-3f2b-4821-b6ac-0aaced8b2a95.\nOne of the special magic",
+      "of the special magic uuids for 55dc9a44-1536-46ce-945a-c5e93fb9dde1 is: be49fe88-3db2-4891-b721-85ff8f756477.\nOne"
+    ]
+  },
+  {
+    "sample_idx": 25,
+    "query": "What is the special magic uuids for 9e692773-d841-414c-b9bf-914345285f9d mentioned in the provided text? The special magic uuids for 9e692773-d841-414c-b9bf-914345285f9d mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.59992,
+    "indexing_time": 0.01902,
+    "query_embed_time": 0.00266,
+    "search_time": 0.00023,
+    "retrieved": [
+      "the special magic uuids for 53f46466-4081-42b7-b7e7-b0a321adf29f is: d13bb9bc-998e-427b-8e6d-2ebfa5ab6d4",
+      "magic uuids for 20891938-255b-4e15-87be-207a61d7f531 is: 4535ae70-341a-4c23-8a08-7119113de411.\nOne of the special magic uuids",
+      "the special magic uuids for 29224001-40ee-449c-b1d2-6cf9b55edb57 is: 145de7ff-3f58-4845-86d8-8d95c7c2f219.\nOne of",
+      "special magic uuids for 647625cb-8616-4a1a-938f-55a97763fb92 is: eab68372-7d93-4603-a911-b96857e7c140",
+      "of the special magic uuids for 638ed5cb-d861-44cd-8c65-1ec4008229ad is: 26950ea3-6093-4926-8f60-11d3df9616ef.\nOne of the special magic",
+      "27800cedc7.\nOne of the special magic uuids for 1a1048ab-6efa-481f-a6a7-72c99745d076 is: e0687125-a06d-44dc-9357",
+      "of the special magic uuids for 826afa17-558a-4087-bc96-3b6212083f5a is: a2dd88ea-9962-433b-9f93-05abfbdf547b",
+      "of the special magic uuids for 87e6899c-f70c-473a-a587-4f0aa896420e is: 09443d69-9445-4bda-8b6a-614fe8aaa28"
+    ]
+  },
+  {
+    "sample_idx": 26,
+    "query": "What is the special magic uuids for 73b2dc28-b365-4aef-950a-4ea1db1cbe50 mentioned in the provided text? The special magic uuids for 73b2dc28-b365-4aef-950a-4ea1db1cbe50 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.59041,
+    "indexing_time": 0.01891,
+    "query_embed_time": 0.00268,
+    "search_time": 0.00022,
+    "retrieved": [
+      "836b89af338.\nOne of the special magic uuids for 73b2dc28-b365-4aef-950a-4ea1db1cbe50 is: f072af79-61c3-42d6-be06-",
+      "b0bf-8933c1cfc666.\nOne of the special magic uuids for 7a3493ca-603e-427d-9982-459606a03630 is: 01475553-1385-4776-ac",
+      "the special magic uuids for 57f88f94-f7b9-4152-be1a-1be60dbc0f59 is: 4b0ac2aa-dc24-4300-b6c4-30b950f3ec6d",
+      "the special magic uuids for 89c08e74-4385-4de0-9df5-da2e5832fbc0 is: 40d1acf5-cecb-4318-be09-a954a82050b0.\nOne",
+      "-bc31-39d3a225613e.\nOne of the special magic uuids for 31ea142c-e77e-4a8e-9d12-75c9951ce363 is: 9a26673f-c08a-",
+      "special magic uuids for 76b2b432-1d80-4d49-b8a3-35c1bd664955 is: c1485000-495b-4a6c-90c9-0f7996dd7ece.\nOne of",
+      "892b4bc1-cad9-4ac5-bc76-2eb6721bf3ef.\nOne of the special magic uuids for 01a5bf7e-86fe-46a4-ad84-3c745c817e58 is",
+      "of the special magic uuids for bcbaca71-c549-4015-aafe-70964e80c838 is: 2f1a2cee-c0cc-4a21-8313-b9dfe38ab8ad.\nOne of the"
+    ]
+  },
+  {
+    "sample_idx": 27,
+    "query": "What is the special magic uuids for 3409e1be-e9fe-48ef-9843-e9153dbbdab2 mentioned in the provided text? The special magic uuids for 3409e1be-e9fe-48ef-9843-e9153dbbdab2 mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.57532,
+    "indexing_time": 0.01915,
+    "query_embed_time": 0.00274,
+    "search_time": 0.00026,
+    "retrieved": [
+      "of the special magic uuids for 3409e1be-e9fe-48ef-9843-e9153dbbdab2 is: 7d6c1053-d365-4a73-a8e3-253522786e8f.\nOne of",
+      "of the special magic uuids for 190ef295-d9cf-4e5b-b3bb-ca01914ff808 is: 4ceccb70-a579-4dab-ba4c-bd89b0338822",
+      "of the special magic uuids for ed175b46-c196-41fb-b763-9accb2f9d922 is: 7b8e04c4-4d41-426a-8d76-ebd9a",
+      "-975a-ae90ea830826.\nOne of the special magic uuids for 64c5a01b-42be-4766-8e28-2f94f1ee6dcc is: 13e6b7b1-ee3e-425",
+      "e159cc4-4e59-4151-ba9d-576751d4bc90.\nOne of the special magic uuids for d8f6c4ee-9be9-47ea-b123-33386a265e2b is: 63",
+      "the special magic uuids for ea86b338-1a4f-4edd-ad18-aaa58321feb1 is: 1938f969-fd61-45ad-a4e9-c9f6bfb0248e.\nOne of",
+      "of the special magic uuids for 2e4cb171-0427-43f2-aca1-f605de41a38b is: 266d3430-073f-4e47-9354-d6fed1e10cf8.\nOne of the",
+      "33158-ec9e-41d8-b076-40f3adcf3bd4.\nOne of the special magic uuids for e9566363-349c-4f13-afe8-f6de4d50beaa"
+    ]
+  },
+  {
+    "sample_idx": 28,
+    "query": "What is the special magic uuids for 38308652-7dad-4852-a533-d839ac787a19 mentioned in the provided text? The special magic uuids for 38308652-7dad-4852-a533-d839ac787a19 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.72029,
+    "indexing_time": 0.01896,
+    "query_embed_time": 0.00271,
+    "search_time": 0.00023,
+    "retrieved": [
+      "of the special magic uuids for 48e15c7f-5790-4576-a275-cf458bc2695c is: e797979d-e252-447a-b8fd-c1a2f67aea",
+      "magic uuids for 84dcc797-3ff7-4464-b022-b7250e98c91f is: 91c95803-42e2-4ec8-88d7-a8652ec9195a.",
+      "the special magic uuids for 5a72dcc7-1cfb-47f1-b5c5-53a992f91ff9 is: 71e0c423-1ea2-4d6d-b1cd-fe34805343",
+      "of the special magic uuids for 85d44c17-7537-4f7f-a5ba-994df26bfd5d is: ebb239bf-2235-4c7a-b281-1d922d25ab43.\nOne",
+      "of the special magic uuids for 3989015a-61f5-43cf-80e9-d84234450113 is: 6291dc39-a47a-40cc-8e6f-30c585639fb8.\nOne of the",
+      "of the special magic uuids for 4a65b111-ac3f-463e-8b72-9f3ad88fc523 is: d2336488-0225-43e1-b312-2c94566c7cb0",
+      "special magic uuids for 24814115-3354-4a0b-b459-1e1c2d6f3652 is: a8bebc62-f93f-4de7-8987-6a12198098b9.",
+      "magic uuids for 48077267-0010-4822-824d-afe33f4fcfc4 is: 0bad18f3-eb93-4a11-b10a-a04599524cc5.\nOne of the special magic"
+    ]
+  },
+  {
+    "sample_idx": 29,
+    "query": "What is the special magic uuids for f1865306-ae92-4a84-aa0a-c6c02ed2297e mentioned in the provided text? The special magic uuids for f1865306-ae92-4a84-aa0a-c6c02ed2297e mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.46868,
+    "indexing_time": 0.01837,
+    "query_embed_time": 0.00275,
+    "search_time": 0.00024,
+    "retrieved": [
+      "29.\nOne of the special magic uuids for e562a2ae-c2d9-4aa1-bcf3-031fccb412d9 is: 8285b23f-c465-4734-9575-7aac45504a60.",
+      "97-77a1-4c8a-aec8-ee6a565aa6d3.\nOne of the special magic uuids for 0edf12ee-6f3f-4b97-ae91-0c67cf5317fd",
+      "is: 53f3e766-695f-4feb-8da9-8f40b593708f.\nOne of the special magic uuids for ba0f5c8d-52d5-4fb7-8ceb-7df5ec",
+      "9-efa07b91d7bc.\nOne of the special magic uuids for 896e60f4-73ca-4d64-8f34-d64b67f3ba56 is: 73d4ec02-ae57-47d5",
+      "of the special magic uuids for 81010ab7-8ed8-4478-b586-3fc09c13f3ea is: af27ef50-ab9f-4dda-8e93-9e78d853fa2d",
+      ".\nOne of the special magic uuids for 02851f56-0a16-42cc-bf35-96ac82570295 is: 4a3f5904-b25c-4f4c-acdf-f23adf961951.\nOne",
+      "the special magic uuids for 6a48adac-ab24-4b33-8d74-1f22289a8978 is: 58876751-e694-4f78-9153-858ab375ed6",
+      "One of the special magic uuids for 70da9661-7744-4066-bb60-ec99cd1099cd is: f8d8326c-b8a5-4efe-94b2-090680fe3faf.\nOne"
+    ]
+  },
+  {
+    "sample_idx": 30,
+    "query": "What is the special magic uuids for 27be040e-9d09-400a-8a5e-9416a906a4d0 mentioned in the provided text? The special magic uuids for 27be040e-9d09-400a-8a5e-9416a906a4d0 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.66228,
+    "indexing_time": 0.01849,
+    "query_embed_time": 0.00268,
+    "search_time": 0.00024,
+    "retrieved": [
+      "the special magic uuids for 840b8d66-cc0e-4a39-9d11-02ace4173181 is: 21adf5f3-5f7e-4488-a3b7-b1b05a7a42e6",
+      "of the special magic uuids for 38b8dc57-1ec4-4213-8d4b-6c17a7e792bb is: d4842967-bfec-4602-b5e8-54924c6891",
+      "uuids for 729f685f-7138-4529-b585-33e334c71141 is: 331c4885-4fb3-4a6a-aa52-d20630ea2eea.\nOne of the special magic uuids",
+      "One of the special magic uuids for 22e931f1-9183-4e60-9e7e-c7332e841d82 is: 40686526-521f-4b38-be12-9b180d4562",
+      "the special magic uuids for 63a73193-c5a7-4039-b1fc-665caabc2d1b is: 27628e91-1702-4a2f-9393-1b8798d926da.\nOne of",
+      "of the special magic uuids for 313d6f9f-0b63-40a7-a1eb-3d3eeeebd27f is: ab7149dd-6a92-4012-87d5-9b2a49e74590",
+      "c.\nOne of the special magic uuids for 89452cbd-90b9-4287-b058-e0f868818846 is: b665ab12-8b19-4e5d-8498-2581a6f",
+      "of the special magic uuids for ca943da3-5c47-42e8-82fe-a99b72ebe3de is: e5133986-b94f-42ee-a9e3-e08f003cc8"
+    ]
+  },
+  {
+    "sample_idx": 31,
+    "query": "What is the special magic uuids for 83befa65-63e5-4070-ad26-1ba49cb6847e mentioned in the provided text? The special magic uuids for 83befa65-63e5-4070-ad26-1ba49cb6847e mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.73174,
+    "indexing_time": 0.02161,
+    "query_embed_time": 0.0027,
+    "search_time": 0.00025,
+    "retrieved": [
+      "the special magic uuids for 489d2508-b9b1-4752-a18f-a598f940abf7 is: 68bde95c-996f-4fa5-a2c1-61d1dd2dd2da",
+      "special magic uuids for 0624ea4d-6cf1-42e5-9828-c9dc25e990e8 is: 0775feea-3264-4e43-8eea-24cb8c5519d0.\nOne of the special",
+      "special magic uuids for e5654ebb-497c-41fa-a303-9f7165b29a57 is: 805cad5d-1723-4778-a50f-e2ca262f7b4e.\nOne of",
+      "magic uuids for 26657dad-e728-4593-b071-fd60a2634d6c is: e212cc4d-60d0-4435-b612-b1775e175ac4.\nOne of the special",
+      ".\nOne of the special magic uuids for 0a55618e-19b9-4a06-bd33-e211a3c87282 is: 4237cb54-6fb1-4899-84c0-99f02a86",
+      "One of the special magic uuids for 6514da93-5362-4eb2-9519-ea24dd2b56f5 is: e60ac210-fff4-49aa-a5e9-bd8ef5025809.\nOne",
+      "the special magic uuids for 54d59d48-1427-4a85-868d-95cf38cbd475 is: 46ad80e4-c56a-48e5-a6c6-448f62ad9cf6.\nOne",
+      "of the special magic uuids for 6227536c-abc9-4788-929c-b89938701b2a is: 11983893-fa9f-419f-9e7b-68cab0a4e28"
+    ]
+  },
+  {
+    "sample_idx": 32,
+    "query": "What is the special magic uuids for 6a864df5-f478-4a6d-b3e7-f3d1fd2b4b74 mentioned in the provided text? The special magic uuids for 6a864df5-f478-4a6d-b3e7-f3d1fd2b4b74 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.67863,
+    "indexing_time": 0.0221,
+    "query_embed_time": 0.00273,
+    "search_time": 0.00026,
+    "retrieved": [
+      "of the special magic uuids for ee61bfe7-2b86-4016-ae79-49f6523c1bc4 is: 04cbf5f6-9b77-4f01-957d-1ba7ed88c2",
+      "of the special magic uuids for fdcefe60-65f0-4165-b6a0-4cb7b9467b55 is: 3f8716c2-0f4f-48e5-853e-e981e85b",
+      "magic uuids for 6f7e129d-024d-4c40-b2ba-25bd9dcaf748 is: 377b7ad2-fdc4-49c7-ae8f-aafde3952b8b.\nOne",
+      "of the special magic uuids for 6df06b8d-02c4-46c3-82a8-84cb68455060 is: 33222fd6-f65f-4fef-80ab-7ba951eca1d2.\nOne",
+      "magic uuids for 2ec5bf61-7920-47a7-b909-975e9d4b9030 is: 254a9161-c9bf-49e2-96ca-d6274729654e.\nOne of the special",
+      "-6a1b3498d02f is: 000e888e-f5f2-42a1-98a6-707153982d3a.\nOne of the special magic uuids for e5ae16f8-bdc4-4733",
+      "One of the special magic uuids for 6a864df5-f478-4a6d-b3e7-f3d1fd2b4b74 is: 983233e5-3ffc-43b0-a7f5-52177",
+      "One of the special magic uuids for 045371f9-fe1f-452b-952a-e80f080af229 is: 1ce7d5d5-d76c-44c5-bbd7-3c0e7"
+    ]
+  },
+  {
+    "sample_idx": 33,
+    "query": "What is the special magic uuids for 404b3d9b-1e27-4b85-9ad3-6d21729b89f0 mentioned in the provided text? The special magic uuids for 404b3d9b-1e27-4b85-9ad3-6d21729b89f0 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.53095,
+    "indexing_time": 0.02029,
+    "query_embed_time": 0.00268,
+    "search_time": 0.00027,
+    "retrieved": [
+      "magic uuids for 4dbd6fa5-3575-474c-bcab-482310f9c689 is: 6d1a0b3e-2a39-4429-8e48-388df2092412.\nOne of the special",
+      "41a8-bd69-bfda480d92af.\nOne of the special magic uuids for 4f6c668d-9600-4d8c-b561-ccc3e8882987 is: 8cf337",
+      "48e6-bdbb-833d0bb69074.\nOne of the special magic uuids for 404b3d9b-1e27-4b85-9ad3-6d21729b89f0 is: 0329343c-9e",
+      "80-03c7af6407f4.\nOne of the special magic uuids for 4dbd6fa5-3575-474c-bcab-482310f9c689 is: 6d1a0b3e-2a39-4429-",
+      "2d-4c770339a162.\nOne of the special magic uuids for b2dfced8-5559-4ad7-b4a9-570976f8e46f is: 034fdcec-8c0b-4d",
+      "44dc-b5b0-37f8f75a48ab.\nOne of the special magic uuids for 48195c46-03fc-4d03-8412-bd04c9ef2bfa is: 6693e85f-3ad",
+      "of the special magic uuids for 0ec3bf59-9d51-4e9d-9b4a-3a2efa94b413 is: c55d2eb9-5f29-4e26-907a-4ce9e78",
+      "-4933-b9e8-b033c94bd07a.\nOne of the special magic uuids for 2de712ac-3e36-49fd-a209-71324b91f4a8 is: b32cb28"
+    ]
+  },
+  {
+    "sample_idx": 34,
+    "query": "What is the special magic uuids for 724665ea-02ca-4ffe-8946-42af533f551a mentioned in the provided text? The special magic uuids for 724665ea-02ca-4ffe-8946-42af533f551a mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.80486,
+    "indexing_time": 0.0203,
+    "query_embed_time": 0.0027,
+    "search_time": 0.00026,
+    "retrieved": [
+      "One of the special magic uuids for e60c64e1-68d7-418b-a4e0-add0ce6520c2 is: 8976bf57-171f-44f5-95c5-c9a55b3f360",
+      "2-b8a0-d485214cf2b2.\nOne of the special magic uuids for 722865d1-ad95-455d-969f-4cfa6ad4519a is: c1c5487c-5d75",
+      "the special magic uuids for 941eea06-137c-48d1-bef8-fc3b859fec70 is: 5f9a241b-a21a-4a16-852e-0c9e74e627da",
+      ".\nOne of the special magic uuids for 722865d1-ad95-455d-969f-4cfa6ad4519a is: c1c5487c-5d75-4338-91b4-9d0d68579",
+      "of the special magic uuids for 56ef7600-3d86-4380-83c8-1eff995cef72 is: d66bef46-b63a-4fa2-b07a-1a2c624e027",
+      "428f-1ed4-4ad5-83e8-2b1e47035c20.\nOne of the special magic uuids for 6e53ffe0-fda8-4b8f-b1ff-adc325545157 is: 71e23",
+      "of the special magic uuids for 689fc641-9026-4c55-8915-f32108fa7604 is: 947f5d0e-d238-4c41-b91a-c338efc85e94",
+      "of the special magic uuids for 68875cac-b964-41f8-b3dd-dcc19d92ba33 is: 42fe9b2b-2092-441a-9ec3-0f3b9bac13c6."
+    ]
+  },
+  {
+    "sample_idx": 35,
+    "query": "What is the special magic uuids for 17ec0821-815d-4c78-8402-79d910fc319e mentioned in the provided text? The special magic uuids for 17ec0821-815d-4c78-8402-79d910fc319e mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.77472,
+    "indexing_time": 0.02022,
+    "query_embed_time": 0.00267,
+    "search_time": 0.00025,
+    "retrieved": [
+      "-4639-8b04-ca9c435a4924.\nOne of the special magic uuids for 5750934e-1773-4a70-b1d3-0a36ae8bf612 is: 0af8aa02-47be-477",
+      "magic uuids for a375615f-0a4f-4912-8759-293d2e58cbe6 is: ca14ea57-10dc-4773-aa8a-c44f1cef9012.\nOne of the special magic uuid",
+      "the special magic uuids for 62f508fa-ae04-4306-9835-19bf6a959f3d is: 30333a73-a1eb-4be3-a244-66d39e8e8a04.\nOne of the special",
+      "is: 17ef888a-4a24-4ee7-981b-110cd1515c93.\nOne of the special magic uuids for 12a44953-9e72-4cac-b3d1-947ffcec86f8",
+      ".\nOne of the special magic uuids for 63b33722-ca16-4845-9638-912b6d6cb979 is: 912578a0-cbe7-4743-ac13-6214d5d8c244.\nOne",
+      "the special magic uuids for 21658d63-a39e-47af-902c-7be5eb7ade62 is: 17578865-49e3-4dda-9a97-78372f487288.\nOne of the special",
+      "-b23f-6cf44d32b4e4.\nOne of the special magic uuids for 4432dead-960d-440a-83d2-23237a971b18 is: e3cdee46-7a43-441f-b",
+      "magic uuids for 1499523e-9a44-46be-9316-39e70f501c19 is: 8a942fb7-38a0-410f-bed7-af5a301e065a.\nOne of the special magic u"
+    ]
+  },
+  {
+    "sample_idx": 36,
+    "query": "What is the special magic uuids for 604ec14e-8f2e-41eb-a518-2feb11649063 mentioned in the provided text? The special magic uuids for 604ec14e-8f2e-41eb-a518-2feb11649063 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.72579,
+    "indexing_time": 0.01966,
+    "query_embed_time": 0.00274,
+    "search_time": 0.00027,
+    "retrieved": [
+      "magic uuids for 887cb3c8-218d-48fb-8096-8cec1f2ea8c3 is: 706040c8-a1fc-4902-9338-111965fb661e.\nOne of the special magic uuid",
+      "the special magic uuids for 59651680-62e1-481b-bc23-6faf5d5d95d2 is: 108c79a6-b29f-42f6-8a84-c865028692c",
+      "is: 9b5c81db-7c93-4e87-8137-f4637d78b056.\nOne of the special magic uuids for 866a011c-91a2-4bcf-8813-c894",
+      "-6e28-4416-b607-6cb28c19668f.\nOne of the special magic uuids for 18618152-2e9a-4d63-a1f5-6ed0d8097a97 is: c2f6",
+      "e.\nOne of the special magic uuids for 48702944-df59-47d8-bdbc-62a3bee6268b is: 581f74a9-54d5-41f6-acac-0b0d90e6",
+      "9026-a30083506d36.\nOne of the special magic uuids for 5586e367-34b8-40f8-992e-87cad0df4e4c is: d57bbd07-51c4-484",
+      "a9-4edc-9d80-34fff6ad5fc6.\nOne of the special magic uuids for 8069d03e-9180-469f-8c2b-c97d036b1f25 is: e14d",
+      "of the special magic uuids for 8737363b-6b65-47d8-ba1c-776f56b5dc9c is: a7ec7f07-ac0a-4e03-b990-eb585a37"
+    ]
+  },
+  {
+    "sample_idx": 37,
+    "query": "What is the special magic uuids for d9bd2753-5f0d-439f-8275-ceade242207d mentioned in the provided text? The special magic uuids for d9bd2753-5f0d-439f-8275-ceade242207d mentioned in the provided text is",
+    "accuracy": 1.0,
+    "embedding_time": 2.76201,
+    "indexing_time": 0.01895,
+    "query_embed_time": 0.00269,
+    "search_time": 0.00024,
+    "retrieved": [
+      "the special magic uuids for d9bd2753-5f0d-439f-8275-ceade242207d is: 42f97c71-b58b-4313-92e7-ac5207eb31f3.\nOne",
+      "of the special magic uuids for d5929293-127e-493f-b0b6-b182ffbbe50b is: 6ee9e796-3479-4c7c-a4a3-ac2e9f07",
+      "d-a02f-0a89fcf18696.\nOne of the special magic uuids for 0219cbf0-cc27-426f-a021-6f1437d03324 is: b30abb37-4d04",
+      "8e4-4b2b-4b4d-b2cd-5a979e278a6b.\nOne of the special magic uuids for d9bd2753-5f0d-439f-8275-ceade242207",
+      "of the special magic uuids for df9e64eb-8f0a-4efe-a8c0-eb2b5173845e is: 7c2299f9-3cbe-480f-a8df-f5d7d45",
+      "be-4826-91fc-ba6e06213701.\nOne of the special magic uuids for 45346d18-e823-4a03-aab9-a0e199346666 is: 4009f8ac-cc5a-",
+      "ee8-5b976749f0df.\nOne of the special magic uuids for 37150356-e247-41d0-af57-0a9e789274f1 is: 44a8cd61-ca5d-",
+      ".\nOne of the special magic uuids for b85d0260-30b4-4719-a4de-11d77e8d4ea6 is: bc56ac5e-2333-4e57-9015-4f8d4eb6b"
+    ]
+  },
+  {
+    "sample_idx": 38,
+    "query": "What is the special magic uuids for b0670f7b-b64c-403a-a8e6-ec2af703ac07 mentioned in the provided text? The special magic uuids for b0670f7b-b64c-403a-a8e6-ec2af703ac07 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.63758,
+    "indexing_time": 0.02094,
+    "query_embed_time": 0.00273,
+    "search_time": 0.00026,
+    "retrieved": [
+      "of the special magic uuids for b64c7c56-17b3-435d-9083-4ecf233950b1 is: b975e87c-46ec-4d18-bb39-3a67af1cf6ce.",
+      "of the special magic uuids for 657715f1-ab1e-40a8-8f40-e9e08980c9f2 is: 66a4ad70-522e-49af-826c-5e9b97c",
+      "special magic uuids for cc693028-2f7b-4e0c-bd72-257e1cfeed7e is: f85fefd8-d007-48fd-9b8b-d196ee3b30",
+      "the special magic uuids for b51fa829-9d1a-4a2a-8c67-b0aa1a4f25fe is: e7173158-cce8-4598-a772-b32b0fd18",
+      "-b0426aad59d8 is: 09382e76-a4df-484c-abf2-617470fcf256.\nOne of the special magic uuids for 0b62afcc-d61c-45e5",
+      "of the special magic uuids for bd82b8ca-8fb1-4889-b6fc-399d1b1dd3f2 is: 3a798b8d-1c82-4426-9580-1e0436",
+      "-abf5-3c0f96e97184 is: 7ee28679-646c-4be2-b129-ca3f8ef881f9.\nOne of the special magic uuids for 1bc244c3-62",
+      "ee-2bd2-40b7-94a0-c73b6bfae1c8.\nOne of the special magic uuids for b0670f7b-b64c-403a-a8e6-ec2af703ac07 is"
+    ]
+  },
+  {
+    "sample_idx": 39,
+    "query": "What is the special magic uuids for 9f2a3ae6-4710-4f5b-8dbf-c740a99d9a47 mentioned in the provided text? The special magic uuids for 9f2a3ae6-4710-4f5b-8dbf-c740a99d9a47 mentioned in the provided text is",
+    "accuracy": 0.0,
+    "embedding_time": 2.6709,
+    "indexing_time": 0.01903,
+    "query_embed_time": 0.00272,
+    "search_time": 0.00024,
+    "retrieved": [
+      "of the special magic uuids for 9f7863a7-dfda-4b3d-9eef-e73224e08e0e is: de5a0a33-8a7e-43a6-a8ce-22790b85",
+      "of the special magic uuids for 098f5a6e-caf1-4086-8bf2-e7840435de2f is: 74926dbd-9c95-4157-9d0e-b64e3f6189",
+      "of the special magic uuids for e68f2d78-7b07-454d-8271-632c1c03fa94 is: d9d694bd-52a3-4183-8132-b9",
+      "e.\nOne of the special magic uuids for 121866d3-7fe2-45c9-80e2-f2e44c6be93b is: 59ce2697-cf7e-4310-a010-1af8e4e",
+      "special magic uuids for 5f977e7d-66f5-4e24-9b5f-b1bf46822086 is: 47f90ee9-3d26-48cd-b87e-c9b61d19cc17.",
+      "is: 9f8808b1-1e1e-4a4f-b6ea-043893f87f13.\nOne of the special magic uuids for 3566eb48-ae8d-489a-890f-496763",
+      "3d10ad2-833d-4f08-8598-738db846c80d.\nOne of the special magic uuids for 652e2198-e4c1-459d-b862-3d4d901023e7 is",
+      "-79973ddff805.\nOne of the special magic uuids for 9ee6e54d-4d37-4e5c-b5a7-ae6795e3f509 is: 8794f13f-62eb-459"
+    ]
+  },
+  {
+    "sample_idx": "average",
+    "accuracy": 0.075,
+    "embedding_time": 2.65924,
+    "indexing_time": 0.02004,
+    "query_embed_time": 0.0027,
+    "search_time": 0.00024
+  }
+]
